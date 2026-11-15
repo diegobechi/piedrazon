@@ -1,28 +1,38 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-15 06:16",
+ "consultado": "2026-11-15 06:30",
  "radares": {
-  "RMA17": "2026-11-15 05:37",
+  "RMA15": "2026-11-15 06:15",
   "RMA16": "2026-11-15 05:59",
-  "RMA15": "2026-11-15 05:58"
+  "RMA11": "2026-11-15 06:12",
+  "RMA17": "2026-11-15 06:18"
  },
  "nucleos": [
   {
-   "lat": -32.1831,
-   "lon": -64.9897,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
+   "lat": -27.123,
+   "lon": -65.8962,
+   "max_dbz": 60,
+   "tope_km": 5.9,
+   "radar": "RMA11",
+   "nivel": null,
+   "descartado": "tope bajo (5.9 km)"
   },
   {
-   "lat": -30.1295,
-   "lon": -67.257,
-   "max_dbz": 53,
-   "tope_km": 2.3,
-   "radar": "RMA15",
+   "lat": -27.2225,
+   "lon": -65.9787,
+   "max_dbz": 55,
+   "tope_km": 5.9,
+   "radar": "RMA11",
    "nivel": null,
-   "descartado": "tope bajo (2.3 km)"
+   "descartado": "tope bajo (5.9 km)"
+  },
+  {
+   "lat": -32.1375,
+   "lon": -64.9897,
+   "max_dbz": 53,
+   "tope_km": 8.2,
+   "radar": "RMA17",
+   "nivel": null
   },
   {
    "lat": -33.1767,
@@ -32,29 +42,16 @@
    "radar": "RMA16",
    "nivel": null,
    "descartado": "tope bajo (4.7 km)"
+  },
+  {
+   "lat": -30.5959,
+   "lon": -66.6013,
+   "max_dbz": 50,
+   "tope_km": 2.9,
+   "radar": "RMA15",
+   "nivel": null,
+   "descartado": "tope bajo (2.9 km)"
   }
  ],
- "localidades": {
-  "La Paz (Córdoba)": {
-   "nivel": "granizo probable",
-   "km": 6.7,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "visto": "2026-11-15 05:37"
-  },
-  "La Travesía": {
-   "nivel": "granizo probable",
-   "km": 9.2,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "visto": "2026-11-15 05:37"
-  },
-  "Luyaba": {
-   "nivel": "granizo probable",
-   "km": 7.5,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "visto": "2026-11-15 05:37"
-  }
- }
+ "localidades": {}
 }
