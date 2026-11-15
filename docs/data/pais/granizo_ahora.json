@@ -1,29 +1,95 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-15 04:00",
+ "consultado": "2026-11-15 04:15",
  "radares": {
-  "RMA11": "2026-11-15 03:24",
-  "RMA16": "2026-11-15 03:48"
+  "RMA16": "2026-11-15 03:56",
+  "RMA17": "2026-11-15 03:59",
+  "RMA15": "2026-11-15 04:02"
  },
  "nucleos": [
   {
-   "lat": -26.8966,
-   "lon": -65.5764,
-   "max_dbz": 57,
+   "lat": -31.9915,
+   "lon": -64.9897,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "radar": "RMA17",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -33.2309,
+   "lon": -65.0884,
+   "max_dbz": 54,
    "tope_km": 2.9,
-   "radar": "RMA11",
+   "radar": "RMA16",
    "nivel": null,
    "descartado": "tope bajo (2.9 km)"
   },
   {
-   "lat": -33.2129,
-   "lon": -65.0773,
-   "max_dbz": 54,
+   "lat": -30.7122,
+   "lon": -66.633,
+   "max_dbz": 52,
    "tope_km": 2.3,
-   "radar": "RMA16",
+   "radar": "RMA15",
    "nivel": null,
    "descartado": "tope bajo (2.3 km)"
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Alto Resbaloso - El Barrial": {
+   "nivel": "posible granizo",
+   "km": 8.0,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "El Pueblito (dpto. San Javier, Córdoba)": {
+   "nivel": "posible granizo",
+   "km": 8.8,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "El Valle": {
+   "nivel": "posible granizo",
+   "km": 8.7,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "La Población": {
+   "nivel": "posible granizo",
+   "km": 9.1,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "Las Chacras (Córdoba)": {
+   "nivel": "posible granizo",
+   "km": 6.4,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "Los Hornillos": {
+   "nivel": "posible granizo",
+   "km": 9.8,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "San Javier y Yacanto": {
+   "nivel": "posible granizo",
+   "km": 5.5,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  },
+  "Villa de las Rosas": {
+   "nivel": "posible granizo",
+   "km": 7.6,
+   "max_dbz": 56,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 03:59"
+  }
+ }
 }
