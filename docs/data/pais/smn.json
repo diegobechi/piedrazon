@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-15 19:15",
+ "consultado": "2026-11-15 19:30",
  "alertas": [
   {
    "id": "2026_11_15_2131_cap_es",
@@ -126,6 +126,50 @@
      [
       -65.7,
       -33.98
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_15_2222_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-15T22:22:00-03:00",
+   "hasta": "2026-11-15T23:22:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "NEUQUEN: ANELO - CONFLUENCIA - LONCOPUE - PICUN LEUFU - PICUNCHES - ZAPALA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_15_2222_cap_es.xml",
+   "desde_local": "15/11 22:22",
+   "hasta_local": "15/11 23:22",
+   "localidades": 5,
+   "poligonos": [
+    [
+     [
+      -69.81,
+      -38.7
+     ],
+     [
+      -69.7,
+      -37.78
+     ],
+     [
+      -69.01,
+      -37.78
+     ],
+     [
+      -68.23,
+      -38.87
+     ],
+     [
+      -69.16,
+      -39.38
+     ],
+     [
+      -69.81,
+      -38.7
      ]
     ]
    ]
@@ -47619,7 +47663,8 @@
    "2026_11_15_2131_cap_es"
   ],
   "Cutral Có": [
-   "2026_11_15_2131_cap_es"
+   "2026_11_15_2131_cap_es",
+   "2026_11_15_2222_cap_es"
   ],
   "El Sauce (Neuquén)": [
    "2026_11_15_2131_cap_es"
@@ -47631,7 +47676,8 @@
    "2026_11_15_2131_cap_es"
   ],
   "Plaza Huincul": [
-   "2026_11_15_2131_cap_es"
+   "2026_11_15_2131_cap_es",
+   "2026_11_15_2222_cap_es"
   ],
   "Santo Tomás": [
    "2026_11_15_2131_cap_es"
@@ -55795,6 +55841,15 @@
   "Villa Olivari": [
    "CAP_20261115212737_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261115212737_Tormenta_Llanura_alertas_alertas_36"
+  ],
+  "Aguada San Roque": [
+   "2026_11_15_2222_cap_es"
+  ],
+  "Añelo": [
+   "2026_11_15_2222_cap_es"
+  ],
+  "Mari Menuco": [
+   "2026_11_15_2222_cap_es"
   ]
  }
 }
