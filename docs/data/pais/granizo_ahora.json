@@ -1,117 +1,111 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-15 00:45",
+ "consultado": "2026-11-15 01:00",
  "radares": {
-  "RMA5": "2026-11-15 00:34",
-  "RMA3": "2026-11-15 00:25",
-  "AR7": "2026-11-15 00:30",
-  "RMA17": "2026-11-15 00:35",
-  "RMA15": "2026-11-15 00:26"
+  "RMA5": "2026-11-15 00:43",
+  "RMA3": "2026-11-15 00:44",
+  "RMA15": "2026-11-15 00:43",
+  "RMA17": "2026-11-15 00:43",
+  "AR7": "2026-11-15 00:30"
  },
  "nucleos": [
   {
-   "lat": -23.9892,
-   "lon": -60.1197,
-   "max_dbz": 61,
-   "tope_km": 7.6,
-   "radar": "RMA3",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.2286,
-   "lon": -64.9787,
-   "max_dbz": 60,
+   "lat": -32.2104,
+   "lon": -64.9677,
+   "max_dbz": 59,
    "tope_km": 7.6,
    "radar": "RMA17",
-   "nivel": "granizo probable"
+   "nivel": "posible granizo"
   },
   {
-   "lat": -30.8551,
-   "lon": -66.6436,
-   "max_dbz": 60,
+   "lat": -23.9892,
+   "lon": -60.0294,
+   "max_dbz": 55,
+   "tope_km": 6.4,
+   "radar": "RMA3",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -30.7032,
+   "lon": -66.6225,
+   "max_dbz": 53,
    "tope_km": 2.9,
    "radar": "RMA15",
    "nivel": null,
    "descartado": "tope bajo (2.9 km)"
   },
   {
-   "lat": -25.3312,
-   "lon": -53.676,
-   "max_dbz": 59,
-   "tope_km": 7.6,
-   "radar": "RMA5",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -25.3676,
-   "lon": -54.3084,
-   "max_dbz": 53,
-   "tope_km": 6.4,
-   "radar": "RMA5",
-   "nivel": null
-  },
-  {
    "lat": -25.4221,
-   "lon": -53.9718,
+   "lon": -53.6862,
+   "max_dbz": 52,
+   "tope_km": 5.9,
+   "radar": "RMA5",
+   "nivel": null,
+   "descartado": "tope bajo (5.9 km)"
+  },
+  {
+   "lat": -25.4675,
+   "lon": -54.5328,
+   "max_dbz": 51,
+   "tope_km": 5.3,
+   "radar": "RMA5",
+   "nivel": null,
+   "descartado": "tope bajo (5.3 km)"
+  },
+  {
+   "lat": -24.2608,
+   "lon": -59.7683,
    "max_dbz": 51,
    "tope_km": 6.4,
-   "radar": "RMA5",
+   "radar": "RMA3",
    "nivel": null
   },
   {
-   "lat": -25.2675,
-   "lon": -54.1146,
+   "lat": -22.9978,
+   "lon": -59.6981,
+   "max_dbz": 51,
+   "tope_km": 8.2,
+   "radar": "RMA3",
+   "nivel": null
+  },
+  {
+   "lat": -23.708,
+   "lon": -60.3004,
    "max_dbz": 50,
    "tope_km": 6.4,
-   "radar": "RMA5",
+   "radar": "RMA3",
    "nivel": null
   },
   {
-   "lat": -30.5153,
-   "lon": -66.485,
+   "lat": -23.4444,
+   "lon": -60.3004,
    "max_dbz": 50,
-   "tope_km": 1.8,
-   "radar": "RMA15",
+   "tope_km": 8.2,
+   "radar": "RMA3",
+   "nivel": null
+  },
+  {
+   "lat": -25.3221,
+   "lon": -54.1248,
+   "max_dbz": 49,
+   "tope_km": 5.9,
+   "radar": "RMA5",
    "nivel": null,
-   "descartado": "tope bajo (1.8 km)"
+   "descartado": "tope bajo (5.9 km)"
   },
   {
-   "lat": -23.4535,
-   "lon": -60.4309,
-   "max_dbz": 49,
-   "tope_km": 7.6,
-   "radar": "RMA3",
-   "nivel": null
-  },
-  {
-   "lat": -23.6081,
-   "lon": -60.4008,
-   "max_dbz": 49,
-   "tope_km": 8.8,
-   "radar": "RMA3",
-   "nivel": null
-  },
-  {
-   "lat": -25.1674,
-   "lon": -53.9106,
+   "lat": -25.3312,
+   "lon": -53.6147,
    "max_dbz": 48,
-   "tope_km": 9.4,
+   "tope_km": 7.6,
    "radar": "RMA5",
    "nivel": null
   },
   {
-   "lat": -24.2788,
-   "lon": -59.8386,
+   "lat": -25.3403,
+   "lon": -53.7984,
    "max_dbz": 48,
-   "tope_km": 7.0,
-   "radar": "RMA3",
-   "nivel": null
-  },
-  {
-   "lat": -25.1127,
-   "lon": -54.0024,
-   "max_dbz": 47,
-   "tope_km": 9.4,
+   "tope_km": 7.6,
    "radar": "RMA5",
    "nivel": null
   },
@@ -134,11 +128,11 @@
  ],
  "localidades": {
   "La Paz (Córdoba)": {
-   "nivel": "granizo probable",
-   "km": 6.7,
-   "max_dbz": 60,
+   "nivel": "posible granizo",
+   "km": 7.6,
+   "max_dbz": 59,
    "tope_km": 7.6,
-   "visto": "2026-11-15 00:35"
+   "visto": "2026-11-15 00:43"
   }
  }
 }
