@@ -1,95 +1,38 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-15 04:30",
+ "consultado": "2026-11-15 04:45",
  "radares": {
-  "RMA17": "2026-11-15 03:59",
-  "RMA16": "2026-11-15 04:20",
-  "RMA15": "2026-11-15 04:02"
+  "RMA16": "2026-11-15 04:29",
+  "AR7": "2026-11-15 04:30",
+  "RMA11": "2026-11-15 04:34"
  },
  "nucleos": [
   {
-   "lat": -31.9915,
-   "lon": -64.9897,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "radar": "RMA17",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -33.2129,
-   "lon": -65.0994,
-   "max_dbz": 52,
+   "lat": -33.2309,
+   "lon": -65.0884,
+   "max_dbz": 68,
    "tope_km": 2.3,
    "radar": "RMA16",
    "nivel": null,
    "descartado": "tope bajo (2.3 km)"
   },
   {
-   "lat": -30.7122,
-   "lon": -66.633,
-   "max_dbz": 52,
-   "tope_km": 2.3,
-   "radar": "RMA15",
+   "lat": -27.0415,
+   "lon": -65.7311,
+   "max_dbz": 58,
+   "tope_km": 3.5,
+   "radar": "RMA11",
    "nivel": null,
-   "descartado": "tope bajo (2.3 km)"
+   "descartado": "tope bajo (3.5 km)"
+  },
+  {
+   "lat": -29.716,
+   "lon": -60.9266,
+   "max_dbz": 47,
+   "tope_km": 15.0,
+   "radar": "AR7",
+   "nivel": null
   }
  ],
- "localidades": {
-  "Alto Resbaloso - El Barrial": {
-   "nivel": "posible granizo",
-   "km": 8.0,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "El Pueblito (dpto. San Javier, Córdoba)": {
-   "nivel": "posible granizo",
-   "km": 8.8,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "El Valle": {
-   "nivel": "posible granizo",
-   "km": 8.7,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "La Población": {
-   "nivel": "posible granizo",
-   "km": 9.1,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "Las Chacras (Córdoba)": {
-   "nivel": "posible granizo",
-   "km": 6.4,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "Los Hornillos": {
-   "nivel": "posible granizo",
-   "km": 9.8,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "San Javier y Yacanto": {
-   "nivel": "posible granizo",
-   "km": 5.5,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  },
-  "Villa de las Rosas": {
-   "nivel": "posible granizo",
-   "km": 7.6,
-   "max_dbz": 56,
-   "tope_km": 8.8,
-   "visto": "2026-11-15 03:59"
-  }
- }
+ "localidades": {}
 }
