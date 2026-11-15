@@ -1,30 +1,22 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-15 17:15",
+ "consultado": "2026-11-15 17:18",
  "radares": {
-  "RMA16": "2026-11-15 17:01",
-  "RMA7": "2026-11-15 17:04",
-  "RMA5": "2026-11-15 17:05",
-  "RMA19": "2026-11-15 16:54",
-  "RMA18": "2026-11-15 16:56",
+  "RMA19": "2026-11-15 17:03",
+  "RMA18": "2026-11-15 17:04",
   "AR7": "2026-11-15 17:00",
-  "RMA11": "2026-11-15 16:43"
+  "RMA11": "2026-11-15 16:43",
+  "RMA16": "2026-11-15 17:10",
+  "RMA7": "2026-11-15 17:04",
+  "RMA5": "2026-11-15 17:05"
  },
  "nucleos": [
   {
-   "lat": -33.8952,
-   "lon": -66.4252,
-   "max_dbz": 69,
+   "lat": -33.9309,
+   "lon": -66.3594,
+   "max_dbz": 67,
    "tope_km": 17.0,
    "radar": "RMA19",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.9426,
-   "lon": -66.2037,
-   "max_dbz": 66,
-   "tope_km": null,
-   "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
@@ -36,9 +28,9 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -36.4921,
-   "lon": -66.8337,
-   "max_dbz": 61,
+   "lat": -36.6174,
+   "lon": -68.8763,
+   "max_dbz": 55,
    "tope_km": 10.0,
    "radar": "RMA18",
    "nivel": "granizo probable"
@@ -60,19 +52,27 @@
    "nivel": "posible granizo"
   },
   {
+   "lat": -36.8674,
+   "lon": -66.3202,
+   "max_dbz": 54,
+   "tope_km": 7.6,
+   "radar": "RMA18",
+   "nivel": null
+  },
+  {
+   "lat": -36.5189,
+   "lon": -66.7766,
+   "max_dbz": 54,
+   "tope_km": 11.7,
+   "radar": "RMA18",
+   "nivel": null
+  },
+  {
    "lat": -38.7502,
    "lon": -70.1989,
    "max_dbz": 54,
    "tope_km": 10.0,
    "radar": "RMA7",
-   "nivel": null
-  },
-  {
-   "lat": -36.5905,
-   "lon": -68.9448,
-   "max_dbz": 54,
-   "tope_km": 10.0,
-   "radar": "RMA18",
    "nivel": null
   },
   {
@@ -92,6 +92,14 @@
    "nivel": null
   },
   {
+   "lat": -33.718,
+   "lon": -66.3362,
+   "max_dbz": 52,
+   "tope_km": 11.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
    "lat": -39.2531,
    "lon": -70.1751,
    "max_dbz": 52,
@@ -100,10 +108,10 @@
    "nivel": null
   },
   {
-   "lat": -36.8496,
-   "lon": -66.3658,
-   "max_dbz": 52,
-   "tope_km": 7.0,
+   "lat": -36.51,
+   "lon": -69.1616,
+   "max_dbz": 51,
+   "tope_km": 9.4,
    "radar": "RMA18",
    "nivel": null
   },
@@ -115,6 +123,14 @@
    "radar": "RMA11",
    "nivel": null,
    "descartado": "tope bajo (5.9 km)"
+  },
+  {
+   "lat": -34.1128,
+   "lon": -66.4577,
+   "max_dbz": 50,
+   "tope_km": 8.8,
+   "radar": "RMA16",
+   "nivel": null
   },
   {
    "lat": -39.3694,
@@ -133,10 +149,10 @@
    "nivel": null
   },
   {
-   "lat": -36.4562,
-   "lon": -69.2529,
+   "lat": -36.8139,
+   "lon": -66.2517,
    "max_dbz": 49,
-   "tope_km": 9.4,
+   "tope_km": 7.6,
    "radar": "RMA18",
    "nivel": null
   },
@@ -146,14 +162,6 @@
    "max_dbz": 48,
    "tope_km": 15.0,
    "radar": "AR7",
-   "nivel": null
-  },
-  {
-   "lat": -33.9844,
-   "lon": -66.3154,
-   "max_dbz": 47,
-   "tope_km": 14.1,
-   "radar": "RMA19",
    "nivel": null
   },
   {
@@ -176,10 +184,10 @@
  "localidades": {
   "Cazador": {
    "nivel": "granizo probable",
-   "km": 6.9,
-   "max_dbz": 69,
+   "km": 8.5,
+   "max_dbz": 67,
    "tope_km": 17.0,
-   "visto": "2026-11-15 16:54"
+   "visto": "2026-11-15 17:03"
   }
  }
 }
