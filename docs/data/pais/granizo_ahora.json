@@ -1,35 +1,43 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 03:08",
+ "consultado": "2026-11-16 03:15",
  "radares": {
-  "AR7": "2026-11-16 02:30",
-  "RMA18": "2026-11-16 02:54",
-  "RMA15": "2026-11-16 02:34",
+  "RMA18": "2026-11-16 03:02",
   "RMA17": "2026-11-16 02:59",
-  "RMA16": "2026-11-16 02:51"
+  "RMA16": "2026-11-16 02:59",
+  "RMA11": "2026-11-16 03:00",
+  "RMA7": "2026-11-16 03:02"
  },
  "nucleos": [
   {
-   "lat": -35.0211,
-   "lon": -64.9007,
-   "max_dbz": 66,
-   "tope_km": 13.5,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
    "lat": -35.2598,
-   "lon": -64.9338,
-   "max_dbz": 64,
-   "tope_km": 12.9,
+   "lon": -64.8234,
+   "max_dbz": 68,
+   "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.3823,
-   "lon": -65.4757,
-   "max_dbz": 61,
-   "tope_km": 11.1,
+   "lat": -35.0742,
+   "lon": -65.243,
+   "max_dbz": 67,
+   "tope_km": 14.1,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -35.1275,
+   "lon": -65.2817,
+   "max_dbz": 62,
+   "tope_km": 14.1,
+   "radar": "RMA18",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -35.3187,
+   "lon": -64.7568,
+   "max_dbz": 60,
+   "tope_km": 12.9,
    "radar": "RMA18",
    "nivel": "granizo probable"
   },
@@ -42,45 +50,46 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.0919,
-   "lon": -65.3534,
-   "max_dbz": 58,
-   "tope_km": 13.5,
+   "lat": -35.0388,
+   "lon": -64.8234,
+   "max_dbz": 60,
+   "tope_km": 14.1,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.5276,
-   "lon": -66.6853,
+   "lat": -33.2129,
+   "lon": -65.0994,
    "max_dbz": 57,
-   "tope_km": 6.4,
-   "radar": "RMA18",
+   "tope_km": 2.3,
+   "radar": "RMA16",
+   "nivel": null,
+   "descartado": "tope bajo (2.3 km)"
+  },
+  {
+   "lat": -38.171,
+   "lon": -66.5183,
+   "max_dbz": 55,
+   "tope_km": 8.8,
+   "radar": "RMA7",
    "nivel": "posible granizo"
   },
   {
-   "lat": -30.864,
-   "lon": -66.6436,
-   "max_dbz": 56,
-   "tope_km": 2.9,
-   "radar": "RMA15",
+   "lat": -38.4159,
+   "lon": -66.2334,
+   "max_dbz": 53,
+   "tope_km": 7.6,
+   "radar": "RMA7",
+   "nivel": null
+  },
+  {
+   "lat": -26.5606,
+   "lon": -65.1534,
+   "max_dbz": 52,
+   "tope_km": 2.3,
+   "radar": "RMA11",
    "nivel": null,
-   "descartado": "tope bajo (2.9 km)"
-  },
-  {
-   "lat": -35.1891,
-   "lon": -64.6025,
-   "max_dbz": 51,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -29.7068,
-   "lon": -60.959,
-   "max_dbz": 50,
-   "tope_km": 15.0,
-   "radar": "AR7",
-   "nivel": null
+   "descartado": "tope bajo (2.3 km)"
   },
   {
    "lat": -32.6467,
@@ -92,10 +101,10 @@
    "descartado": "tope bajo (5.9 km)"
   },
   {
-   "lat": -35.5331,
-   "lon": -66.6012,
-   "max_dbz": 49,
-   "tope_km": 11.1,
+   "lat": -35.3657,
+   "lon": -65.4638,
+   "max_dbz": 50,
+   "tope_km": 10.6,
    "radar": "RMA16",
    "nivel": null
   }
@@ -110,10 +119,10 @@
   },
   "Fortuna": {
    "nivel": "granizo probable",
-   "km": 5.1,
-   "max_dbz": 58,
-   "tope_km": 13.5,
-   "visto": "2026-11-16 02:51"
+   "km": 9.2,
+   "max_dbz": 62,
+   "tope_km": 14.1,
+   "visto": "2026-11-16 03:02"
   },
   "Merlo (San Luis)": {
    "nivel": "granizo probable",
@@ -124,10 +133,10 @@
   },
   "Nueva Galia": {
    "nivel": "granizo probable",
-   "km": 9.0,
-   "max_dbz": 58,
-   "tope_km": 13.5,
-   "visto": "2026-11-16 02:51"
+   "km": 2.5,
+   "max_dbz": 62,
+   "tope_km": 14.1,
+   "visto": "2026-11-16 03:02"
   }
  }
 }
