@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-15 21:15",
+ "consultado": "2026-11-15 21:30",
  "alertas": [
   {
    "id": "2026_11_15_2235_cap_es",
@@ -86,6 +86,50 @@
      [
       -69.9,
       -37.15
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_16_0017_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-16T00:17:00-03:00",
+   "hasta": "2026-11-16T02:17:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "MENDOZA: LAVALLE. SAN LUIS: BELGRANO.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_0017_cap_es.xml",
+   "desde_local": "16/11 00:17",
+   "hasta_local": "16/11 02:17",
+   "localidades": 4,
+   "poligonos": [
+    [
+     [
+      -68.0,
+      -32.27
+     ],
+     [
+      -67.36,
+      -32.46
+     ],
+     [
+      -66.26,
+      -32.58
+     ],
+     [
+      -66.29,
+      -33.07
+     ],
+     [
+      -67.87,
+      -32.96
+     ],
+     [
+      -68.0,
+      -32.27
      ]
     ]
    ]
@@ -61479,6 +61523,7 @@
   "La Calera (San Luis)": [
    "2026_11_15_2235_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "2026_11_16_0017_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
@@ -61507,6 +61552,7 @@
   "Nogolí": [
    "2026_11_15_2235_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "2026_11_16_0017_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
@@ -61563,6 +61609,7 @@
   "Villa de la Quebrada": [
    "2026_11_15_2235_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "2026_11_16_0017_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
@@ -69911,6 +69958,7 @@
   ],
   "Villa General Roca": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "2026_11_16_0017_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
