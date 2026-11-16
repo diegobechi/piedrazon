@@ -1,140 +1,219 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-15 22:45",
+ "consultado": "2026-11-15 23:00",
  "radares": {
-  "AR7": "2026-11-15 22:30",
-  "RMA5": "2026-11-15 22:29",
-  "RMA19": "2026-11-15 22:36",
-  "RMA7": "2026-11-15 22:30",
-  "RMA16": "2026-11-15 22:29"
+  "RMA7": "2026-11-15 22:48",
+  "RMA16": "2026-11-15 22:46",
+  "RMA19": "2026-11-15 22:44",
+  "RMA5": "2026-11-15 22:47",
+  "AR7": "2026-11-15 22:40"
  },
  "nucleos": [
   {
-   "lat": -32.6734,
-   "lon": -60.7319,
-   "max_dbz": 80,
-   "tope_km": 5.4,
-   "radar": "AR7",
-   "nivel": null,
-   "descartado": "tope bajo (5.4 km)"
+   "lat": -33.2129,
+   "lon": -65.0994,
+   "max_dbz": 64,
+   "tope_km": 10.0,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -33.8148,
+   "lat": -33.8594,
    "lon": -67.0291,
    "max_dbz": 63,
-   "tope_km": 12.9,
-   "radar": "RMA19",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.8326,
-   "lon": -67.2048,
-   "max_dbz": 61,
-   "tope_km": 12.3,
-   "radar": "RMA19",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -39.0739,
-   "lon": -68.1093,
-   "max_dbz": 58,
-   "tope_km": 8.8,
-   "radar": "RMA7",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -38.8763,
-   "lon": -68.8098,
-   "max_dbz": 58,
-   "tope_km": 10.0,
-   "radar": "RMA7",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.8528,
-   "lon": -67.1202,
-   "max_dbz": 58,
    "tope_km": 13.5,
+   "radar": "RMA19",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.8505,
+   "lon": -67.1718,
+   "max_dbz": 63,
+   "tope_km": 15.8,
+   "radar": "RMA19",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.9336,
+   "lon": -67.076,
+   "max_dbz": 62,
+   "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -38.8403,
-   "lon": -67.9787,
-   "max_dbz": 57,
-   "tope_km": 8.2,
-   "radar": "RMA7",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -38.5787,
-   "lon": -68.0499,
-   "max_dbz": 55,
+   "lat": -38.9931,
+   "lon": -67.8362,
+   "max_dbz": 59,
    "tope_km": 8.8,
    "radar": "RMA7",
    "nivel": "posible granizo"
   },
   {
-   "lat": -33.6179,
-   "lon": -67.2377,
-   "max_dbz": 52,
-   "tope_km": 8.2,
-   "radar": "RMA19",
-   "nivel": null
+   "lat": -39.1725,
+   "lon": -67.9193,
+   "max_dbz": 59,
+   "tope_km": 10.0,
+   "radar": "RMA7",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -38.8673,
-   "lon": -68.976,
-   "max_dbz": 49,
-   "tope_km": 10.0,
+   "lat": -38.8313,
+   "lon": -67.7887,
+   "max_dbz": 55,
+   "tope_km": 7.6,
+   "radar": "RMA7",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -38.7412,
+   "lon": -67.9787,
+   "max_dbz": 55,
+   "tope_km": 8.2,
+   "radar": "RMA7",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -39.0919,
+   "lon": -68.8098,
+   "max_dbz": 53,
+   "tope_km": 8.2,
    "radar": "RMA7",
    "nivel": null
   },
   {
-   "lat": -33.8708,
-   "lon": -67.2969,
-   "max_dbz": 49,
-   "tope_km": 12.3,
+   "lat": -38.8583,
+   "lon": -67.9905,
+   "max_dbz": 53,
+   "tope_km": 7.6,
+   "radar": "RMA7",
+   "nivel": null
+  },
+  {
+   "lat": -33.9336,
+   "lon": -67.1865,
+   "max_dbz": 53,
+   "tope_km": 14.7,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -29.7068,
-   "lon": -60.959,
-   "max_dbz": 48,
+   "lat": -27.1094,
+   "lon": -53.6555,
+   "max_dbz": 49,
+   "tope_km": 5.9,
+   "radar": "RMA5",
+   "nivel": null,
+   "descartado": "tope bajo (5.9 km)"
+  },
+  {
+   "lat": -29.6976,
+   "lon": -60.9482,
+   "max_dbz": 47,
+   "tope_km": 15.0,
+   "radar": "AR7",
+   "nivel": null
+  },
+  {
+   "lat": -29.9185,
+   "lon": -60.9157,
+   "max_dbz": 47,
    "tope_km": 15.0,
    "radar": "AR7",
    "nivel": null
   }
  ],
  "localidades": {
-  "Barrio Norte": {
+  "Allen": {
+   "nivel": "posible granizo",
+   "km": 1.7,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "Barrio Blanco": {
+   "nivel": "posible granizo",
+   "km": 6.0,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "Barrio Calle Ciega Nº 10": {
+   "nivel": "posible granizo",
+   "km": 4.3,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "Barrio Costa Este": {
    "nivel": "posible granizo",
    "km": 4.6,
-   "max_dbz": 57,
-   "tope_km": 8.2,
-   "visto": "2026-11-15 22:30"
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
   },
-  "Barrio Presidente Perón": {
+  "Barrio Costa Oeste": {
    "nivel": "posible granizo",
-   "km": 9.3,
-   "max_dbz": 57,
-   "tope_km": 8.2,
-   "visto": "2026-11-15 22:30"
+   "km": 3.9,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
   },
-  "Cinco Saltos": {
+  "Barrio El Maruchito": {
    "nivel": "posible granizo",
-   "km": 7.4,
-   "max_dbz": 57,
-   "tope_km": 8.2,
-   "visto": "2026-11-15 22:30"
+   "km": 6.4,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
   },
-  "Ferri": {
+  "Barrio Emergente": {
    "nivel": "posible granizo",
-   "km": 5.9,
-   "max_dbz": 57,
+   "km": 1.4,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "Barrio Isla 10": {
+   "nivel": "posible granizo",
+   "km": 7.1,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "Barrio La Herradura": {
+   "nivel": "posible granizo",
+   "km": 7.2,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "General Fernández Oro": {
+   "nivel": "posible granizo",
+   "km": 9.1,
+   "max_dbz": 59,
+   "tope_km": 8.8,
+   "visto": "2026-11-15 22:48"
+  },
+  "Paraje Arroyón (Bajo San Cayetano)": {
+   "nivel": "posible granizo",
+   "km": 5.7,
+   "max_dbz": 55,
    "tope_km": 8.2,
-   "visto": "2026-11-15 22:30"
+   "visto": "2026-11-15 22:48"
+  },
+  "Península Ruca Co": {
+   "nivel": "posible granizo",
+   "km": 6.2,
+   "max_dbz": 55,
+   "tope_km": 8.2,
+   "visto": "2026-11-15 22:48"
+  },
+  "La Punilla": {
+   "nivel": "granizo probable",
+   "km": 7.7,
+   "max_dbz": 64,
+   "tope_km": 10.0,
+   "visto": "2026-11-15 22:46"
   }
  }
 }
