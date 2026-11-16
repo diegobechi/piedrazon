@@ -1,136 +1,44 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 01:30",
+ "consultado": "2026-11-16 01:45",
  "radares": {
-  "RMA12": "2026-11-16 00:52",
-  "RMA7": "2026-11-16 01:13",
-  "RMA17": "2026-11-16 01:12",
-  "RMA4": "2026-11-16 00:59",
-  "AR7": "2026-11-16 01:10"
+  "AR7": "2026-11-16 01:20",
+  "RMA17": "2026-11-16 01:29",
+  "RMA7": "2026-11-16 01:32"
  },
  "nucleos": [
   {
-   "lat": -38.8853,
-   "lon": -68.2755,
-   "max_dbz": 58,
-   "tope_km": 6.4,
+   "lat": -32.8188,
+   "lon": -62.1097,
+   "max_dbz": 54,
+   "tope_km": 11.1,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -39.0201,
+   "lon": -68.1449,
+   "max_dbz": 50,
+   "tope_km": 7.0,
    "radar": "RMA7",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -32.0006,
-   "lon": -64.9897,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "radar": "RMA17",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -41.9131,
-   "lon": -65.6876,
-   "max_dbz": 52,
-   "tope_km": 7.6,
-   "radar": "RMA12",
    "nivel": null
   },
   {
-   "lat": -41.9573,
-   "lon": -65.6142,
-   "max_dbz": 52,
-   "tope_km": 7.6,
-   "radar": "RMA12",
-   "nivel": null
-  },
-  {
-   "lat": -27.5596,
-   "lon": -59.3086,
-   "max_dbz": 51,
-   "tope_km": 0.6,
-   "radar": "RMA4",
-   "nivel": null,
-   "descartado": "tope bajo (0.6 km)"
-  },
-  {
-   "lat": -32.1101,
-   "lon": -64.9457,
-   "max_dbz": 48,
-   "tope_km": 8.2,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -29.716,
-   "lon": -60.959,
-   "max_dbz": 48,
+   "lat": -29.8265,
+   "lon": -60.9374,
+   "max_dbz": 47,
    "tope_km": 15.0,
    "radar": "AR7",
    "nivel": null
   },
   {
-   "lat": -29.9185,
-   "lon": -60.9049,
+   "lat": -29.762,
+   "lon": -60.9482,
    "max_dbz": 47,
-   "tope_km": null,
+   "tope_km": 15.0,
    "radar": "AR7",
    "nivel": null
   }
  ],
- "localidades": {
-  "Alto Resbaloso - El Barrial": {
-   "nivel": "posible granizo",
-   "km": 8.5,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "El Pueblito (dpto. San Javier, Córdoba)": {
-   "nivel": "posible granizo",
-   "km": 9.3,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "El Valle": {
-   "nivel": "posible granizo",
-   "km": 9.4,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "La Población": {
-   "nivel": "posible granizo",
-   "km": 8.2,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "Las Chacras (Córdoba)": {
-   "nivel": "posible granizo",
-   "km": 7.3,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "San Javier y Yacanto": {
-   "nivel": "posible granizo",
-   "km": 4.8,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "Villa de las Rosas": {
-   "nivel": "posible granizo",
-   "km": 8.3,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 01:12"
-  },
-  "Plottier": {
-   "nivel": "posible granizo",
-   "km": 8.6,
-   "max_dbz": 58,
-   "tope_km": 6.4,
-   "visto": "2026-11-16 01:13"
-  }
- }
+ "localidades": {}
 }
