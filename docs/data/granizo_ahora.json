@@ -1,16 +1,16 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 08:30",
+ "consultado": "2026-11-16 08:45",
  "radares": {
-  "RMA17": "2026-11-16 08:16",
+  "RMA17": "2026-11-16 08:33",
   "RMA16": "2026-11-16 08:19"
  },
  "nucleos": [
   {
-   "lat": -34.955,
+   "lat": -34.7518,
    "lon": -64.3192,
-   "max_dbz": 64,
-   "tope_km": null,
+   "max_dbz": 63,
+   "tope_km": 14.7,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
@@ -63,19 +63,27 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -34.8932,
-   "lon": -64.3412,
-   "max_dbz": 59,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
    "lat": -35.0742,
    "lon": -64.7792,
    "max_dbz": 58,
    "tope_km": 11.7,
    "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -34.9727,
+   "lon": -64.7259,
+   "max_dbz": 57,
+   "tope_km": 11.7,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -34.9815,
+   "lon": -64.1433,
+   "max_dbz": 57,
+   "tope_km": 14.1,
+   "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
@@ -95,10 +103,10 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.1049,
-   "lon": -64.616,
+   "lat": -34.1836,
+   "lon": -64.528,
    "max_dbz": 54,
-   "tope_km": 12.9,
+   "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": null
   },
@@ -167,19 +175,19 @@
    "nivel": null
   },
   {
+   "lat": -34.237,
+   "lon": -64.605,
+   "max_dbz": 49,
+   "tope_km": 14.1,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
    "lat": -35.1891,
    "lon": -64.459,
    "max_dbz": 49,
    "tope_km": 13.5,
    "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -35.1577,
-   "lon": -63.9125,
-   "max_dbz": 48,
-   "tope_km": 11.7,
-   "radar": "RMA17",
    "nivel": null
   },
   {
@@ -189,16 +197,17 @@
    "tope_km": 12.9,
    "radar": "RMA16",
    "nivel": null
+  },
+  {
+   "lat": -35.1273,
+   "lon": -63.9289,
+   "max_dbz": 48,
+   "tope_km": 14.7,
+   "radar": "RMA16",
+   "nivel": null
   }
  ],
  "localidades": {
-  "Huinca Renancó": {
-   "nivel": "granizo probable",
-   "km": 7.0,
-   "max_dbz": 59,
-   "tope_km": 13.5,
-   "visto": "2026-11-16 08:16"
-  },
   "Villa Sarmiento (dpto. General Roca)": {
    "nivel": "granizo probable",
    "km": 5.2,
