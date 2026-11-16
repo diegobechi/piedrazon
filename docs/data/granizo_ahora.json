@@ -1,68 +1,97 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 04:15",
+ "consultado": "2026-11-16 04:30",
  "radares": {
-  "RMA17": "2026-11-16 04:03",
-  "RMA16": "2026-11-16 04:05"
+  "RMA17": "2026-11-16 04:19",
+  "RMA16": "2026-11-16 04:21"
  },
  "nucleos": [
   {
-   "lat": -35.1626,
-   "lon": -64.6356,
-   "max_dbz": 72,
-   "tope_km": null,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -35.1841,
-   "lon": -64.7039,
-   "max_dbz": 60,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.1831,
-   "lon": -64.9897,
-   "max_dbz": 59,
-   "tope_km": 10.6,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.423,
-   "lon": -62.1977,
-   "max_dbz": 57,
+   "lat": -33.1169,
+   "lon": -63.0441,
+   "max_dbz": 65,
    "tope_km": 3.5,
    "radar": "RMA17",
    "nivel": null,
    "descartado": "tope bajo (3.5 km)"
   },
   {
-   "lat": -33.423,
-   "lon": -62.0987,
-   "max_dbz": 55,
-   "tope_km": 7.6,
+   "lat": -32.1831,
+   "lon": -65.0007,
+   "max_dbz": 60,
+   "tope_km": 10.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.0371,
+   "lon": -62.9671,
+   "max_dbz": 57,
+   "tope_km": 6.4,
    "radar": "RMA17",
    "nivel": "posible granizo"
   },
   {
-   "lat": -35.1007,
-   "lon": -64.6136,
-   "max_dbz": 50,
-   "tope_km": 9.4,
+   "lat": -35.1361,
+   "lon": -64.9117,
+   "max_dbz": 56,
+   "tope_km": 14.7,
    "radar": "RMA16",
-   "nivel": null
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.0736,
+   "lon": -64.9787,
+   "max_dbz": 55,
+   "tope_km": 10.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.414,
+   "lon": -62.2966,
+   "max_dbz": 54,
+   "tope_km": 2.9,
+   "radar": "RMA17",
+   "nivel": null,
+   "descartado": "tope bajo (2.9 km)"
   }
  ],
  "localidades": {
+  "La Playosa": {
+   "nivel": "posible granizo",
+   "km": 9.2,
+   "max_dbz": 57,
+   "tope_km": 6.4,
+   "visto": "2026-11-16 04:19"
+  },
+  "La Población": {
+   "nivel": "granizo probable",
+   "km": 1.8,
+   "max_dbz": 55,
+   "tope_km": 10.0,
+   "visto": "2026-11-16 04:19"
+  },
   "Luyaba": {
    "nivel": "granizo probable",
-   "km": 8.8,
-   "max_dbz": 59,
-   "tope_km": 10.6,
-   "visto": "2026-11-16 04:03"
+   "km": 7.9,
+   "max_dbz": 60,
+   "tope_km": 10.0,
+   "visto": "2026-11-16 04:19"
+  },
+  "Pozo del Molle": {
+   "nivel": "posible granizo",
+   "km": 5.1,
+   "max_dbz": 57,
+   "tope_km": 6.4,
+   "visto": "2026-11-16 04:19"
+  },
+  "San Javier y Yacanto": {
+   "nivel": "granizo probable",
+   "km": 8.1,
+   "max_dbz": 55,
+   "tope_km": 10.0,
+   "visto": "2026-11-16 04:19"
   }
  }
 }
