@@ -1,7 +1,51 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-16 13:46",
+ "consultado": "2026-11-16 14:00",
  "alertas": [
+  {
+   "id": "2026_11_16_1656_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-16T16:56:00-03:00",
+   "hasta": "2026-11-16T17:56:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "SAN LUIS: CNEL PRINGLES - GRAL PEDERNERA - JUAN M.  DE PUEYRREDON.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_1656_cap_es.xml",
+   "desde_local": "16/11 16:56",
+   "hasta_local": "16/11 17:56",
+   "localidades": 3,
+   "poligonos": [
+    [
+     [
+      -65.05,
+      -34.32
+     ],
+     [
+      -65.83,
+      -34.29
+     ],
+     [
+      -66.47,
+      -34.05
+     ],
+     [
+      -66.46,
+      -33.47
+     ],
+     [
+      -65.91,
+      -33.47
+     ],
+     [
+      -65.05,
+      -34.32
+     ]
+    ]
+   ]
+  },
   {
    "id": "2026_11_16_1619_cap_es",
    "tipo": "aviso a corto plazo",
@@ -98,6 +142,54 @@
      [
       -63.53,
       -34.36
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_16_1649_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-16T16:49:00-03:00",
+   "hasta": "2026-11-16T18:49:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "MENDOZA: SAN CARLOS - SAN RAFAEL - SANTA ROSA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_1649_cap_es.xml",
+   "desde_local": "16/11 16:49",
+   "hasta_local": "16/11 18:49",
+   "localidades": 23,
+   "poligonos": [
+    [
+     [
+      -67.92,
+      -35.21
+     ],
+     [
+      -69.15,
+      -35.13
+     ],
+     [
+      -69.09,
+      -33.82
+     ],
+     [
+      -69.02,
+      -33.79
+     ],
+     [
+      -67.85,
+      -33.7
+     ],
+     [
+      -67.85,
+      -34.5
+     ],
+     [
+      -67.92,
+      -35.21
      ]
     ]
    ]
@@ -72133,21 +72225,25 @@
   ],
   "25 de Mayo (Mendoza)": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Barrio El Nevado": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Barrio Empleados de Comercio": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Barrio Intendencia": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72158,6 +72254,7 @@
   ],
   "Capitán Montoya": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72168,16 +72265,19 @@
   ],
   "Cuadro Benegas": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Cuadro Nacional": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "El Nihuil": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72188,6 +72288,7 @@
   ],
   "El Tropezón (Mendoza)": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72198,6 +72299,7 @@
   ],
   "Goudge": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72208,11 +72310,13 @@
   ],
   "La Llave Nueva": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Las Malvinas": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72223,16 +72327,19 @@
   ],
   "Los Reyunos": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Monte Comán": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Pobre Diablo": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72243,6 +72350,7 @@
   ],
   "Rama Caída": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -72253,21 +72361,25 @@
   ],
   "Salto de las Rosas": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "San Rafael": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Villa Atuel": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
   "Villa Atuel Norte": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_11",
+   "2026_11_16_1649_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_36",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_27"
   ],
@@ -73115,6 +73227,7 @@
   ],
   "Cazador": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_9",
+   "2026_11_16_1656_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_26"
   ],
   "Cerro Colorado (San Luis)": [
@@ -73183,6 +73296,7 @@
   ],
   "Zanjitas": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_9",
+   "2026_11_16_1656_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_26"
   ],
   "Concarán": [
@@ -73538,6 +73652,7 @@
   ],
   "Alto Pelado": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_5",
+   "2026_11_16_1656_cap_es",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_24"
   ],
   "Country Club Los Caldenes": [
@@ -73996,6 +74111,15 @@
   "Santa Rita de Catuna": [
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_1",
    "CAP_20261116125045_Tormenta_Cordillera_alertas_alertas_14"
+  ],
+  "Barrio Carrasco": [
+   "2026_11_16_1649_cap_es"
+  ],
+  "Chilecito (Mendoza)": [
+   "2026_11_16_1649_cap_es"
+  ],
+  "Pareditas": [
+   "2026_11_16_1649_cap_es"
   ]
  }
 }
