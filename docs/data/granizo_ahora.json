@@ -1,18 +1,51 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 00:45",
+ "consultado": "2026-11-16 01:00",
  "radares": {
-  "RMA16": "2026-11-16 00:32"
+  "RMA16": "2026-11-16 00:49",
+  "RMA17": "2026-11-16 00:48"
  },
  "nucleos": [
   {
-   "lat": -33.2038,
-   "lon": -65.1105,
-   "max_dbz": 56,
+   "lat": -32.6467,
+   "lon": -64.9237,
+   "max_dbz": 61,
+   "tope_km": 7.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.4288,
+   "lon": -64.9237,
+   "max_dbz": 54,
+   "tope_km": 6.4,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -33.2129,
+   "lon": -65.0773,
+   "max_dbz": 53,
    "tope_km": 2.3,
    "radar": "RMA16",
    "nivel": null,
    "descartado": "tope bajo (2.3 km)"
+  },
+  {
+   "lat": -32.101,
+   "lon": -64.9567,
+   "max_dbz": 52,
+   "tope_km": 8.2,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.2742,
+   "lon": -64.9677,
+   "max_dbz": 50,
+   "tope_km": 7.0,
+   "radar": "RMA17",
+   "nivel": null
   }
  ],
  "localidades": {}
