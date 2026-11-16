@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-16 18:31",
+ "consultado": "2026-11-16 18:45",
  "alertas": [
   {
    "id": "2026_11_16_2048_cap_es",
@@ -234,6 +234,54 @@
      [
       -66.74,
       -33.24
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_16_2143_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas severas",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS SEVERAS CON RAFAGAS Y CAIDA DE GRANIZO",
+   "desde": "2026-11-16T21:43:00-03:00",
+   "hasta": "2026-11-16T22:43:00-03:00",
+   "descripcion": "TORMENTAS SEVERAS CON RAFAGAS Y CAIDA DE GRANIZO",
+   "instruccion": "Seguí las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Evitá circular por calles inundadas o afectadas. Retirá o asegurá objetos que puedan ser arrastrados por el viento. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, ",
+   "zona": "LA RIOJA: CHAMICAL - GRAL BELGRANO. CORDOBA: CRUZ DEL EJE - MINAS.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_16_2143_cap_es.xml",
+   "desde_local": "16/11 21:43",
+   "hasta_local": "16/11 22:43",
+   "localidades": 4,
+   "poligonos": [
+    [
+     [
+      -65.42,
+      -30.81
+     ],
+     [
+      -65.69,
+      -30.64
+     ],
+     [
+      -65.79,
+      -30.52
+     ],
+     [
+      -65.53,
+      -30.27
+     ],
+     [
+      -65.13,
+      -30.26
+     ],
+     [
+      -64.94,
+      -30.62
+     ],
+     [
+      -65.42,
+      -30.81
      ]
     ]
    ]
@@ -22858,7 +22906,8 @@
    "CAP_20261116205447_Tormenta_Llanura_alertas_alertas_59"
   ],
   "Alto de los Quebrachos": [
-   "2026_11_16_2106_cap_es"
+   "2026_11_16_2106_cap_es",
+   "2026_11_16_2143_cap_es"
   ],
   "Bañado de Soto": [
    "2026_11_16_2106_cap_es"
@@ -22867,16 +22916,21 @@
    "2026_11_16_2106_cap_es"
   ],
   "La Batea": [
-   "2026_11_16_2106_cap_es"
+   "2026_11_16_2106_cap_es",
+   "2026_11_16_2143_cap_es"
   ],
   "Paso Viejo": [
    "2026_11_16_2106_cap_es"
   ],
   "Serrezuela": [
-   "2026_11_16_2106_cap_es"
+   "2026_11_16_2106_cap_es",
+   "2026_11_16_2143_cap_es"
   ],
   "Tuclame": [
    "2026_11_16_2106_cap_es"
+  ],
+  "Guanaco Muerto": [
+   "2026_11_16_2143_cap_es"
   ]
  }
 }
