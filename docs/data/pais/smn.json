@@ -1,47 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-15 21:30",
+ "consultado": "2026-11-15 21:45",
  "alertas": [
-  {
-   "id": "2026_11_15_2235_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-15T22:35:00-03:00",
-   "hasta": "2026-11-16T00:35:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
-   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "SAN LUIS: BELGRANO - CNEL PRINGLES - GRAL PEDERNERA - JUAN M.  DE PUEYRREDON.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_15_2235_cap_es.xml",
-   "desde_local": "15/11 22:35",
-   "hasta_local": "16/11 00:35",
-   "localidades": 25,
-   "poligonos": [
-    [
-     [
-      -67.15,
-      -32.75
-     ],
-     [
-      -65.64,
-      -32.97
-     ],
-     [
-      -65.69,
-      -33.53
-     ],
-     [
-      -66.99,
-      -33.6
-     ],
-     [
-      -67.15,
-      -32.75
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_15_2316_cap_es",
    "tipo": "aviso a corto plazo",
@@ -61436,184 +61396,6 @@
   }
  ],
  "localidades": {
-  "Alto Pencoso": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Balde": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Cerro Colorado (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Chosmes": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Cruz de Piedra (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "El Chorrillo": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "El Trapiche": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "El Volcán": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Estancia Grande (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Fraga": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_5",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_33",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_27",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_18"
-  ],
-  "Jarilla": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Juana Koslay": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "La Calera (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "2026_11_16_0017_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "La Florida (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "La Punta": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Las Chacras (dpto. Juan Martín de Pueyrredón, San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Nogolí": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "2026_11_16_0017_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Potrero de los Funes": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Riocito": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Saladillo (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Salinas del Bebedero": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "San Jerónimo": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "San Luis": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "San Roque (San Luis)": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
-  ],
-  "Villa de la Quebrada": [
-   "2026_11_15_2235_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
-   "2026_11_16_0017_cap_es",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
-   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
-  ],
   "Avellaneda (Córdoba)": [
    "CAP_20261115224421_Tormenta_Patagonia_alertas_alertas_13",
    "CAP_20261115224421_Tormenta_Llanura_alertas_alertas_13",
@@ -69756,6 +69538,12 @@
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_27",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_18"
   ],
+  "Fraga": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_5",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_33",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_27",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_18"
+  ],
   "Juan Jorba": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_33",
@@ -69822,6 +69610,30 @@
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
   ],
+  "El Trapiche": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "El Volcán": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "Estancia Grande (San Luis)": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "La Florida (San Luis)": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
   "La Vertiente": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
@@ -69846,6 +69658,13 @@
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
   ],
+  "Nogolí": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "2026_11_16_0017_cap_es",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
   "Paso Grande": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
@@ -69853,6 +69672,24 @@
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Potrerillo": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "Potrero de los Funes": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "Riocito": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "Saladillo (San Luis)": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
@@ -69872,6 +69709,13 @@
   ],
   "Villa de Praga": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
+  ],
+  "Villa de la Quebrada": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_4",
+   "2026_11_16_0017_cap_es",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_32",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_26",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_17"
@@ -69932,6 +69776,18 @@
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_34"
   ],
+  "Alto Pencoso": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Balde": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
   "Beazley": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
@@ -69944,13 +69800,92 @@
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
   ],
+  "Cerro Colorado (San Luis)": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Chosmes": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Cruz de Piedra (San Luis)": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
   "Desaguadero (San Luis)": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
   ],
+  "El Chorrillo": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Jarilla": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Juana Koslay": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "La Calera (San Luis)": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "2026_11_16_0017_cap_es",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "La Punta": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Las Chacras (dpto. Juan Martín de Pueyrredón, San Luis)": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
   "Mosmota": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "Salinas del Bebedero": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "San Jerónimo": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "San Luis": [
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
+   "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_22"
+  ],
+  "San Roque (San Luis)": [
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_10",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_35",
    "CAP_20261115224421_Tormenta_Cordillera_alertas_alertas_29",
