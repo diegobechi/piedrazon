@@ -1,108 +1,77 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 05:00",
+ "consultado": "2026-11-16 05:15",
  "radares": {
-  "RMA16": "2026-11-16 04:46",
-  "RMA17": "2026-11-16 04:52"
+  "RMA17": "2026-11-16 05:00",
+  "RMA16": "2026-11-16 04:54"
  },
  "nucleos": [
   {
-   "lat": -35.1449,
-   "lon": -64.2602,
-   "max_dbz": 69,
-   "tope_km": null,
+   "lat": -35.1891,
+   "lon": -64.7129,
+   "max_dbz": 65,
+   "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
    "lat": -35.1715,
-   "lon": -64.7461,
-   "max_dbz": 66,
-   "tope_km": 17.0,
+   "lon": -64.216,
+   "max_dbz": 64,
+   "tope_km": null,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.1169,
-   "lon": -63.0441,
-   "max_dbz": 64,
-   "tope_km": 5.3,
-   "radar": "RMA17",
-   "nivel": null,
-   "descartado": "tope bajo (5.3 km)"
-  },
-  {
-   "lat": -32.6467,
-   "lon": -62.8572,
-   "max_dbz": 63,
-   "tope_km": 5.9,
-   "radar": "RMA17",
-   "nivel": null,
-   "descartado": "tope bajo (5.9 km)"
-  },
-  {
-   "lat": -32.6467,
-   "lon": -64.8908,
-   "max_dbz": 62,
-   "tope_km": 5.9,
-   "radar": "RMA17",
-   "nivel": null,
-   "descartado": "tope bajo (5.9 km)"
-  },
-  {
-   "lat": -31.9732,
-   "lon": -64.9787,
-   "max_dbz": 62,
-   "tope_km": 11.1,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.2013,
-   "lon": -64.9787,
+   "lat": -32.6557,
+   "lon": -62.8462,
    "max_dbz": 60,
-   "tope_km": 7.6,
+   "tope_km": 8.8,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.1753,
-   "lon": -64.3192,
+   "lat": -33.432,
+   "lon": -62.4285,
+   "max_dbz": 58,
+   "tope_km": 4.7,
+   "radar": "RMA17",
+   "nivel": null,
+   "descartado": "tope bajo (4.7 km)"
+  },
+  {
+   "lat": -32.4015,
+   "lon": -63.2419,
    "max_dbz": 54,
-   "tope_km": 17.0,
+   "tope_km": 4.7,
+   "radar": "RMA17",
+   "nivel": null,
+   "descartado": "tope bajo (4.7 km)"
+  },
+  {
+   "lat": -31.9458,
+   "lon": -64.9677,
+   "max_dbz": 49,
+   "tope_km": 8.8,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.0919,
-   "lon": -64.9237,
-   "max_dbz": 50,
-   "tope_km": 8.2,
+   "lat": -35.1577,
+   "lon": -64.7698,
+   "max_dbz": 48,
+   "tope_km": 13.5,
    "radar": "RMA17",
    "nivel": null
   }
  ],
  "localidades": {
-  "Los Hornillos": {
+  "Morrison": {
    "nivel": "granizo probable",
-   "km": 8.4,
-   "max_dbz": 62,
-   "tope_km": 11.1,
-   "visto": "2026-11-16 04:52"
-  },
-  "San Javier y Yacanto": {
-   "nivel": "granizo probable",
-   "km": 7.4,
-   "max_dbz": 62,
-   "tope_km": 11.1,
-   "visto": "2026-11-16 04:52"
-  },
-  "Villa de las Rosas": {
-   "nivel": "granizo probable",
-   "km": 6.6,
-   "max_dbz": 62,
-   "tope_km": 11.1,
-   "visto": "2026-11-16 04:52"
+   "km": 7.1,
+   "max_dbz": 60,
+   "tope_km": 8.8,
+   "visto": "2026-11-16 05:00"
   }
  }
 }
