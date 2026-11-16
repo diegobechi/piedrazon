@@ -1,48 +1,58 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 03:30",
+ "consultado": "2026-11-16 03:45",
  "radares": {
-  "RMA17": "2026-11-16 03:07",
-  "RMA16": "2026-11-16 03:16"
+  "RMA17": "2026-11-16 03:22",
+  "RMA16": "2026-11-16 03:32"
  },
  "nucleos": [
   {
-   "lat": -35.0299,
-   "lon": -64.7129,
-   "max_dbz": 67,
-   "tope_km": 14.7,
+   "lat": -35.1184,
+   "lon": -64.9117,
+   "max_dbz": 71,
+   "tope_km": null,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.1096,
-   "lon": -65.1326,
-   "max_dbz": 66,
-   "tope_km": 14.7,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.6376,
-   "lon": -64.9018,
-   "max_dbz": 58,
-   "tope_km": 7.0,
-   "radar": "RMA17",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -32.0006,
-   "lon": -65.0007,
+   "lat": -35.0961,
+   "lon": -65.0337,
    "max_dbz": 57,
-   "tope_km": 10.6,
+   "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -35.052,
-   "lon": -64.8028,
-   "max_dbz": 48,
-   "tope_km": 12.9,
+   "lat": -32.1466,
+   "lon": -64.9897,
+   "max_dbz": 57,
+   "tope_km": 10.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.2971,
+   "lon": -62.2306,
+   "max_dbz": 55,
+   "tope_km": 4.7,
+   "radar": "RMA17",
+   "nivel": null,
+   "descartado": "tope bajo (4.7 km)"
+  },
+  {
+   "lat": -32.6557,
+   "lon": -64.9127,
+   "max_dbz": 51,
+   "tope_km": 5.9,
+   "radar": "RMA17",
+   "nivel": null,
+   "descartado": "tope bajo (5.9 km)"
+  },
+  {
+   "lat": -31.8727,
+   "lon": -63.6267,
+   "max_dbz": 50,
+   "tope_km": 7.0,
    "radar": "RMA17",
    "nivel": null
   }
@@ -50,24 +60,17 @@
  "localidades": {
   "La Población": {
    "nivel": "granizo probable",
-   "km": 8.6,
+   "km": 7.7,
    "max_dbz": 57,
-   "tope_km": 10.6,
-   "visto": "2026-11-16 03:07"
+   "tope_km": 10.0,
+   "visto": "2026-11-16 03:22"
   },
-  "San Javier y Yacanto": {
+  "Luyaba": {
    "nivel": "granizo probable",
-   "km": 3.9,
+   "km": 8.0,
    "max_dbz": 57,
-   "tope_km": 10.6,
-   "visto": "2026-11-16 03:07"
-  },
-  "Villa de las Rosas": {
-   "nivel": "granizo probable",
-   "km": 7.6,
-   "max_dbz": 57,
-   "tope_km": 10.6,
-   "visto": "2026-11-16 03:07"
+   "tope_km": 10.0,
+   "visto": "2026-11-16 03:22"
   }
  }
 }
