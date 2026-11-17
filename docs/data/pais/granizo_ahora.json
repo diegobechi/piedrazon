@@ -1,29 +1,20 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 14:30",
+ "consultado": "2026-11-17 14:33",
  "radares": {
-  "RMA13": "2026-11-17 13:53",
   "RMA11": "2026-11-17 13:53",
-  "RMA2": "2026-11-17 14:12",
+  "RMA2": "2026-11-17 14:21",
   "RMA15": "2026-11-17 13:54",
   "RMA14": "2026-11-17 14:20",
   "RMA3": "2026-11-17 14:22",
   "RMA4": "2026-11-17 14:14",
   "RMA6": "2026-11-17 14:16",
-  "RMA18": "2026-11-17 14:14",
+  "RMA18": "2026-11-17 14:22",
   "RMA5": "2026-11-17 14:17",
   "RMA7": "2026-11-17 14:10",
   "RMA19": "2026-11-17 14:17"
  },
  "nucleos": [
-  {
-   "lat": -36.2857,
-   "lon": -68.0661,
-   "max_dbz": 66,
-   "tope_km": 10.6,
-   "radar": "RMA18",
-   "nivel": "granizo probable"
-  },
   {
    "lat": -36.8777,
    "lon": -60.3403,
@@ -57,6 +48,30 @@
    "nivel": "granizo probable"
   },
   {
+   "lat": -36.2678,
+   "lon": -68.0319,
+   "max_dbz": 60,
+   "tope_km": 10.6,
+   "radar": "RMA18",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -36.5905,
+   "lon": -67.4499,
+   "max_dbz": 60,
+   "tope_km": 9.4,
+   "radar": "RMA18",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -34.832,
+   "lon": -56.8723,
+   "max_dbz": 59,
+   "tope_km": 10.6,
+   "radar": "RMA2",
+   "nivel": "granizo probable"
+  },
+  {
    "lat": -25.1437,
    "lon": -59.0355,
    "max_dbz": 59,
@@ -78,14 +93,6 @@
    "max_dbz": 59,
    "tope_km": 17.0,
    "radar": "RMA3",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -34.823,
-   "lon": -56.9396,
-   "max_dbz": 58,
-   "tope_km": 11.1,
-   "radar": "RMA2",
    "nivel": "granizo probable"
   },
   {
@@ -121,6 +128,14 @@
    "nivel": "granizo probable"
   },
   {
+   "lat": -35.9527,
+   "lon": -68.146,
+   "max_dbz": 56,
+   "tope_km": 10.0,
+   "radar": "RMA18",
+   "nivel": "granizo probable"
+  },
+  {
    "lat": -25.5402,
    "lon": -54.237,
    "max_dbz": 56,
@@ -143,14 +158,6 @@
    "tope_km": 14.1,
    "radar": "RMA3",
    "nivel": "granizo probable"
-  },
-  {
-   "lat": -36.6263,
-   "lon": -67.5298,
-   "max_dbz": 55,
-   "tope_km": 8.8,
-   "radar": "RMA18",
-   "nivel": "posible granizo"
   },
   {
    "lat": -26.5437,
@@ -222,22 +229,6 @@
    "max_dbz": 53,
    "tope_km": 15.8,
    "radar": "RMA4",
-   "nivel": null
-  },
-  {
-   "lat": -35.8263,
-   "lon": -69.1959,
-   "max_dbz": 53,
-   "tope_km": 9.4,
-   "radar": "RMA18",
-   "nivel": null
-  },
-  {
-   "lat": -35.9888,
-   "lon": -68.2944,
-   "max_dbz": 53,
-   "tope_km": 10.6,
-   "radar": "RMA18",
    "nivel": null
   },
   {
@@ -338,6 +329,14 @@
    "nivel": null
   },
   {
+   "lat": -35.8353,
+   "lon": -69.1274,
+   "max_dbz": 51,
+   "tope_km": 11.1,
+   "radar": "RMA18",
+   "nivel": null
+  },
+  {
    "lat": -25.631,
    "lon": -54.339,
    "max_dbz": 51,
@@ -399,14 +398,6 @@
    "max_dbz": 50,
    "tope_km": 12.3,
    "radar": "RMA5",
-   "nivel": null
-  },
-  {
-   "lat": -25.8798,
-   "lon": -56.1198,
-   "max_dbz": 49,
-   "tope_km": 17.0,
-   "radar": "RMA13",
    "nivel": null
   },
   {
@@ -514,10 +505,10 @@
    "nivel": null
   },
   {
-   "lat": -36.0518,
-   "lon": -68.2145,
+   "lat": -35.8444,
+   "lon": -69.0475,
    "max_dbz": 47,
-   "tope_km": 10.0,
+   "tope_km": 8.8,
    "radar": "RMA18",
    "nivel": null
   }
@@ -553,10 +544,10 @@
   },
   "La Humada": {
    "nivel": "granizo probable",
-   "km": 8.5,
-   "max_dbz": 66,
+   "km": 9.2,
+   "max_dbz": 60,
    "tope_km": 10.6,
-   "visto": "2026-11-17 14:14"
+   "visto": "2026-11-17 14:22"
   },
   "Cruce Caballero": {
    "nivel": "posible granizo",
