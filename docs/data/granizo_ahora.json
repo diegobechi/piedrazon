@@ -1,96 +1,43 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 04:00",
+ "consultado": "2026-11-17 04:15",
  "radares": {
-  "RMA17": "2026-11-17 03:45",
-  "RMA1": "2026-11-17 03:41"
+  "RMA17": "2026-11-17 04:01",
+  "RMA1": "2026-11-17 03:59"
  },
  "nucleos": [
   {
-   "lat": -29.5578,
-   "lon": -64.0413,
-   "max_dbz": 61,
-   "tope_km": 12.3,
+   "lat": -29.4751,
+   "lon": -63.7616,
+   "max_dbz": 56,
+   "tope_km": 10.6,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -29.7138,
-   "lon": -63.8046,
-   "max_dbz": 60,
-   "tope_km": 11.1,
+   "lat": -29.7046,
+   "lon": -63.5142,
+   "max_dbz": 55,
+   "tope_km": 9.4,
    "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.0006,
-   "lon": -65.0007,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "radar": "RMA17",
    "nivel": "posible granizo"
   },
   {
-   "lat": -29.6221,
-   "lon": -63.9015,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.1192,
-   "lon": -64.9457,
-   "max_dbz": 51,
-   "tope_km": 8.2,
+   "lat": -32.101,
+   "lon": -64.9567,
+   "max_dbz": 54,
+   "tope_km": 10.0,
    "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -29.521,
-   "lon": -64.6115,
-   "max_dbz": 51,
-   "tope_km": 12.9,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -29.4567,
-   "lon": -64.5577,
-   "max_dbz": 48,
-   "tope_km": 12.9,
-   "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "La Población": {
+  "Gutemberg": {
    "nivel": "posible granizo",
-   "km": 8.6,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "visto": "2026-11-17 03:45"
-  },
-  "Pozo Nuevo": {
-   "nivel": "granizo probable",
-   "km": 8.3,
-   "max_dbz": 61,
-   "tope_km": 12.3,
-   "visto": "2026-11-17 03:41"
-  },
-  "San Javier y Yacanto": {
-   "nivel": "posible granizo",
-   "km": 3.9,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "visto": "2026-11-17 03:45"
-  },
-  "Villa de las Rosas": {
-   "nivel": "posible granizo",
-   "km": 7.6,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "visto": "2026-11-17 03:45"
+   "km": 3.5,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-17 03:59"
   }
  }
 }
