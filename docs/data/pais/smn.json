@@ -1,63 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-17 12:01",
+ "consultado": "2026-11-17 12:15",
  "alertas": [
-  {
-   "id": "2026_11_17_1304_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-17T13:04:00-03:00",
-   "hasta": "2026-11-17T15:04:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CORRIENTES: ITUZAINGO. MISIONES: CANDELARIA - POSADAS - SAN IGNACIO.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1304_cap_es.xml",
-   "desde_local": "17/11 13:04",
-   "hasta_local": "17/11 15:04",
-   "localidades": 9,
-   "poligonos": [
-    [
-     [
-      -56.35,
-      -27.52
-     ],
-     [
-      -56.3,
-      -27.66
-     ],
-     [
-      -56.05,
-      -27.84
-     ],
-     [
-      -55.55,
-      -27.62
-     ],
-     [
-      -55.61,
-      -27.33
-     ],
-     [
-      -55.8,
-      -27.42
-     ],
-     [
-      -55.96,
-      -27.31
-     ],
-     [
-      -56.21,
-      -27.33
-     ],
-     [
-      -56.35,
-      -27.52
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_17_1427_cap_es",
    "tipo": "aviso a corto plazo",
@@ -33540,67 +33484,6 @@
   }
  ],
  "localidades": {
-  "San Carlos (Corrientes)": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_15",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_15"
-  ],
-  "Barrio del Lago": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Candelaria (Misiones)": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Cerro Corá": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Garupá": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Nemesio Parma": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Posadas": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Posadas (Extensión)": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Profundidad": [
-   "2026_11_17_1304_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
-  ],
   "El Sauzal (Chaco)": [
    "2026_11_17_1351_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_1",
@@ -33982,7 +33865,25 @@
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_11",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_11"
   ],
+  "Barrio del Lago": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Bonpland (Misiones)": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Candelaria (Misiones)": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Cerro Corá": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
@@ -34012,6 +33913,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "Garupá": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Loreto (Misiones)": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
@@ -34025,6 +33932,30 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Mártires": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Nemesio Parma": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Posadas": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Posadas (Extensión)": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Profundidad": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_10",
@@ -34605,6 +34536,10 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_15"
   ],
   "San Antonio (Corrientes)": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_15",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_15"
+  ],
+  "San Carlos (Corrientes)": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_15",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_15"
   ],
