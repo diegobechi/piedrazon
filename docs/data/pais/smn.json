@@ -1,87 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-17 14:16",
+ "consultado": "2026-11-17 14:30",
  "alertas": [
-  {
-   "id": "2026_11_17_1617_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-17T16:17:00-03:00",
-   "hasta": "2026-11-17T17:17:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "FORMOSA: PATINO. CHACO: GRAL GUEMES.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1617_cap_es.xml",
-   "desde_local": "17/11 16:17",
-   "hasta_local": "17/11 17:17",
-   "localidades": 3,
-   "poligonos": [
-    [
-     [
-      -60.85,
-      -25.18
-     ],
-     [
-      -60.4,
-      -24.77
-     ],
-     [
-      -59.94,
-      -25.04
-     ],
-     [
-      -60.49,
-      -25.47
-     ],
-     [
-      -60.85,
-      -25.18
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_17_1625_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-17T16:25:00-03:00",
-   "hasta": "2026-11-17T17:25:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "FORMOSA: PILAGAS.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1625_cap_es.xml",
-   "desde_local": "17/11 16:25",
-   "hasta_local": "17/11 17:25",
-   "localidades": 3,
-   "poligonos": [
-    [
-     [
-      -58.96,
-      -25.11
-     ],
-     [
-      -58.46,
-      -24.93
-     ],
-     [
-      -58.38,
-      -25.39
-     ],
-     [
-      -59.07,
-      -25.32
-     ],
-     [
-      -58.96,
-      -25.11
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_17_1545_cap_es",
    "tipo": "aviso a corto plazo",
@@ -34537,7 +34457,6 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_5"
   ],
   "El Espinillo (Chaco)": [
-   "2026_11_17_1617_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_5",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_5"
   ],
@@ -35026,7 +34945,6 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Estanislao del Campo": [
-   "2026_11_17_1617_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -35057,7 +34975,6 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Pozo del Tigre": [
-   "2026_11_17_1617_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -35124,7 +35041,6 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_32"
   ],
   "El Espinillo (Formosa)": [
-   "2026_11_17_1625_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_6",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_6",
@@ -35161,7 +35077,6 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Laguna Gallo": [
-   "2026_11_17_1625_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_6",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_6",
@@ -35258,7 +35173,6 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Tres Lagunas": [
-   "2026_11_17_1625_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_6",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_6",
