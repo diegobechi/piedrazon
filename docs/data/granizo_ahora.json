@@ -1,106 +1,96 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 03:45",
+ "consultado": "2026-11-17 04:00",
  "radares": {
-  "RMA17": "2026-11-17 03:21",
-  "RMA1": "2026-11-17 03:32"
+  "RMA17": "2026-11-17 03:45",
+  "RMA1": "2026-11-17 03:41"
  },
  "nucleos": [
   {
-   "lat": -31.9915,
-   "lon": -64.9897,
-   "max_dbz": 59,
+   "lat": -29.5578,
+   "lon": -64.0413,
+   "max_dbz": 61,
+   "tope_km": 12.3,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -29.7138,
+   "lon": -63.8046,
+   "max_dbz": 60,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.0006,
+   "lon": -65.0007,
+   "max_dbz": 57,
    "tope_km": 8.8,
    "radar": "RMA17",
    "nivel": "posible granizo"
   },
   {
-   "lat": -29.5945,
-   "lon": -64.1704,
-   "max_dbz": 59,
-   "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -29.723,
-   "lon": -63.8692,
-   "max_dbz": 58,
-   "tope_km": 13.5,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -29.6496,
-   "lon": -63.9875,
+   "lat": -29.6221,
+   "lon": -63.9015,
    "max_dbz": 57,
    "tope_km": 11.7,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -29.4567,
-   "lon": -64.7083,
-   "max_dbz": 54,
-   "tope_km": 13.5,
+   "lat": -32.1192,
+   "lon": -64.9457,
+   "max_dbz": 51,
+   "tope_km": 8.2,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -29.521,
+   "lon": -64.6115,
+   "max_dbz": 51,
+   "tope_km": 12.9,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -32.6557,
-   "lon": -64.9127,
-   "max_dbz": 53,
-   "tope_km": 5.9,
-   "radar": "RMA17",
-   "nivel": null,
-   "descartado": "tope bajo (5.9 km)"
-  },
-  {
-   "lat": -32.7735,
-   "lon": -64.9127,
-   "max_dbz": 50,
-   "tope_km": 5.3,
-   "radar": "RMA17",
-   "nivel": null,
-   "descartado": "tope bajo (5.3 km)"
-  },
-  {
-   "lat": -32.1466,
-   "lon": -64.9897,
-   "max_dbz": 50,
-   "tope_km": 10.0,
-   "radar": "RMA17",
+   "lat": -29.4567,
+   "lon": -64.5577,
+   "max_dbz": 48,
+   "tope_km": 12.9,
+   "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
   "La Población": {
    "nivel": "posible granizo",
-   "km": 9.7,
-   "max_dbz": 59,
+   "km": 8.6,
+   "max_dbz": 57,
    "tope_km": 8.8,
-   "visto": "2026-11-17 03:21"
+   "visto": "2026-11-17 03:45"
   },
   "Pozo Nuevo": {
    "nivel": "granizo probable",
-   "km": 4.9,
-   "max_dbz": 59,
-   "tope_km": 11.7,
-   "visto": "2026-11-17 03:32"
+   "km": 8.3,
+   "max_dbz": 61,
+   "tope_km": 12.3,
+   "visto": "2026-11-17 03:41"
   },
   "San Javier y Yacanto": {
    "nivel": "posible granizo",
-   "km": 5.3,
-   "max_dbz": 59,
+   "km": 3.9,
+   "max_dbz": 57,
    "tope_km": 8.8,
-   "visto": "2026-11-17 03:21"
+   "visto": "2026-11-17 03:45"
   },
   "Villa de las Rosas": {
    "nivel": "posible granizo",
-   "km": 7.3,
-   "max_dbz": 59,
+   "km": 7.6,
+   "max_dbz": 57,
    "tope_km": 8.8,
-   "visto": "2026-11-17 03:21"
+   "visto": "2026-11-17 03:45"
   }
  }
 }
