@@ -1,52 +1,58 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 08:15",
+ "consultado": "2026-11-17 08:30",
  "radares": {
-  "RMA16": "2026-11-17 08:03",
-  "RMA17": "2026-11-17 07:50"
+  "RMA17": "2026-11-17 08:15",
+  "RMA16": "2026-11-17 08:19"
  },
  "nucleos": [
   {
-   "lat": -32.1375,
-   "lon": -64.9897,
-   "max_dbz": 64,
-   "tope_km": 8.2,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.2129,
-   "lon": -65.0994,
-   "max_dbz": 59,
+   "lat": -33.2219,
+   "lon": -65.0663,
+   "max_dbz": 62,
    "tope_km": 2.3,
    "radar": "RMA16",
    "nivel": null,
    "descartado": "tope bajo (2.3 km)"
   },
   {
-   "lat": -32.6557,
-   "lon": -64.9237,
-   "max_dbz": 56,
-   "tope_km": 5.9,
+   "lat": -31.9367,
+   "lon": -64.9787,
+   "max_dbz": 58,
+   "tope_km": 8.8,
    "radar": "RMA17",
-   "nivel": null,
-   "descartado": "tope bajo (5.9 km)"
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -32.3106,
+   "lon": -64.9347,
+   "max_dbz": 51,
+   "tope_km": 6.4,
+   "radar": "RMA17",
+   "nivel": null
   }
  ],
  "localidades": {
-  "La Población": {
-   "nivel": "granizo probable",
-   "km": 6.7,
-   "max_dbz": 64,
-   "tope_km": 8.2,
-   "visto": "2026-11-17 07:50"
+  "Las Rabonas": {
+   "nivel": "posible granizo",
+   "km": 7.8,
+   "max_dbz": 58,
+   "tope_km": 8.8,
+   "visto": "2026-11-17 08:15"
   },
-  "Luyaba": {
-   "nivel": "granizo probable",
-   "km": 8.0,
-   "max_dbz": 64,
-   "tope_km": 8.2,
-   "visto": "2026-11-17 07:50"
+  "Los Hornillos": {
+   "nivel": "posible granizo",
+   "km": 4.3,
+   "max_dbz": 58,
+   "tope_km": 8.8,
+   "visto": "2026-11-17 08:15"
+  },
+  "Villa de las Rosas": {
+   "nivel": "posible granizo",
+   "km": 5.5,
+   "max_dbz": 58,
+   "tope_km": 8.8,
+   "visto": "2026-11-17 08:15"
   }
  }
 }
