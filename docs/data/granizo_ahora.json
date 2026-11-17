@@ -1,43 +1,27 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 04:15",
+ "consultado": "2026-11-17 04:30",
  "radares": {
-  "RMA17": "2026-11-17 04:01",
-  "RMA1": "2026-11-17 03:59"
+  "RMA17": "2026-11-17 04:10",
+  "RMA1": "2026-11-17 04:08"
  },
  "nucleos": [
   {
-   "lat": -29.4751,
-   "lon": -63.7616,
-   "max_dbz": 56,
-   "tope_km": 10.6,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -29.7046,
-   "lon": -63.5142,
-   "max_dbz": 55,
-   "tope_km": 9.4,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -32.101,
-   "lon": -64.9567,
-   "max_dbz": 54,
+   "lat": -32.1101,
+   "lon": -64.9457,
+   "max_dbz": 53,
    "tope_km": 10.0,
    "radar": "RMA17",
    "nivel": null
+  },
+  {
+   "lat": -29.4199,
+   "lon": -63.6325,
+   "max_dbz": 50,
+   "tope_km": 10.6,
+   "radar": "RMA1",
+   "nivel": null
   }
  ],
- "localidades": {
-  "Gutemberg": {
-   "nivel": "posible granizo",
-   "km": 3.5,
-   "max_dbz": 55,
-   "tope_km": 9.4,
-   "visto": "2026-11-17 03:59"
-  }
- }
+ "localidades": {}
 }
