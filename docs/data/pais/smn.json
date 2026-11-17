@@ -1,55 +1,83 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-17 13:15",
+ "consultado": "2026-11-17 13:30",
  "alertas": [
   {
-   "id": "2026_11_17_1423_cap_es",
+   "id": "2026_11_17_1617_cap_es",
    "tipo": "aviso a corto plazo",
    "evento": "Tormentas fuertes",
    "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
-   "desde": "2026-11-17T14:23:00-03:00",
-   "hasta": "2026-11-17T16:23:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-17T16:17:00-03:00",
+   "hasta": "2026-11-17T17:17:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
    "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "MISIONES: EL DORADO - GRAL MANUEL BELGRANO - GUARANI - IGUAZU - MONTECARLO - SAN PEDRO.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1423_cap_es.xml",
-   "desde_local": "17/11 14:23",
-   "hasta_local": "17/11 16:23",
-   "localidades": 8,
+   "zona": "FORMOSA: PATINO. CHACO: GRAL GUEMES.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1617_cap_es.xml",
+   "desde_local": "17/11 16:17",
+   "hasta_local": "17/11 17:17",
+   "localidades": 3,
    "poligonos": [
     [
      [
-      -53.77,
-      -26.45
+      -60.85,
+      -25.18
      ],
      [
-      -54.21,
-      -25.58
+      -60.4,
+      -24.77
      ],
      [
-      -54.56,
-      -25.57
+      -59.94,
+      -25.04
      ],
      [
-      -54.64,
-      -25.66
+      -60.49,
+      -25.47
      ],
      [
-      -54.41,
-      -26.44
+      -60.85,
+      -25.18
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_17_1625_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-17T16:25:00-03:00",
+   "hasta": "2026-11-17T17:25:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "FORMOSA: PILAGAS.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1625_cap_es.xml",
+   "desde_local": "17/11 16:25",
+   "hasta_local": "17/11 17:25",
+   "localidades": 3,
+   "poligonos": [
+    [
+     [
+      -58.96,
+      -25.11
      ],
      [
-      -53.99,
-      -27.19
+      -58.46,
+      -24.93
      ],
      [
-      -53.69,
-      -26.94
+      -58.38,
+      -25.39
      ],
      [
-      -53.77,
-      -26.45
+      -59.07,
+      -25.32
+     ],
+     [
+      -58.96,
+      -25.11
      ]
     ]
    ]
@@ -174,6 +202,58 @@
      [
       -61.87,
       -23.26
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_17_1620_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+   "desde": "2026-11-17T16:20:00-03:00",
+   "hasta": "2026-11-17T18:20:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y RAFAGAS",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "MISIONES: EL DORADO - GRAL MANUEL BELGRANO - IGUAZU - SAN PEDRO.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1620_cap_es.xml",
+   "desde_local": "17/11 16:20",
+   "hasta_local": "17/11 18:20",
+   "localidades": 5,
+   "poligonos": [
+    [
+     [
+      -54.22,
+      -25.77
+     ],
+     [
+      -54.52,
+      -25.9
+     ],
+     [
+      -54.13,
+      -26.68
+     ],
+     [
+      -53.72,
+      -26.69
+     ],
+     [
+      -53.69,
+      -26.35
+     ],
+     [
+      -53.65,
+      -26.21
+     ],
+     [
+      -53.75,
+      -26.05
+     ],
+     [
+      -54.22,
+      -25.77
      ]
     ]
    ]
@@ -33460,62 +33540,6 @@
   }
  ],
  "localidades": {
-  "Cruce Caballero": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
-  ],
-  "Paraíso": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
-  ],
-  "Piñalito Sur": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
-  ],
-  "Puerto Iguazú": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
-  ],
-  "San Pedro (Misiones)": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
-  ],
-  "Santiago de Liniers": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
-  ],
-  "Tobuna": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
-  ],
-  "Villa Cooperativa": [
-   "2026_11_17_1423_cap_es",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
-   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
-   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
-  ],
   "Barranqueras": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_12",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_12"
@@ -34513,6 +34537,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_5"
   ],
   "El Espinillo (Chaco)": [
+   "2026_11_17_1617_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_5",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_5"
   ],
@@ -34729,9 +34754,17 @@
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
   ],
+  "Cruce Caballero": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "2026_11_17_1620_cap_es",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
+  ],
   "Dos Hermanas": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "2026_11_17_1620_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
   ],
@@ -34741,9 +34774,36 @@
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
   ],
+  "Paraíso": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
+  ],
+  "Piñalito Sur": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "2026_11_17_1620_cap_es",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
+  ],
   "San Antonio (Misiones)": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
+  ],
+  "San Pedro (Misiones)": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "2026_11_17_1620_cap_es",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
+  ],
+  "Tobuna": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_3",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_3",
+   "2026_11_17_1620_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_35",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_35"
   ],
@@ -34879,6 +34939,12 @@
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
   ],
+  "Puerto Iguazú": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
+  ],
   "Puerto Libertad": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
@@ -34903,6 +34969,12 @@
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
   ],
+  "Santiago de Liniers": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
+  ],
   "Tarumá": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
@@ -34910,6 +34982,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
   ],
   "Valle Hermoso (Misiones)": [
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
+   "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
+   "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_36"
+  ],
+  "Villa Cooperativa": [
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_4",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_4",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_36",
@@ -34948,6 +35026,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Estanislao del Campo": [
+   "2026_11_17_1617_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -34978,6 +35057,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Pozo del Tigre": [
+   "2026_11_17_1617_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -35044,6 +35124,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_32"
   ],
   "El Espinillo (Formosa)": [
+   "2026_11_17_1625_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_6",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_6",
@@ -35080,6 +35161,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Laguna Gallo": [
+   "2026_11_17_1625_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_6",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_6",
@@ -35176,6 +35258,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Tres Lagunas": [
+   "2026_11_17_1625_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_6",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_6",
