@@ -1,99 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-17 06:00",
+ "consultado": "2026-11-17 06:15",
  "alertas": [
-  {
-   "id": "2026_11_17_0703_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-17T07:03:00-03:00",
-   "hasta": "2026-11-17T09:03:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CHACO: SAN FERNANDO. SANTA FE: GRAL OBLIGADO. CORRIENTES: BELLA VISTA - CONCEPCION - EMPEDRADO - MBURUCUYA - SALADAS - SAN ROQUE.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0703_cap_es.xml",
-   "desde_local": "17/11 07:03",
-   "hasta_local": "17/11 09:03",
-   "localidades": 10,
-   "poligonos": [
-    [
-     [
-      -59.12,
-      -27.93
-     ],
-     [
-      -59.18,
-      -28.33
-     ],
-     [
-      -58.58,
-      -28.87
-     ],
-     [
-      -57.88,
-      -28.55
-     ],
-     [
-      -58.14,
-      -27.99
-     ],
-     [
-      -59.12,
-      -27.93
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_17_0711_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-17T07:11:00-03:00",
-   "hasta": "2026-11-17T09:11:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "SANTIAGO DEL ESTERO: ATAMISQUI - CHOYA - LORETO - OJO DE AGUA - QUEBRACHOS - SALAVINA. CORDOBA: RIO SECO - SOBREMONTE.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_0711_cap_es.xml",
-   "desde_local": "17/11 07:11",
-   "hasta_local": "17/11 09:11",
-   "localidades": 8,
-   "poligonos": [
-    [
-     [
-      -64.84,
-      -28.87
-     ],
-     [
-      -64.28,
-      -29.69
-     ],
-     [
-      -63.34,
-      -29.84
-     ],
-     [
-      -63.51,
-      -29.15
-     ],
-     [
-      -63.97,
-      -28.69
-     ],
-     [
-      -64.49,
-      -28.48
-     ],
-     [
-      -64.84,
-      -28.87
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_17_0733_cap_es",
    "tipo": "aviso a corto plazo",
@@ -52067,8 +51975,7 @@
   ],
   "Colonia Pando": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
-   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4",
-   "2026_11_17_0703_cap_es"
+   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4"
   ],
   "Concepción (Corrientes)": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
@@ -52096,8 +52003,7 @@
   ],
   "Pedro R. Fernández": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
-   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4",
-   "2026_11_17_0703_cap_es"
+   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4"
   ],
   "Perugorría": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
@@ -52105,13 +52011,11 @@
   ],
   "San Roque (Corrientes)": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
-   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4",
-   "2026_11_17_0703_cap_es"
+   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4"
   ],
   "Santa Rosa (Corrientes)": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4",
-   "2026_11_17_0703_cap_es",
    "2026_11_17_0848_cap_es"
   ],
   "Sauce": [
@@ -52121,13 +52025,11 @@
   "Tabay": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4",
-   "2026_11_17_0703_cap_es",
    "2026_11_17_0848_cap_es"
   ],
   "Tatacua": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_4",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_4",
-   "2026_11_17_0703_cap_es",
    "2026_11_17_0848_cap_es"
   ],
   "Avellaneda (Córdoba)": [
@@ -52205,7 +52107,6 @@
   "Gutemberg": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_2",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_2",
-   "2026_11_17_0711_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_56",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_56"
   ],
@@ -52248,7 +52149,6 @@
   "Pozo Nuevo": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_2",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_2",
-   "2026_11_17_0711_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_56",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_56"
   ],
@@ -52303,7 +52203,6 @@
   "San Pedro de Gütemberg": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_2",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_2",
-   "2026_11_17_0711_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_56",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_56"
   ],
@@ -52334,7 +52233,6 @@
   "Villa Candelaria": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_2",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_2",
-   "2026_11_17_0711_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_56",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_56"
   ],
@@ -53107,8 +53005,7 @@
   ],
   "El 49": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_14",
-   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_14",
-   "2026_11_17_0711_cap_es"
+   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_14"
   ],
   "El Deán": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_14",
@@ -53241,8 +53138,7 @@
   ],
   "Sol de Julio": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_14",
-   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_14",
-   "2026_11_17_0711_cap_es"
+   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_14"
   ],
   "Sumamao": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_14",
@@ -53277,8 +53173,7 @@
   ],
   "Villa Ojo de Agua": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_14",
-   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_14",
-   "2026_11_17_0711_cap_es"
+   "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_14"
   ],
   "Villa San Martín (Est. Loreto)": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_14",
@@ -53573,7 +53468,6 @@
   "Sumampa": [
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_13",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_13",
-   "2026_11_17_0711_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_63",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_63"
   ],
@@ -54900,7 +54794,6 @@
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_50"
   ],
   "Empedrado": [
-   "2026_11_17_0703_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_50",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_42",
@@ -54931,7 +54824,6 @@
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_50"
   ],
   "Mburucuyá": [
-   "2026_11_17_0703_cap_es",
    "2026_11_17_0848_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_50",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_42",
@@ -54969,7 +54861,6 @@
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_50"
   ],
   "Saladas": [
-   "2026_11_17_0703_cap_es",
    "2026_11_17_0848_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_50",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_42",
@@ -54989,7 +54880,6 @@
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_50"
   ],
   "San Lorenzo (Corrientes)": [
-   "2026_11_17_0703_cap_es",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_50",
    "CAP_20261117031226_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261117031225_Tormenta_Llanura_alertas_alertas_42",
