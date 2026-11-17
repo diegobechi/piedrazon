@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-17 08:46",
+ "consultado": "2026-11-17 09:00",
  "alertas": [
   {
    "id": "2026_11_17_1023_cap_es",
@@ -278,6 +278,50 @@
      [
       -54.7,
       -26.55
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_17_1149_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-17T11:49:00-03:00",
+   "hasta": "2026-11-17T13:49:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CHACO: 25 DE MAYO - CMTE FERNANDEZ - LDOR GRAL S.  MARTIN - MAIPU - PRES DE LA PLAZA - QUITILIPI - SARGENTO CABRAL.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1149_cap_es.xml",
+   "desde_local": "17/11 11:49",
+   "hasta_local": "17/11 13:49",
+   "localidades": 6,
+   "poligonos": [
+    [
+     [
+      -60.48,
+      -26.72
+     ],
+     [
+      -60.36,
+      -26.94
+     ],
+     [
+      -59.55,
+      -26.91
+     ],
+     [
+      -59.89,
+      -26.33
+     ],
+     [
+      -60.39,
+      -26.47
+     ],
+     [
+      -60.48,
+      -26.72
      ]
     ]
    ]
@@ -43263,12 +43307,14 @@
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_29"
   ],
   "Las Garcitas": [
+   "2026_11_17_1149_cap_es",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_29",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_29"
   ],
   "Machagai": [
+   "2026_11_17_1149_cap_es",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_29",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_14",
@@ -43281,6 +43327,7 @@
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_29"
   ],
   "Napalpí": [
+   "2026_11_17_1149_cap_es",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_29",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_14",
@@ -43318,6 +43365,7 @@
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_29"
   ],
   "Presidencia Roque Sáenz Peña": [
+   "2026_11_17_1149_cap_es",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_29",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_14",
@@ -43330,6 +43378,7 @@
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_29"
   ],
   "Quitilipi": [
+   "2026_11_17_1149_cap_es",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_29",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_14",
@@ -43372,6 +43421,7 @@
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_29"
   ],
   "Villa El Palmar": [
+   "2026_11_17_1149_cap_es",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_29",
    "CAP_20261117090334_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117090326_Tormenta_Llanura_alertas_alertas_14",
