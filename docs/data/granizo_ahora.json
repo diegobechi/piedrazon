@@ -1,299 +1,242 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-16 23:15",
+ "consultado": "2026-11-16 23:30",
  "radares": {
-  "RMA1": "2026-11-16 22:59",
-  "RMA17": "2026-11-16 22:59"
+  "RMA17": "2026-11-16 23:15",
+  "RMA1": "2026-11-16 23:17"
  },
  "nucleos": [
   {
-   "lat": -30.8899,
-   "lon": -64.4931,
-   "max_dbz": 61,
-   "tope_km": 12.9,
+   "lat": -30.3537,
+   "lon": -64.8482,
+   "max_dbz": 63,
+   "tope_km": 17.0,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -31.387,
-   "lon": -63.2882,
-   "max_dbz": 59,
-   "tope_km": 9.4,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -31.2697,
-   "lon": -63.3958,
-   "max_dbz": 58,
-   "tope_km": 8.8,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -30.4539,
-   "lon": -64.9773,
-   "max_dbz": 58,
-   "tope_km": 16.4,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -31.1161,
-   "lon": -63.4604,
-   "max_dbz": 58,
-   "tope_km": 8.2,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -31.2426,
-   "lon": -63.5249,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -30.8808,
-   "lon": -63.342,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -32.2013,
-   "lon": -64.9787,
-   "max_dbz": 55,
-   "tope_km": 7.6,
+   "lat": -31.3959,
+   "lon": -62.7803,
+   "max_dbz": 56,
+   "tope_km": 14.1,
    "radar": "RMA17",
-   "nivel": "posible granizo"
+   "nivel": "granizo probable"
   },
   {
-   "lat": -31.0347,
-   "lon": -63.2344,
+   "lat": -30.5267,
+   "lon": -63.3635,
+   "max_dbz": 56,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -30.6449,
+   "lon": -64.6653,
+   "max_dbz": 55,
+   "tope_km": 13.5,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -30.9442,
+   "lon": -63.8477,
    "max_dbz": 54,
    "tope_km": 10.6,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -31.0981,
-   "lon": -62.9655,
+   "lat": -30.8536,
+   "lon": -64.3318,
    "max_dbz": 54,
+   "tope_km": 12.3,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.9804,
+   "lon": -64.4071,
+   "max_dbz": 53,
+   "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.1739,
+   "lon": -65.0117,
+   "max_dbz": 52,
+   "tope_km": 7.6,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -30.2352,
+   "lon": -65.2893,
+   "max_dbz": 52,
+   "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.8173,
+   "lon": -64.633,
+   "max_dbz": 52,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.8989,
+   "lon": -64.1381,
+   "max_dbz": 51,
+   "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.7538,
+   "lon": -64.5469,
+   "max_dbz": 51,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.9804,
+   "lon": -64.2887,
+   "max_dbz": 51,
+   "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.8989,
+   "lon": -63.4819,
+   "max_dbz": 50,
+   "tope_km": 9.4,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.3446,
+   "lon": -65.4076,
+   "max_dbz": 50,
+   "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.7448,
+   "lon": -63.5357,
+   "max_dbz": 50,
    "tope_km": 8.2,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -31.089,
-   "lon": -63.3743,
-   "max_dbz": 54,
-   "tope_km": 7.6,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.0006,
-   "lon": -65.0007,
-   "max_dbz": 54,
-   "tope_km": 8.8,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -30.299,
-   "lon": -62.9225,
-   "max_dbz": 53,
-   "tope_km": 15.2,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -30.8899,
-   "lon": -64.0628,
-   "max_dbz": 53,
-   "tope_km": 10.0,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -31.4861,
-   "lon": -63.1914,
-   "max_dbz": 53,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -30.8717,
-   "lon": -63.2667,
-   "max_dbz": 53,
-   "tope_km": 8.8,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -31.5979,
-   "lon": -63.066,
-   "max_dbz": 53,
+   "lat": -30.3628,
+   "lon": -65.3108,
+   "max_dbz": 50,
    "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.6631,
+   "lon": -64.8267,
+   "max_dbz": 50,
+   "tope_km": 14.1,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.1101,
+   "lon": -64.9457,
+   "max_dbz": 49,
+   "tope_km": 8.2,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -30.8083,
-   "lon": -64.9235,
-   "max_dbz": 52,
+   "lat": -30.4812,
+   "lon": -64.8267,
+   "max_dbz": 49,
    "tope_km": 12.9,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -30.3264,
-   "lon": -64.9988,
-   "max_dbz": 52,
-   "tope_km": 17.0,
+   "lat": -30.554,
+   "lon": -64.8482,
+   "max_dbz": 49,
+   "tope_km": 14.1,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -30.8899,
-   "lon": -64.8051,
-   "max_dbz": 51,
-   "tope_km": 11.1,
+   "lat": -31.4694,
+   "lon": -62.8792,
+   "max_dbz": 48,
+   "tope_km": 10.6,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -30.0983,
+   "lon": -62.7288,
+   "max_dbz": 48,
+   "tope_km": 9.4,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -30.7992,
-   "lon": -64.2242,
-   "max_dbz": 51,
-   "tope_km": 11.1,
-   "radar": "RMA1",
+   "lat": -31.5796,
+   "lon": -62.6813,
+   "max_dbz": 47,
+   "tope_km": 12.9,
+   "radar": "RMA17",
    "nivel": null
   },
   {
    "lat": -30.8717,
-   "lon": -64.2995,
-   "max_dbz": 51,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -30.9714,
-   "lon": -64.8697,
-   "max_dbz": 50,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -31.4419,
-   "lon": -63.2309,
-   "max_dbz": 50,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -31.0981,
-   "lon": -64.3103,
-   "max_dbz": 49,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -30.4357,
-   "lon": -62.9547,
-   "max_dbz": 48,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.2833,
-   "lon": -64.9677,
-   "max_dbz": 48,
-   "tope_km": 7.6,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -30.7538,
-   "lon": -64.9665,
+   "lon": -63.299,
    "max_dbz": 47,
-   "tope_km": 14.1,
+   "tope_km": 8.8,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -31.0438,
+   "lon": -63.0731,
+   "max_dbz": 47,
+   "tope_km": 7.6,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.3902,
+   "lon": -62.6858,
+   "max_dbz": 47,
+   "tope_km": 12.9,
    "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "Capilla del Monte": {
+  "El Tío": {
    "nivel": "granizo probable",
-   "km": 5.6,
-   "max_dbz": 61,
-   "tope_km": 12.9,
-   "visto": "2026-11-16 22:59"
+   "km": 4.1,
+   "max_dbz": 56,
+   "tope_km": 14.1,
+   "visto": "2026-11-16 23:15"
   },
-  "Guanaco Muerto": {
+  "Villa Concepción del Tío": {
    "nivel": "granizo probable",
-   "km": 8.5,
-   "max_dbz": 58,
-   "tope_km": 16.4,
-   "visto": "2026-11-16 22:59"
-  },
-  "La Cumbre": {
-   "nivel": "granizo probable",
-   "km": 9.5,
-   "max_dbz": 61,
-   "tope_km": 12.9,
-   "visto": "2026-11-16 22:59"
-  },
-  "La Puerta": {
-   "nivel": "posible granizo",
-   "km": 8.4,
-   "max_dbz": 57,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 22:59"
-  },
-  "Los Chañaritos (dpto. Río Segundo)": {
-   "nivel": "posible granizo",
-   "km": 4.7,
-   "max_dbz": 59,
-   "tope_km": 9.4,
-   "visto": "2026-11-16 22:59"
-  },
-  "Los Cocos": {
-   "nivel": "granizo probable",
-   "km": 4.2,
-   "max_dbz": 61,
-   "tope_km": 12.9,
-   "visto": "2026-11-16 22:59"
-  },
-  "Sagrada Familia": {
-   "nivel": "posible granizo",
-   "km": 5.1,
-   "max_dbz": 58,
-   "tope_km": 8.8,
-   "visto": "2026-11-16 22:59"
-  },
-  "San Esteban": {
-   "nivel": "granizo probable",
-   "km": 5.1,
-   "max_dbz": 61,
-   "tope_km": 12.9,
-   "visto": "2026-11-16 22:59"
-  },
-  "Villa Santa Rosa": {
-   "nivel": "posible granizo",
-   "km": 6.9,
-   "max_dbz": 58,
-   "tope_km": 8.2,
-   "visto": "2026-11-16 22:59"
+   "km": 8.0,
+   "max_dbz": 56,
+   "tope_km": 14.1,
+   "visto": "2026-11-16 23:15"
   }
  }
 }
