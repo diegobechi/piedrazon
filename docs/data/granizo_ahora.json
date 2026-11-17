@@ -1,112 +1,99 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 01:15",
+ "consultado": "2026-11-17 01:30",
  "radares": {
-  "RMA17": "2026-11-17 00:45",
-  "RMA1": "2026-11-17 00:57"
+  "RMA1": "2026-11-17 01:15",
+  "RMA17": "2026-11-17 01:18"
  },
  "nucleos": [
   {
-   "lat": -30.4175,
-   "lon": -65.3861,
-   "max_dbz": 59,
+   "lat": -29.4843,
+   "lon": -64.1274,
+   "max_dbz": 60,
+   "tope_km": null,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -30.4266,
+   "lon": -65.1709,
+   "max_dbz": 57,
+   "tope_km": 12.3,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -29.8788,
+   "lon": -64.945,
+   "max_dbz": 56,
    "tope_km": 13.5,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -30.4812,
-   "lon": -65.2355,
-   "max_dbz": 57,
-   "tope_km": 12.9,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -29.7321,
-   "lon": -64.0951,
-   "max_dbz": 57,
-   "tope_km": 14.1,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.1375,
+   "lat": -32.1192,
    "lon": -64.9897,
-   "max_dbz": 55,
+   "max_dbz": 53,
    "tope_km": 8.2,
    "radar": "RMA17",
-   "nivel": "posible granizo"
+   "nivel": null
   },
   {
-   "lat": -29.8055,
-   "lon": -65.0956,
-   "max_dbz": 55,
-   "tope_km": 14.7,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -29.6312,
-   "lon": -64.2027,
-   "max_dbz": 55,
+   "lat": -29.9703,
+   "lon": -64.7621,
+   "max_dbz": 52,
    "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -29.952,
-   "lon": -64.9665,
-   "max_dbz": 50,
-   "tope_km": 12.9,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -29.5578,
-   "lon": -64.3856,
+   "lat": -31.497,
+   "lon": -63.121,
+   "max_dbz": 49,
+   "tope_km": 12.9,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -30.5994,
+   "lon": -64.3748,
+   "max_dbz": 48,
+   "tope_km": 10.0,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -29.6679,
+   "lon": -64.8267,
    "max_dbz": 48,
    "tope_km": 11.7,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -31.5153,
-   "lon": -63.132,
+   "lat": -29.6404,
+   "lon": -63.923,
    "max_dbz": 47,
-   "tope_km": 12.3,
-   "radar": "RMA17",
+   "tope_km": 14.1,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -29.6129,
+   "lon": -64.3963,
+   "max_dbz": 47,
+   "tope_km": 11.7,
+   "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
   "La Batea": {
    "nivel": "granizo probable",
-   "km": 6.7,
+   "km": 9.3,
    "max_dbz": 57,
-   "tope_km": 12.9,
-   "visto": "2026-11-17 00:57"
-  },
-  "La Población": {
-   "nivel": "posible granizo",
-   "km": 6.7,
-   "max_dbz": 55,
-   "tope_km": 8.2,
-   "visto": "2026-11-17 00:45"
-  },
-  "Luyaba": {
-   "nivel": "posible granizo",
-   "km": 8.0,
-   "max_dbz": 55,
-   "tope_km": 8.2,
-   "visto": "2026-11-17 00:45"
-  },
-  "Pozo Nuevo": {
-   "nivel": "granizo probable",
-   "km": 9.8,
-   "max_dbz": 55,
-   "tope_km": 11.7,
-   "visto": "2026-11-17 00:57"
+   "tope_km": 12.3,
+   "visto": "2026-11-17 01:15"
   }
  }
 }
