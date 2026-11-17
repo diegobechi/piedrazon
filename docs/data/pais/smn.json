@@ -1,51 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-17 10:45",
+ "consultado": "2026-11-17 11:00",
  "alertas": [
-  {
-   "id": "2026_11_17_1149_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-17T11:49:00-03:00",
-   "hasta": "2026-11-17T13:49:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CHACO: 25 DE MAYO - CMTE FERNANDEZ - LDOR GRAL S.  MARTIN - MAIPU - PRES DE LA PLAZA - QUITILIPI - SARGENTO CABRAL.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1149_cap_es.xml",
-   "desde_local": "17/11 11:49",
-   "hasta_local": "17/11 13:49",
-   "localidades": 6,
-   "poligonos": [
-    [
-     [
-      -60.48,
-      -26.72
-     ],
-     [
-      -60.36,
-      -26.94
-     ],
-     [
-      -59.55,
-      -26.91
-     ],
-     [
-      -59.89,
-      -26.33
-     ],
-     [
-      -60.39,
-      -26.47
-     ],
-     [
-      -60.48,
-      -26.72
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_17_1230_cap_es",
    "tipo": "aviso a corto plazo",
@@ -150,6 +106,66 @@
      [
       -56.35,
       -27.52
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_17_1351_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-17T13:51:00-03:00",
+   "hasta": "2026-11-17T15:51:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "FORMOSA: BERMEJO - PATINO. CHACO: GRAL GUEMES.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_17_1351_cap_es.xml",
+   "desde_local": "17/11 13:51",
+   "hasta_local": "17/11 15:51",
+   "localidades": 5,
+   "poligonos": [
+    [
+     [
+      -61.26,
+      -24.94
+     ],
+     [
+      -61.53,
+      -24.97
+     ],
+     [
+      -62.18,
+      -24.73
+     ],
+     [
+      -61.89,
+      -24.38
+     ],
+     [
+      -61.45,
+      -24.2
+     ],
+     [
+      -60.91,
+      -24.44
+     ],
+     [
+      -60.79,
+      -24.82
+     ],
+     [
+      -60.87,
+      -25.05
+     ],
+     [
+      -61.12,
+      -24.93
+     ],
+     [
+      -61.26,
+      -24.94
      ]
     ]
    ]
@@ -43524,48 +43540,6 @@
   }
  ],
  "localidades": {
-  "Las Garcitas": [
-   "2026_11_17_1149_cap_es",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
-  ],
-  "Machagai": [
-   "2026_11_17_1149_cap_es",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
-  ],
-  "Napalpí": [
-   "2026_11_17_1149_cap_es",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
-  ],
-  "Presidencia Roque Sáenz Peña": [
-   "2026_11_17_1149_cap_es",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
-  ],
-  "Quitilipi": [
-   "2026_11_17_1149_cap_es",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
-  ],
-  "Villa El Palmar": [
-   "2026_11_17_1149_cap_es",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
-   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
-   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
-  ],
   "Fuerte Esperanza": [
    "2026_11_17_1230_cap_es",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_10",
@@ -44931,7 +44905,25 @@
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
   ],
+  "Las Garcitas": [
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
+  ],
+  "Machagai": [
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
+  ],
   "Mesón de Fierro": [
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
+  ],
+  "Napalpí": [
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
@@ -44967,7 +44959,19 @@
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
   ],
+  "Presidencia Roque Sáenz Peña": [
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
+  ],
   "Presidencia de la Plaza": [
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
+  ],
+  "Quitilipi": [
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
@@ -45004,6 +45008,12 @@
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
   ],
   "Villa Berthet": [
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
+   "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
+   "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_22"
+  ],
+  "Villa El Palmar": [
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_22",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_9",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_9",
@@ -45054,6 +45064,7 @@
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_12"
   ],
   "Pozo del Mortero": [
+   "2026_11_17_1351_cap_es",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_12",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_12"
   ],
@@ -46490,14 +46501,17 @@
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_27"
   ],
   "El Sauzal (Chaco)": [
+   "2026_11_17_1351_cap_es",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_10"
   ],
   "El Sauzalito": [
+   "2026_11_17_1351_cap_es",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_10"
   ],
   "Nueva Pompeya (Chaco)": [
+   "2026_11_17_1351_cap_es",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_10"
   ],
@@ -46506,6 +46520,7 @@
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_10"
   ],
   "Wichi": [
+   "2026_11_17_1351_cap_es",
    "CAP_20261117122743_Tormenta_Patagonia_alertas_alertas_10",
    "CAP_20261117122743_Tormenta_Llanura_alertas_alertas_10"
   ],
