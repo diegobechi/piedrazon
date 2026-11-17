@@ -1,77 +1,106 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 01:45",
+ "consultado": "2026-11-17 02:00",
  "radares": {
-  "RMA1": "2026-11-17 01:33",
-  "RMA17": "2026-11-17 01:34",
-  "RMA16": "2026-11-17 01:30"
+  "RMA1": "2026-11-17 01:43",
+  "RMA17": "2026-11-17 01:51",
+  "RMA16": "2026-11-17 01:38"
  },
  "nucleos": [
   {
-   "lat": -29.4935,
-   "lon": -63.8799,
-   "max_dbz": 62,
+   "lat": -29.4751,
+   "lon": -63.7616,
+   "max_dbz": 61,
    "tope_km": null,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -29.7321,
-   "lon": -64.7083,
-   "max_dbz": 57,
-   "tope_km": 11.1,
+   "lat": -29.7597,
+   "lon": -64.6115,
+   "max_dbz": 58,
+   "tope_km": 13.5,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.5287,
-   "lon": -64.9018,
-   "max_dbz": 57,
+   "lat": -32.0006,
+   "lon": -64.9897,
+   "max_dbz": 58,
+   "tope_km": 8.8,
+   "radar": "RMA17",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -32.1284,
+   "lon": -64.9677,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "radar": "RMA17",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -30.3446,
+   "lon": -65.0203,
+   "max_dbz": 52,
+   "tope_km": 10.0,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -30.3537,
+   "lon": -64.7298,
+   "max_dbz": 52,
+   "tope_km": 8.8,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.3106,
+   "lon": -64.9347,
+   "max_dbz": 51,
+   "tope_km": 9.4,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.6557,
+   "lon": -64.9237,
+   "max_dbz": 51,
    "tope_km": 5.9,
    "radar": "RMA17",
    "nivel": null,
    "descartado": "tope bajo (5.9 km)"
-  },
-  {
-   "lat": -30.4266,
-   "lon": -65.0311,
-   "max_dbz": 53,
-   "tope_km": 9.4,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -31.9641,
-   "lon": -64.9897,
-   "max_dbz": 51,
-   "tope_km": 11.1,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -30.4448,
-   "lon": -64.6438,
-   "max_dbz": 50,
-   "tope_km": 9.4,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.1831,
-   "lon": -65.0007,
-   "max_dbz": 50,
-   "tope_km": 8.2,
-   "radar": "RMA17",
-   "nivel": null
   }
  ],
  "localidades": {
+  "La Población": {
+   "nivel": "posible granizo",
+   "km": 6.3,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-17 01:51"
+  },
   "Lucio Victorio Mansilla": {
    "nivel": "granizo probable",
-   "km": 8.0,
-   "max_dbz": 57,
-   "tope_km": 11.1,
-   "visto": "2026-11-17 01:33"
+   "km": 6.7,
+   "max_dbz": 58,
+   "tope_km": 13.5,
+   "visto": "2026-11-17 01:43"
+  },
+  "San Javier y Yacanto": {
+   "nivel": "posible granizo",
+   "km": 4.8,
+   "max_dbz": 58,
+   "tope_km": 8.8,
+   "visto": "2026-11-17 01:51"
+  },
+  "Villa de las Rosas": {
+   "nivel": "posible granizo",
+   "km": 8.1,
+   "max_dbz": 58,
+   "tope_km": 8.8,
+   "visto": "2026-11-17 01:51"
   }
  }
 }
