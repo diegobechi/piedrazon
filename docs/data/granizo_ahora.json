@@ -1,100 +1,124 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 22:30",
+ "consultado": "2026-11-17 22:45",
  "radares": {
-  "RMA16": "2026-11-17 22:15",
-  "RMA17": "2026-11-17 22:17",
-  "RMA1": "2026-11-17 22:16"
+  "RMA16": "2026-11-17 22:31",
+  "RMA1": "2026-11-17 22:34",
+  "RMA17": "2026-11-17 22:33"
  },
  "nucleos": [
   {
-   "lat": -33.3665,
-   "lon": -65.1326,
-   "max_dbz": 63,
+   "lat": -33.3846,
+   "lon": -65.0442,
+   "max_dbz": 67,
    "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.4929,
-   "lon": -65.7399,
-   "max_dbz": 61,
-   "tope_km": 12.9,
+   "lat": -33.4748,
+   "lon": -65.6405,
+   "max_dbz": 64,
+   "tope_km": 13.5,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -34.0681,
-   "lon": -65.4307,
-   "max_dbz": 60,
-   "tope_km": 10.6,
+   "lat": -34.1934,
+   "lon": -65.7951,
+   "max_dbz": 63,
+   "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.745,
-   "lon": -64.9448,
-   "max_dbz": 57,
-   "tope_km": 11.1,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.3287,
-   "lon": -64.59,
-   "max_dbz": 55,
+   "lat": -34.086,
+   "lon": -65.243,
+   "max_dbz": 59,
    "tope_km": 9.4,
-   "radar": "RMA1",
+   "radar": "RMA16",
    "nivel": "posible granizo"
   },
   {
-   "lat": -33.646,
-   "lon": -65.0553,
-   "max_dbz": 52,
+   "lat": -33.4929,
+   "lon": -65.7289,
+   "max_dbz": 53,
+   "tope_km": 11.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.8438,
+   "lon": -64.5473,
+   "max_dbz": 53,
    "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.3766,
-   "lon": -65.497,
-   "max_dbz": 50,
+   "lat": -33.3331,
+   "lon": -64.9677,
+   "max_dbz": 53,
+   "tope_km": 14.1,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.3857,
+   "lon": -65.3313,
+   "max_dbz": 52,
+   "tope_km": 12.9,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.619,
+   "lon": -64.8123,
+   "max_dbz": 52,
    "tope_km": 13.5,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.8712,
-   "lon": -64.7698,
-   "max_dbz": 49,
-   "tope_km": 12.9,
+   "lat": -33.3871,
+   "lon": -64.8688,
+   "max_dbz": 51,
+   "tope_km": 14.7,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.737,
-   "lon": -64.6269,
-   "max_dbz": 48,
+   "lat": -33.7907,
+   "lon": -64.4731,
+   "max_dbz": 51,
    "tope_km": 11.7,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.1947,
-   "lon": -64.9665,
-   "max_dbz": 48,
-   "tope_km": 11.1,
+   "lat": -32.3911,
+   "lon": -65.2139,
+   "max_dbz": 50,
+   "tope_km": 12.3,
    "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -33.4949,
+   "lon": -65.5723,
+   "max_dbz": 50,
+   "tope_km": 15.2,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.3675,
+   "lon": -65.1326,
+   "max_dbz": 48,
+   "tope_km": 13.5,
+   "radar": "RMA16",
    "nivel": null
   }
  ],
- "localidades": {
-  "Cañada del Sauce": {
-   "nivel": "posible granizo",
-   "km": 7.5,
-   "max_dbz": 55,
-   "tope_km": 9.4,
-   "visto": "2026-11-17 22:16"
-  }
- }
+ "localidades": {}
 }
