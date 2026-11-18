@@ -1,121 +1,121 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 01:45",
+ "consultado": "2026-11-18 02:00",
  "radares": {
-  "RMA16": "2026-11-18 01:31",
-  "RMA17": "2026-11-18 01:25",
-  "RMA1": "2026-11-18 01:32"
+  "RMA16": "2026-11-18 01:48",
+  "RMA17": "2026-11-18 01:42",
+  "RMA1": "2026-11-18 01:41"
  },
  "nucleos": [
   {
-   "lat": -33.5109,
-   "lon": -65.0553,
-   "max_dbz": 63,
-   "tope_km": 12.3,
+   "lat": -33.3575,
+   "lon": -65.1767,
+   "max_dbz": 60,
+   "tope_km": 7.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -34.2023,
-   "lon": -64.3485,
-   "max_dbz": 57,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -33.5469,
-   "lon": -64.8344,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "radar": "RMA16",
+   "lat": -33.2881,
+   "lon": -64.4291,
+   "max_dbz": 60,
+   "tope_km": 12.9,
+   "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.2219,
-   "lon": -64.5031,
-   "max_dbz": 56,
+   "lat": -33.2852,
+   "lon": -64.2933,
+   "max_dbz": 57,
    "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.574,
-   "lon": -64.4479,
-   "max_dbz": 53,
-   "tope_km": 10.6,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.2161,
-   "lon": -64.583,
-   "max_dbz": 53,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -33.5218,
-   "lon": -65.1106,
-   "max_dbz": 53,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -33.565,
-   "lon": -64.6688,
-   "max_dbz": 52,
+   "lat": -33.2607,
+   "lon": -64.3533,
+   "max_dbz": 57,
    "tope_km": 11.7,
-   "radar": "RMA16",
-   "nivel": null
+   "radar": "RMA1",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -33.5757,
-   "lon": -64.528,
-   "max_dbz": 51,
+   "lat": -33.583,
+   "lon": -65.0221,
+   "max_dbz": 56,
    "tope_km": 10.6,
-   "radar": "RMA17",
-   "nivel": null
+   "radar": "RMA16",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -34.2917,
-   "lon": -65.8614,
-   "max_dbz": 50,
-   "tope_km": 11.1,
+   "lat": -33.5019,
+   "lon": -64.978,
+   "max_dbz": 54,
+   "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.9229,
-   "lon": -64.6467,
-   "max_dbz": 49,
+   "lat": -32.9773,
+   "lon": -64.47,
+   "max_dbz": 53,
+   "tope_km": 12.9,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.8684,
+   "lon": -64.4921,
+   "max_dbz": 52,
    "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -34.4702,
-   "lon": -65.7841,
-   "max_dbz": 48,
+   "lat": -33.592,
+   "lon": -64.6909,
+   "max_dbz": 51,
    "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.0589,
-   "lon": -64.6688,
-   "max_dbz": 47,
-   "tope_km": 13.5,
+   "lat": -33.601,
+   "lon": -64.6025,
+   "max_dbz": 50,
+   "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.727,
-   "lon": -63.6639,
-   "max_dbz": 47,
-   "tope_km": 10.6,
+   "lat": -34.256,
+   "lon": -64.0946,
+   "max_dbz": 49,
+   "tope_km": 9.4,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.9815,
+   "lon": -64.539,
+   "max_dbz": 49,
+   "tope_km": 12.3,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -33.5846,
+   "lon": -64.7479,
+   "max_dbz": 49,
+   "tope_km": 12.9,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -34.256,
+   "lon": -65.7509,
+   "max_dbz": 48,
+   "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": null
   }
@@ -123,24 +123,17 @@
  "localidades": {
   "Chaján": {
    "nivel": "granizo probable",
-   "km": 6.9,
-   "max_dbz": 63,
-   "tope_km": 12.3,
-   "visto": "2026-11-18 01:31"
-  },
-  "Las Vertientes": {
-   "nivel": "granizo probable",
-   "km": 9.8,
+   "km": 3.4,
    "max_dbz": 56,
-   "tope_km": 17.0,
-   "visto": "2026-11-18 01:31"
+   "tope_km": 10.6,
+   "visto": "2026-11-18 01:48"
   },
   "Santa Catalina Holmberg": {
    "nivel": "granizo probable",
-   "km": 7.5,
-   "max_dbz": 56,
-   "tope_km": 17.0,
-   "visto": "2026-11-18 01:31"
+   "km": 9.4,
+   "max_dbz": 57,
+   "tope_km": 11.7,
+   "visto": "2026-11-18 01:41"
   }
  }
 }
