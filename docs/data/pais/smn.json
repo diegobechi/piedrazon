@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-18 04:30",
+ "consultado": "2026-11-18 04:45",
  "alertas": [
   {
    "id": "2026_11_18_0720_cap_es",
@@ -86,6 +86,50 @@
      [
       -58.95,
       -28.61
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_18_0744_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T07:44:00-03:00",
+   "hasta": "2026-11-18T08:44:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "CHACO: 12 DE OCTUBRE - 9 DE JULIO - CHACABUCO - MAYOR L.  J.  FONTANA - O HIGGINS - SAN LORENZO.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_0744_cap_es.xml",
+   "desde_local": "18/11 07:44",
+   "hasta_local": "18/11 08:44",
+   "localidades": 8,
+   "poligonos": [
+    [
+     [
+      -61.35,
+      -27.17
+     ],
+     [
+      -61.35,
+      -27.41
+     ],
+     [
+      -60.31,
+      -27.54
+     ],
+     [
+      -60.28,
+      -27.36
+     ],
+     [
+      -60.29,
+      -27.11
+     ],
+     [
+      -61.35,
+      -27.17
      ]
     ]
    ]
@@ -22076,6 +22120,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "Charata": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
@@ -22132,6 +22177,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "General Pinedo": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
@@ -22156,6 +22202,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "La Clotilde": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
@@ -22188,6 +22235,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "Mesón de Fierro": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
@@ -22204,6 +22252,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "Pampa Landriel": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
@@ -22228,10 +22277,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "Samuhú": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "San Bernardo (Chaco)": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
@@ -22248,6 +22299,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
   "Villa Berthet": [
+   "2026_11_18_0744_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_18"
   ],
