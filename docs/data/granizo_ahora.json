@@ -1,124 +1,124 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 22:45",
+ "consultado": "2026-11-17 23:00",
  "radares": {
-  "RMA16": "2026-11-17 22:31",
-  "RMA1": "2026-11-17 22:34",
-  "RMA17": "2026-11-17 22:33"
+  "RMA16": "2026-11-17 22:48",
+  "RMA17": "2026-11-17 22:50",
+  "RMA1": "2026-11-17 22:43"
  },
  "nucleos": [
   {
-   "lat": -33.3846,
-   "lon": -65.0442,
+   "lat": -33.4748,
+   "lon": -65.4417,
    "max_dbz": 67,
+   "tope_km": 14.1,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.404,
+   "lon": -65.1767,
+   "max_dbz": 65,
    "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.4748,
-   "lon": -65.6405,
-   "max_dbz": 64,
-   "tope_km": 13.5,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
    "lat": -34.1934,
-   "lon": -65.7951,
+   "lon": -65.6074,
    "max_dbz": 63,
-   "tope_km": 12.3,
+   "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -34.086,
-   "lon": -65.243,
-   "max_dbz": 59,
-   "tope_km": 9.4,
+   "lat": -33.3575,
+   "lon": -64.8234,
+   "max_dbz": 63,
+   "tope_km": 16.4,
    "radar": "RMA16",
-   "nivel": "posible granizo"
+   "nivel": "granizo probable"
   },
   {
-   "lat": -33.4929,
-   "lon": -65.7289,
-   "max_dbz": 53,
-   "tope_km": 11.1,
+   "lat": -33.3665,
+   "lon": -65.7951,
+   "max_dbz": 61,
+   "tope_km": 12.9,
    "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.3313,
+   "lon": -64.8912,
+   "max_dbz": 56,
+   "tope_km": 10.6,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.405,
+   "lon": -65.4624,
+   "max_dbz": 53,
+   "tope_km": 17.0,
+   "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.8438,
-   "lon": -64.5473,
+   "lat": -32.4535,
+   "lon": -65.4829,
    "max_dbz": 53,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -33.61,
+   "lon": -64.6356,
+   "max_dbz": 52,
    "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.3331,
-   "lon": -64.9677,
-   "max_dbz": 53,
-   "tope_km": 14.1,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.3857,
-   "lon": -65.3313,
-   "max_dbz": 52,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.619,
-   "lon": -64.8123,
-   "max_dbz": 52,
-   "tope_km": 13.5,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.3871,
-   "lon": -64.8688,
+   "lat": -32.4015,
+   "lon": -65.0337,
    "max_dbz": 51,
    "tope_km": 14.7,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.7907,
-   "lon": -64.4731,
+   "lat": -33.8265,
+   "lon": -64.2862,
    "max_dbz": 51,
-   "tope_km": 11.7,
+   "tope_km": 12.9,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.3911,
-   "lon": -65.2139,
+   "lat": -34.086,
+   "lon": -64.9669,
    "max_dbz": 50,
-   "tope_km": 12.3,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.4949,
-   "lon": -65.5723,
-   "max_dbz": 50,
-   "tope_km": 15.2,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.3675,
-   "lon": -65.1326,
-   "max_dbz": 48,
-   "tope_km": 13.5,
+   "tope_km": 10.0,
    "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.4019,
+   "lon": -64.7191,
+   "max_dbz": 47,
+   "tope_km": 11.1,
+   "radar": "RMA1",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Suco": {
+   "nivel": "granizo probable",
+   "km": 9.4,
+   "max_dbz": 63,
+   "tope_km": 16.4,
+   "visto": "2026-11-17 22:48"
+  }
+ }
 }
