@@ -1,59 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-18 14:31",
+ "consultado": "2026-11-18 14:46",
  "alertas": [
-  {
-   "id": "2026_11_18_1631_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas con ocacional caida de granizo",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS CON OCACIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-18T16:31:00-03:00",
-   "hasta": "2026-11-18T17:31:00-03:00",
-   "descripcion": "TORMENTAS CON OCACIONAL CAIDA DE GRANIZO",
-   "instruccion": "---",
-   "zona": "BUENOS AIRES: CAMPANA - ESCOBAR - EXALTACION DE LA CRUZ - GRAL SAN MARTIN - HURLINGHAM - JOSE C.  PAZ - LUJAN - MALVINAS ARGENTINA - MORENO - MORON - PILAR - SAN FERNANDO - SAN ISIDRO - SAN MIGUEL - TIGRE - TRES DE FEBRERO - VICENTE LOPEZ. CAPITAL FEDERAL: CABA.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_1631_cap_es.xml",
-   "desde_local": "18/11 16:31",
-   "hasta_local": "18/11 17:31",
-   "localidades": 148,
-   "poligonos": [
-    [
-     [
-      -58.39,
-      -34.58
-     ],
-     [
-      -58.46,
-      -34.64
-     ],
-     [
-      -58.62,
-      -34.64
-     ],
-     [
-      -59.01,
-      -34.52
-     ],
-     [
-      -59.16,
-      -34.41
-     ],
-     [
-      -59.05,
-      -34.29
-     ],
-     [
-      -58.52,
-      -34.4
-     ],
-     [
-      -58.39,
-      -34.58
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_18_1648_cap_es",
    "tipo": "aviso a corto plazo",
@@ -190,6 +138,54 @@
      [
       -59.12,
       -25.95
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_18_1732_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T17:32:00-03:00",
+   "hasta": "2026-11-18T18:32:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CHACO: 1 DE MAYO - BERMEJO - LIBERTAD - SAN FERNANDO - TAPENAGA. CORRIENTES: CORRIENTES - EMPEDRADO - ITATI - SAN COSME - SAN LUIS DEL PALMAR.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_1732_cap_es.xml",
+   "desde_local": "18/11 17:32",
+   "hasta_local": "18/11 18:32",
+   "localidades": 25,
+   "poligonos": [
+    [
+     [
+      -59.12,
+      -27.87
+     ],
+     [
+      -59.46,
+      -27.45
+     ],
+     [
+      -58.84,
+      -26.89
+     ],
+     [
+      -58.41,
+      -27.02
+     ],
+     [
+      -58.16,
+      -27.36
+     ],
+     [
+      -58.31,
+      -27.72
+     ],
+     [
+      -59.12,
+      -27.87
      ]
     ]
    ]
@@ -42728,6 +42724,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42735,6 +42732,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42749,6 +42747,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42756,6 +42755,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42763,6 +42763,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42777,6 +42778,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42795,6 +42797,7 @@
   "La Leonesa": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42808,6 +42811,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42820,6 +42824,7 @@
   "Las Palmas (Chaco)": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42833,6 +42838,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42852,6 +42858,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42859,6 +42866,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -42866,6 +42874,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_1",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_1",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_14",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_14"
   ],
@@ -43484,6 +43493,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43491,6 +43501,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43503,12 +43514,14 @@
   "Ingenio Primer Correntino": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
   "Itatí": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43546,12 +43559,14 @@
   "Paso de la Patria": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
   "Ramada Paso": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43559,6 +43574,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43573,12 +43589,14 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
   "San Cosme": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43592,6 +43610,7 @@
   "San Luis del Palmar": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -43599,6 +43618,7 @@
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_2",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_2",
    "2026_11_18_1648_cap_es",
+   "2026_11_18_1732_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_15",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_15"
   ],
@@ -46296,452 +46316,11 @@
   "Quines": [
    "CAP_20261118123731_Tormenta_Cordillera_alertas_alertas_1"
   ],
-  "11 de Septiembre": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Acasusso": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Barrio Parque General San Martín": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Bella Vista (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Belén de Escobar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Benavídez": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Billinghurst": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Boulogne Sur Mer": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Béccar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Campo de Mayo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Carapachay": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Caseros (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Churruca": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ciudad Jardín El Libertador": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ciudad Jardín Lomas del Palomar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ciudad del Libertador General San Martín": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ciudadela": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Cuartel V": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Del Viso (dpto. José C. Paz, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Del Viso (dpto. Pilar, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Don Torcuato Este": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Don Torcuato Oeste": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "El Libertador": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "El Palomar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "El Remanso": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "El Talar (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Escobar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Florida": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Florida Oeste": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Fátima": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Garín": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "General Pacheco": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "General San Martín (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Grand Bourg": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Hurlingham": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ingeniero Adolfo Sourdeaux": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ingeniero Maschwitz": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ingeniero Pablo Nogués": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "José C. Paz": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "José Ingenieros": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "La Lonja": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "La Lucila (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Loma Hermosa": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Los Cachorros": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Los Cardales": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Los Polvorines": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Malvinas Argentinas (dpto. Malvinas Argentinas, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Manzanares": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Manzone": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Maquinista F. Savio Este": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Maquinista F. Savio Oeste": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Martín Coronado": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Martínez": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Matheu": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Munro": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Muñiz": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Olivos": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Pablo Podestá": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Parada Orlando": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Parada Robles": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Parada Robles - Pavón": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Pavón (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Pilar (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Presidente Derqui": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Remedios de Escalada": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Ricardo Rojas": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Rincón de Milberg": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Roberto de Vicenzo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "San Fernando": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "San Isidro (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "San Miguel (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Santa Teresa (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Santos Lugares (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Sáenz Peña": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Tigre": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Torres": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Tortuguitas (dpto. José C. Paz, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Tortuguitas (dpto. Malvinas Argentinas, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Tortuguitas (dpto. Pilar, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Tres de Febrero": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Troncos del Talar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Trujui": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Va.Marqués Alejandro María de Aguado": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Va.María Irene de los Remedios Escalada": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Vicente López": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Victoria (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Adelina (dpto. San Isidro, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Adelina (dpto. Vicente López, Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Astolfi": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Ayacucho": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Ballester": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Bernardo Monteagudo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Bosch": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Chacabuco": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Coronel José M. Zapiola": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa General Antonio J. de Sucre": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa General Eugenio Necochea": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa General José Tomás Guido": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa General Juan G. Las Heras": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Godoy Cruz": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Granaderos de San Martín": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Gregoria Matorras": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa José León Suárez": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Juan Martín de Pueyrredón": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Libertad (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Lynch": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Maipú": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Martelli": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Parque Presidente Figueroa Alcorta": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Parque San Lorenzo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Raffo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Rosa": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa San Andrés": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Santos Tesei": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Sarmiento (Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Yapeyú": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa de Mayo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Virreyes": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "William C. Morris": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Zelaya": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Área de Promoción El Triángulo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Agronomía": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Belgrano": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Caballito": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Chacarita": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Coghlan": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Colegiales": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Flores": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Floresta": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Liniers": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Monte Castro": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Nuñez": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Palermo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Parque Chas": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Paternal": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Saavedra (Ciudad Autónoma de Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Versalles": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Crespo": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Devoto": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa General Mitre (Ciudad Autónoma de Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Luro": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Ortúzar": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Pueyrredón": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Real": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Santa Rita": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa Urquiza (Ciudad Autónoma de Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Villa del Parque (Ciudad Autónoma de Buenos Aires)": [
-   "2026_11_18_1631_cap_es"
-  ],
-  "Vélez Sarsfield": [
-   "2026_11_18_1631_cap_es"
-  ],
   "Dique Luján": [
    "2026_11_18_1702_cap_es"
+  ],
+  "Isla del Cerrito": [
+   "2026_11_18_1732_cap_es"
   ]
  }
 }
