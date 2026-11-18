@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-18 04:45",
+ "consultado": "2026-11-18 05:01",
  "alertas": [
   {
    "id": "2026_11_18_0720_cap_es",
@@ -130,6 +130,50 @@
      [
       -61.35,
       -27.17
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_18_0746_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T07:46:00-03:00",
+   "hasta": "2026-11-18T08:46:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "SANTA FE: GRAL OBLIGADO - VERA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_0746_cap_es.xml",
+   "desde_local": "18/11 07:46",
+   "hasta_local": "18/11 08:46",
+   "localidades": 16,
+   "poligonos": [
+    [
+     [
+      -60.7,
+      -28.77
+     ],
+     [
+      -60.71,
+      -29.07
+     ],
+     [
+      -59.55,
+      -29.24
+     ],
+     [
+      -59.28,
+      -29.01
+     ],
+     [
+      -59.23,
+      -28.73
+     ],
+     [
+      -60.7,
+      -28.77
      ]
     ]
    ]
@@ -24768,6 +24812,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Avellaneda (Santa Fe)": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24788,6 +24833,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Colmena": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24796,6 +24842,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "El Araza": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24810,10 +24857,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Fortín Olmos": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Garabato": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24822,10 +24871,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Guadalupe Norte": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Ingeniero Chanourdie": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24834,6 +24885,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Kilómetro 115": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24850,14 +24902,17 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "La Sarita": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Lanteri": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Las Garzas": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24882,14 +24937,17 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Paraje 29": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Paraje San Manuel": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Pozo de los Indios": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24898,10 +24956,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Puerto Reconquista": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Reconquista": [
+   "2026_11_18_0746_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
