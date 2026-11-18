@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-18 14:16",
+ "consultado": "2026-11-18 14:31",
  "alertas": [
   {
    "id": "2026_11_18_1631_cap_es",
@@ -142,6 +142,54 @@
      [
       -58.78,
       -34.35
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_18_1729_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T17:29:00-03:00",
+   "hasta": "2026-11-18T18:29:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "FORMOSA: FORMOSA - PILAGAS - PILCOMAYO - PIRANE.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_1729_cap_es.xml",
+   "desde_local": "18/11 17:29",
+   "hasta_local": "18/11 18:29",
+   "localidades": 7,
+   "poligonos": [
+    [
+     [
+      -59.12,
+      -25.95
+     ],
+     [
+      -59.37,
+      -25.75
+     ],
+     [
+      -58.51,
+      -25.17
+     ],
+     [
+      -58.03,
+      -25.21
+     ],
+     [
+      -58.18,
+      -25.73
+     ],
+     [
+      -59.03,
+      -26.0
+     ],
+     [
+      -59.12,
+      -25.95
      ]
     ]
    ]
@@ -43017,6 +43065,7 @@
   "Colonia Pastoril": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
@@ -43057,6 +43106,7 @@
   "Gran Guardia": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
@@ -43089,6 +43139,7 @@
   "Laguna Naick-Neck": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
@@ -43137,6 +43188,7 @@
   "Pirané": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
@@ -43161,6 +43213,7 @@
   "Riacho He-He": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
@@ -43193,6 +43246,7 @@
   "Siete Palmas": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
@@ -43209,6 +43263,7 @@
   "Tres Lagunas": [
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_6",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_6",
+   "2026_11_18_1729_cap_es",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_19",
    "CAP_20261118123732_Tormenta_Llanura_alertas_alertas_33",
    "CAP_20261118123731_Tormenta_Patagonia_alertas_alertas_33",
