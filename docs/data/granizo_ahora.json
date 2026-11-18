@@ -1,83 +1,116 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 22:00",
+ "consultado": "2026-11-17 22:15",
  "radares": {
-  "RMA1": "2026-11-17 21:49",
-  "RMA16": "2026-11-17 21:34",
-  "RMA17": "2026-11-17 21:44"
+  "RMA17": "2026-11-17 22:01",
+  "RMA1": "2026-11-17 21:58",
+  "RMA16": "2026-11-17 21:59"
  },
  "nucleos": [
   {
-   "lat": -33.8259,
-   "lon": -65.519,
-   "max_dbz": 64,
+   "lat": -33.664,
+   "lon": -65.3424,
+   "max_dbz": 62,
+   "tope_km": 8.2,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.7809,
+   "lon": -65.1657,
+   "max_dbz": 60,
    "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.2761,
-   "lon": -65.1657,
-   "max_dbz": 58,
-   "tope_km": 14.7,
+   "lat": -32.3857,
+   "lon": -64.8565,
+   "max_dbz": 59,
+   "tope_km": 13.5,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.3555,
-   "lon": -64.9342,
+   "lat": -34.0322,
+   "lon": -65.6405,
+   "max_dbz": 58,
+   "tope_km": 10.0,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.4288,
+   "lon": -64.8358,
+   "max_dbz": 57,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.3575,
+   "lon": -65.2982,
    "max_dbz": 56,
    "tope_km": 10.6,
-   "radar": "RMA1",
+   "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.0427,
-   "lon": -64.9127,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.3379,
-   "lon": -65.0447,
-   "max_dbz": 54,
-   "tope_km": 14.1,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -33.8176,
-   "lon": -65.2865,
-   "max_dbz": 53,
+   "lat": -32.3288,
+   "lon": -64.8248,
+   "max_dbz": 55,
    "tope_km": 13.5,
    "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.737,
+   "lon": -65.0666,
+   "max_dbz": 54,
+   "tope_km": 11.7,
+   "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.601,
-   "lon": -65.6295,
-   "max_dbz": 50,
+   "lat": -33.673,
+   "lon": -65.4417,
+   "max_dbz": 52,
    "tope_km": 9.4,
    "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -34.2828,
+   "lon": -65.8061,
+   "max_dbz": 52,
+   "tope_km": 11.7,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.5218,
+   "lon": -65.8801,
+   "max_dbz": 49,
+   "tope_km": 14.7,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -33.8086,
+   "lon": -64.9127,
+   "max_dbz": 47,
+   "tope_km": 12.9,
+   "radar": "RMA17",
    "nivel": null
   }
  ],
  "localidades": {
-  "La Paz": {
+  "Lutti": {
    "nivel": "granizo probable",
-   "km": 7.1,
-   "max_dbz": 58,
-   "tope_km": 14.7,
-   "visto": "2026-11-17 21:34"
-  },
-  "La Población": {
-   "nivel": "granizo probable",
-   "km": 8.9,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "visto": "2026-11-17 21:49"
+   "km": 8.6,
+   "max_dbz": 55,
+   "tope_km": 13.5,
+   "visto": "2026-11-17 22:01"
   }
  }
 }
