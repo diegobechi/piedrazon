@@ -1,139 +1,92 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 02:00",
+ "consultado": "2026-11-18 02:15",
  "radares": {
-  "RMA16": "2026-11-18 01:48",
-  "RMA17": "2026-11-18 01:42",
-  "RMA1": "2026-11-18 01:41"
+  "RMA16": "2026-11-18 02:04",
+  "RMA1": "2026-11-18 02:00",
+  "RMA17": "2026-11-18 01:58"
  },
  "nucleos": [
   {
-   "lat": -33.3575,
-   "lon": -65.1767,
-   "max_dbz": 60,
-   "tope_km": 7.0,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.2881,
-   "lon": -64.4291,
-   "max_dbz": 60,
-   "tope_km": 12.9,
+   "lat": -33.3601,
+   "lon": -64.2532,
+   "max_dbz": 63,
+   "tope_km": 12.3,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.2852,
-   "lon": -64.2933,
-   "max_dbz": 57,
-   "tope_km": 17.0,
+   "lat": -34.0143,
+   "lon": -65.508,
+   "max_dbz": 59,
+   "tope_km": 11.1,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.2607,
-   "lon": -64.3533,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.583,
-   "lon": -65.0221,
-   "max_dbz": 56,
+   "lat": -33.565,
+   "lon": -64.8786,
+   "max_dbz": 58,
    "tope_km": 10.6,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.5019,
-   "lon": -64.978,
+   "lat": -33.4026,
+   "lon": -64.1056,
+   "max_dbz": 56,
+   "tope_km": 13.5,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.3313,
+   "lon": -64.1704,
    "max_dbz": 54,
-   "tope_km": 10.0,
+   "tope_km": 14.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.9138,
+   "lon": -64.3485,
+   "max_dbz": 52,
+   "tope_km": 14.1,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.9773,
-   "lon": -64.47,
-   "max_dbz": 53,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.8684,
-   "lon": -64.4921,
+   "lat": -33.432,
+   "lon": -64.1653,
    "max_dbz": 52,
    "tope_km": 12.3,
-   "radar": "RMA16",
+   "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.592,
-   "lon": -64.6909,
-   "max_dbz": 51,
-   "tope_km": 11.7,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.601,
-   "lon": -64.6025,
+   "lat": -32.9002,
+   "lon": -64.4071,
    "max_dbz": 50,
-   "tope_km": 11.7,
-   "radar": "RMA16",
+   "tope_km": 13.5,
+   "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -34.256,
-   "lon": -64.0946,
-   "max_dbz": 49,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.9815,
-   "lon": -64.539,
-   "max_dbz": 49,
+   "lat": -33.6385,
+   "lon": -64.594,
+   "max_dbz": 50,
    "tope_km": 12.3,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.5846,
-   "lon": -64.7479,
-   "max_dbz": 49,
-   "tope_km": 12.9,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -34.256,
-   "lon": -65.7509,
+   "lat": -34.2291,
+   "lon": -65.7951,
    "max_dbz": 48,
-   "tope_km": 12.3,
+   "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": null
   }
  ],
- "localidades": {
-  "Chaján": {
-   "nivel": "granizo probable",
-   "km": 3.4,
-   "max_dbz": 56,
-   "tope_km": 10.6,
-   "visto": "2026-11-18 01:48"
-  },
-  "Santa Catalina Holmberg": {
-   "nivel": "granizo probable",
-   "km": 9.4,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "visto": "2026-11-18 01:41"
-  }
- }
+ "localidades": {}
 }
