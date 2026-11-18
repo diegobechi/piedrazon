@@ -1,132 +1,98 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 06:30",
+ "consultado": "2026-11-18 06:45",
  "radares": {
-  "RMA16": "2026-11-18 06:18",
-  "RMA17": "2026-11-18 06:03",
-  "RMA1": "2026-11-18 06:14"
+  "RMA16": "2026-11-18 06:34",
+  "RMA1": "2026-11-18 06:32"
  },
  "nucleos": [
   {
-   "lat": -32.1769,
-   "lon": -65.3753,
-   "max_dbz": 52,
-   "tope_km": 9.4,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.5135,
-   "lon": -65.8172,
-   "max_dbz": 51,
-   "tope_km": 12.3,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.55,
-   "lon": -64.978,
-   "max_dbz": 51,
-   "tope_km": 12.3,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.9515,
-   "lon": -65.0663,
-   "max_dbz": 50,
-   "tope_km": 8.8,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.745,
-   "lon": -65.1215,
-   "max_dbz": 50,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.1676,
-   "lon": -64.8234,
-   "max_dbz": 50,
+   "lat": -32.2215,
+   "lon": -65.1924,
+   "max_dbz": 57,
    "tope_km": 10.6,
-   "radar": "RMA16",
-   "nivel": null
+   "radar": "RMA1",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -33.745,
-   "lon": -64.7792,
-   "max_dbz": 50,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": null
+   "lat": -32.4892,
+   "lon": -64.0198,
+   "max_dbz": 55,
+   "tope_km": 10.6,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -32.7645,
-   "lon": -64.2642,
-   "max_dbz": 50,
+   "lat": -32.2121,
+   "lon": -65.254,
+   "max_dbz": 53,
    "tope_km": 12.3,
-   "radar": "RMA17",
+   "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.3376,
-   "lon": -64.6653,
+   "lat": -34.0501,
+   "lon": -63.8737,
    "max_dbz": 50,
    "tope_km": 10.0,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.5379,
-   "lon": -64.6356,
-   "max_dbz": 49,
-   "tope_km": 9.4,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.3949,
-   "lon": -64.5473,
-   "max_dbz": 49,
-   "tope_km": 12.3,
+   "lat": -33.61,
+   "lon": -64.5031,
+   "max_dbz": 50,
+   "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.655,
-   "lon": -64.7019,
+   "lat": -33.718,
+   "lon": -64.459,
    "max_dbz": 49,
-   "tope_km": 9.4,
+   "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.5604,
-   "lon": -64.3425,
+   "lat": -32.4981,
+   "lon": -64.1489,
    "max_dbz": 49,
    "tope_km": 10.6,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -33.3214,
-   "lon": -64.724,
+   "lat": -33.709,
+   "lon": -64.3706,
    "max_dbz": 48,
-   "tope_km": 10.6,
+   "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.249,
-   "lon": -64.8675,
+   "lat": -33.4297,
+   "lon": -64.47,
    "max_dbz": 47,
-   "tope_km": 10.6,
+   "tope_km": 13.5,
    "radar": "RMA16",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Las Isletillas": {
+   "nivel": "granizo probable",
+   "km": 8.7,
+   "max_dbz": 55,
+   "tope_km": 10.6,
+   "visto": "2026-11-18 06:32"
+  },
+  "Las Peñas Sud": {
+   "nivel": "granizo probable",
+   "km": 9.7,
+   "max_dbz": 55,
+   "tope_km": 10.6,
+   "visto": "2026-11-18 06:32"
+  }
+ }
 }
