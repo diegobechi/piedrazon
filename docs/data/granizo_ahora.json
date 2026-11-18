@@ -1,73 +1,65 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-17 21:45",
+ "consultado": "2026-11-17 22:00",
  "radares": {
-  "RMA16": "2026-11-17 21:26",
-  "RMA17": "2026-11-17 21:36",
-  "RMA1": "2026-11-17 21:31"
+  "RMA1": "2026-11-17 21:49",
+  "RMA16": "2026-11-17 21:34",
+  "RMA17": "2026-11-17 21:44"
  },
  "nucleos": [
   {
    "lat": -33.8259,
-   "lon": -65.5963,
+   "lon": -65.519,
    "max_dbz": 64,
    "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.3288,
-   "lon": -65.1546,
-   "max_dbz": 57,
-   "tope_km": 15.2,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.2841,
-   "lon": -65.1386,
-   "max_dbz": 57,
-   "tope_km": 12.9,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.0158,
-   "lon": -65.0633,
-   "max_dbz": 54,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.2395,
-   "lon": -65.2319,
-   "max_dbz": 53,
+   "lat": -32.2761,
+   "lon": -65.1657,
+   "max_dbz": 58,
    "tope_km": 14.7,
    "radar": "RMA16",
-   "nivel": null
+   "nivel": "granizo probable"
   },
   {
-   "lat": -31.9831,
-   "lon": -65.1657,
-   "max_dbz": 53,
-   "tope_km": 14.1,
-   "radar": "RMA16",
-   "nivel": null
+   "lat": -32.3555,
+   "lon": -64.9342,
+   "max_dbz": 56,
+   "tope_km": 10.6,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
   },
   {
-   "lat": -33.8355,
-   "lon": -65.3634,
-   "max_dbz": 51,
+   "lat": -32.0427,
+   "lon": -64.9127,
+   "max_dbz": 56,
+   "tope_km": 10.0,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.3379,
+   "lon": -65.0447,
+   "max_dbz": 54,
    "tope_km": 14.1,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.8798,
-   "lon": -65.2319,
-   "max_dbz": 47,
-   "tope_km": 11.1,
+   "lat": -33.8176,
+   "lon": -65.2865,
+   "max_dbz": 53,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -33.601,
+   "lon": -65.6295,
+   "max_dbz": 50,
+   "tope_km": 9.4,
    "radar": "RMA16",
    "nivel": null
   }
@@ -75,10 +67,17 @@
  "localidades": {
   "La Paz": {
    "nivel": "granizo probable",
-   "km": 5.2,
-   "max_dbz": 57,
-   "tope_km": 12.9,
-   "visto": "2026-11-17 21:31"
+   "km": 7.1,
+   "max_dbz": 58,
+   "tope_km": 14.7,
+   "visto": "2026-11-17 21:34"
+  },
+  "La Población": {
+   "nivel": "granizo probable",
+   "km": 8.9,
+   "max_dbz": 56,
+   "tope_km": 10.0,
+   "visto": "2026-11-17 21:49"
   }
  }
 }
