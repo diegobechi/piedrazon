@@ -1,129 +1,121 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 01:30",
+ "consultado": "2026-11-18 01:45",
  "radares": {
-  "RMA16": "2026-11-18 01:15",
-  "RMA17": "2026-11-18 01:17",
-  "RMA1": "2026-11-18 01:14"
+  "RMA16": "2026-11-18 01:31",
+  "RMA17": "2026-11-18 01:25",
+  "RMA1": "2026-11-18 01:32"
  },
  "nucleos": [
   {
-   "lat": -33.1767,
-   "lon": -64.6577,
-   "max_dbz": 59,
+   "lat": -33.5109,
+   "lon": -65.0553,
+   "max_dbz": 63,
    "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.5019,
-   "lon": -65.0884,
+   "lat": -34.2023,
+   "lon": -64.3485,
    "max_dbz": 57,
-   "tope_km": 10.0,
+   "tope_km": 9.4,
+   "radar": "RMA16",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -33.5469,
+   "lon": -64.8344,
+   "max_dbz": 57,
+   "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.7321,
-   "lon": -64.978,
+   "lat": -33.2219,
+   "lon": -64.5031,
    "max_dbz": 56,
-   "tope_km": 12.9,
+   "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.5289,
-   "lon": -64.8786,
-   "max_dbz": 56,
-   "tope_km": 11.1,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.1314,
-   "lon": -64.8013,
-   "max_dbz": 54,
-   "tope_km": 11.7,
+   "lat": -33.574,
+   "lon": -64.4479,
+   "max_dbz": 53,
+   "tope_km": 10.6,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.9273,
-   "lon": -64.1873,
-   "max_dbz": 54,
-   "tope_km": 12.3,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -33.0045,
-   "lon": -64.7902,
-   "max_dbz": 52,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.8684,
-   "lon": -64.8565,
-   "max_dbz": 52,
-   "tope_km": 11.7,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.077,
-   "lon": -64.6356,
-   "max_dbz": 52,
-   "tope_km": 14.7,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.4981,
-   "lon": -64.8482,
-   "max_dbz": 52,
-   "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.673,
-   "lon": -65.3865,
-   "max_dbz": 50,
-   "tope_km": 6.4,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.1259,
-   "lon": -64.6269,
-   "max_dbz": 50,
+   "lat": -33.2161,
+   "lon": -64.583,
+   "max_dbz": 53,
    "tope_km": 13.5,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.5782,
-   "lon": -64.8912,
-   "max_dbz": 50,
-   "tope_km": 12.3,
-   "radar": "RMA1",
+   "lat": -33.5218,
+   "lon": -65.1106,
+   "max_dbz": 53,
+   "tope_km": 13.5,
+   "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.8798,
-   "lon": -64.4479,
-   "max_dbz": 49,
-   "tope_km": 9.4,
+   "lat": -33.565,
+   "lon": -64.6688,
+   "max_dbz": 52,
+   "tope_km": 11.7,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -34.2291,
-   "lon": -64.5804,
+   "lat": -33.5757,
+   "lon": -64.528,
+   "max_dbz": 51,
+   "tope_km": 10.6,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -34.2917,
+   "lon": -65.8614,
+   "max_dbz": 50,
+   "tope_km": 11.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.9229,
+   "lon": -64.6467,
    "max_dbz": 49,
-   "tope_km": 8.8,
+   "tope_km": 12.3,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -34.4702,
+   "lon": -65.7841,
+   "max_dbz": 48,
+   "tope_km": 11.7,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.0589,
+   "lon": -64.6688,
+   "max_dbz": 47,
+   "tope_km": 13.5,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.727,
+   "lon": -63.6639,
+   "max_dbz": 47,
+   "tope_km": 10.6,
    "radar": "RMA16",
    "nivel": null
   }
@@ -131,17 +123,24 @@
  "localidades": {
   "Chaján": {
    "nivel": "granizo probable",
-   "km": 9.8,
-   "max_dbz": 57,
-   "tope_km": 10.0,
-   "visto": "2026-11-18 01:15"
-  },
-  "La Carolina El Potosí": {
-   "nivel": "granizo probable",
-   "km": 6.6,
-   "max_dbz": 59,
+   "km": 6.9,
+   "max_dbz": 63,
    "tope_km": 12.3,
-   "visto": "2026-11-18 01:15"
+   "visto": "2026-11-18 01:31"
+  },
+  "Las Vertientes": {
+   "nivel": "granizo probable",
+   "km": 9.8,
+   "max_dbz": 56,
+   "tope_km": 17.0,
+   "visto": "2026-11-18 01:31"
+  },
+  "Santa Catalina Holmberg": {
+   "nivel": "granizo probable",
+   "km": 7.5,
+   "max_dbz": 56,
+   "tope_km": 17.0,
+   "visto": "2026-11-18 01:31"
   }
  }
 }
