@@ -1,9 +1,9 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 08:00",
+ "consultado": "2026-11-18 08:15",
  "radares": {
-  "RMA16": "2026-11-18 07:48",
-  "RMA1": "2026-11-18 07:45"
+  "RMA1": "2026-11-18 08:03",
+  "RMA16": "2026-11-18 07:48"
  },
  "nucleos": [
   {
@@ -15,26 +15,18 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -30.9623,
-   "lon": -63.8154,
-   "max_dbz": 57,
-   "tope_km": 7.6,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -31.7289,
-   "lon": -64.5577,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -32.0517,
-   "lon": -64.1274,
+   "lat": -31.2065,
+   "lon": -63.8477,
    "max_dbz": 52,
    "tope_km": 7.6,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -31.7917,
+   "lon": -64.2995,
+   "max_dbz": 51,
+   "tope_km": 7.0,
    "radar": "RMA1",
    "nivel": null
   },
@@ -44,6 +36,14 @@
    "max_dbz": 51,
    "tope_km": 11.1,
    "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -30.9352,
+   "lon": -63.8369,
+   "max_dbz": 50,
+   "tope_km": 7.6,
+   "radar": "RMA1",
    "nivel": null
   },
   {
@@ -79,48 +79,5 @@
    "nivel": null
   }
  ],
- "localidades": {
-  "La Paisanita": {
-   "nivel": "posible granizo",
-   "km": 8.2,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "visto": "2026-11-18 07:45"
-  },
-  "La Rancherita": {
-   "nivel": "posible granizo",
-   "km": 9.6,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "visto": "2026-11-18 07:45"
-  },
-  "La Serranita": {
-   "nivel": "posible granizo",
-   "km": 9.2,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "visto": "2026-11-18 07:45"
-  },
-  "Potrero de Garay": {
-   "nivel": "posible granizo",
-   "km": 8.6,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "visto": "2026-11-18 07:45"
-  },
-  "San Clemente": {
-   "nivel": "posible granizo",
-   "km": 7.3,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "visto": "2026-11-18 07:45"
-  },
-  "Villa Ciudad de América": {
-   "nivel": "posible granizo",
-   "km": 5.8,
-   "max_dbz": 55,
-   "tope_km": 7.0,
-   "visto": "2026-11-18 07:45"
-  }
- }
+ "localidades": {}
 }
