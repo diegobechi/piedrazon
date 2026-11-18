@@ -1,439 +1,47 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-18 02:45",
+ "consultado": "2026-11-18 03:01",
  "alertas": [
   {
-   "id": "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2",
-   "tipo": "alerta",
-   "evento": "Tormentas",
-   "nivel": "amarillo",
-   "titulo": "Tormentas",
-   "desde": "2026-11-17T21:00:00-03:00",
-   "hasta": "2026-11-18T02:59:59-03:00",
-   "descripcion": "El área será afectada por lluvias y tormentas aisladas, algunas localmente fuertes. Estas podrán estar acompañadas por abundantes precipitaciones en cortos períodos, granizo ocasional, frecuente actividad eléctrica y ráfagas. Se prevén valores de precipitación acumulada entre 15 y 40 mm, que pueden ser superados de forma local.",
-   "instruccion": "1- Evitá salir. 2- No saques la basura y limpiá desagües y sumideros. 3- Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua 4- Cerrá y alejate de puertas y ventanas. 5- Retirá o asegurá objetos que puedan ser arrastrados por el viento. 6- Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado.",
-   "zona": "",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/xml_generados/CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2.xml",
-   "desde_local": "17/11 21:00",
-   "hasta_local": "18/11 02:59",
-   "localidades": 7,
+   "id": "2026_11_18_0559_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas severas",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T05:59:00-03:00",
+   "hasta": "2026-11-18T06:59:00-03:00",
+   "descripcion": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Seguí las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Evitá circular por calles inundadas o afectadas. Retirá o asegurá objetos que puedan ser arrastrados por el viento. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, ",
+   "zona": "CORDOBA: GRAL ROCA - RIO CUARTO. SAN LUIS: GRAL PEDERNERA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_0559_cap_es.xml",
+   "desde_local": "18/11 05:59",
+   "hasta_local": "18/11 06:59",
+   "localidades": 10,
    "poligonos": [
     [
      [
-      -66.4,
-      -30.68
-     ],
-     [
-      -66.36,
-      -30.72
-     ],
-     [
-      -66.34,
-      -30.8
-     ],
-     [
-      -66.4,
-      -30.84
-     ],
-     [
-      -66.42,
-      -30.94
-     ],
-     [
-      -66.5,
-      -30.98
-     ],
-     [
-      -66.48,
-      -31.1
-     ],
-     [
-      -66.46,
-      -31.1
-     ],
-     [
-      -66.42,
-      -31.14
-     ],
-     [
-      -66.42,
-      -31.18
-     ],
-     [
-      -66.32,
-      -31.18
-     ],
-     [
-      -66.06,
-      -31.28
-     ],
-     [
-      -65.78,
-      -31.36
-     ],
-     [
-      -65.78,
-      -31.88
-     ],
-     [
-      -65.82,
-      -31.9
-     ],
-     [
-      -65.88,
-      -31.92
+      -65.89,
+      -33.58
      ],
      [
       -65.96,
-      -31.9
+      -33.97
      ],
      [
-      -65.98,
-      -31.88
+      -64.79,
+      -34.2
      ],
      [
-      -66.06,
-      -31.94
+      -64.59,
+      -33.8
      ],
      [
-      -66.08,
-      -31.96
+      -64.75,
+      -33.56
      ],
      [
-      -66.1,
-      -31.96
-     ],
-     [
-      -66.14,
-      -31.94
-     ],
-     [
-      -66.16,
-      -31.94
-     ],
-     [
-      -66.16,
-      -31.96
-     ],
-     [
-      -66.24,
-      -31.94
-     ],
-     [
-      -66.34,
-      -31.94
-     ],
-     [
-      -66.36,
-      -31.98
-     ],
-     [
-      -66.58,
-      -31.96
-     ],
-     [
-      -66.6,
-      -31.92
-     ],
-     [
-      -66.66,
-      -31.92
-     ],
-     [
-      -66.76,
-      -31.88
-     ],
-     [
-      -66.8,
-      -31.82
-     ],
-     [
-      -66.82,
-      -31.8
-     ],
-     [
-      -66.88,
-      -31.64
-     ],
-     [
-      -66.96,
-      -31.64
-     ],
-     [
-      -67.1,
-      -31.38
-     ],
-     [
-      -67.08,
-      -31.22
-     ],
-     [
-      -67.12,
-      -31.16
-     ],
-     [
-      -67.1,
-      -31.06
-     ],
-     [
-      -67.12,
-      -31.0
-     ],
-     [
-      -67.08,
-      -30.92
-     ],
-     [
-      -67.12,
-      -30.9
-     ],
-     [
-      -67.2,
-      -30.82
-     ],
-     [
-      -67.22,
-      -30.76
-     ],
-     [
-      -67.26,
-      -30.74
-     ],
-     [
-      -67.28,
-      -30.7
-     ],
-     [
-      -67.32,
-      -30.68
-     ],
-     [
-      -67.36,
-      -30.66
-     ],
-     [
-      -67.42,
-      -30.62
-     ],
-     [
-      -67.44,
-      -30.58
-     ],
-     [
-      -67.5,
-      -30.54
-     ],
-     [
-      -67.5,
-      -30.52
-     ],
-     [
-      -66.92,
-      -30.52
-     ],
-     [
-      -66.78,
-      -30.54
-     ],
-     [
-      -66.78,
-      -30.56
-     ],
-     [
-      -66.76,
-      -30.62
-     ],
-     [
-      -66.7,
-      -30.66
-     ],
-     [
-      -66.66,
-      -30.66
-     ],
-     [
-      -66.62,
-      -30.68
-     ],
-     [
-      -66.58,
-      -30.74
-     ],
-     [
-      -66.42,
-      -30.68
-     ],
-     [
-      -66.4,
-      -30.68
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1",
-   "tipo": "alerta",
-   "evento": "Tormentas",
-   "nivel": "amarillo",
-   "titulo": "Tormentas",
-   "desde": "2026-11-17T21:00:00-03:00",
-   "hasta": "2026-11-18T02:59:59-03:00",
-   "descripcion": "El área será afectada por lluvias y tormentas aisladas, algunas localmente fuertes. Estas podrán estar acompañadas por abundantes precipitaciones en cortos períodos, granizo ocasional, frecuente actividad eléctrica y ráfagas. Se prevén valores de precipitación acumulada entre 15 y 40 mm, que pueden ser superados de forma local.",
-   "instruccion": "1- Evitá salir. 2- No saques la basura y limpiá desagües y sumideros. 3- Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua 4- Cerrá y alejate de puertas y ventanas. 5- Retirá o asegurá objetos que puedan ser arrastrados por el viento. 6- Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado.",
-   "zona": "",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/xml_generados/CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1.xml",
-   "desde_local": "17/11 21:00",
-   "hasta_local": "18/11 02:59",
-   "localidades": 11,
-   "poligonos": [
-    [
-     [
-      -65.42,
-      -30.12
-     ],
-     [
-      -65.5,
-      -30.38
-     ],
-     [
-      -65.52,
-      -30.48
-     ],
-     [
-      -65.6,
-      -30.64
-     ],
-     [
-      -65.6,
-      -30.66
-     ],
-     [
-      -65.64,
-      -30.76
-     ],
-     [
-      -65.72,
-      -30.92
-     ],
-     [
-      -65.78,
-      -31.04
-     ],
-     [
-      -65.78,
-      -31.36
-     ],
-     [
-      -66.06,
-      -31.28
-     ],
-     [
-      -66.32,
-      -31.18
-     ],
-     [
-      -66.42,
-      -31.18
-     ],
-     [
-      -66.42,
-      -31.14
-     ],
-     [
-      -66.46,
-      -31.1
-     ],
-     [
-      -66.48,
-      -31.1
-     ],
-     [
-      -66.5,
-      -30.98
-     ],
-     [
-      -66.42,
-      -30.94
-     ],
-     [
-      -66.4,
-      -30.84
-     ],
-     [
-      -66.34,
-      -30.8
-     ],
-     [
-      -66.36,
-      -30.72
-     ],
-     [
-      -66.4,
-      -30.68
-     ],
-     [
-      -66.42,
-      -30.64
-     ],
-     [
-      -66.42,
-      -30.58
-     ],
-     [
-      -66.38,
-      -30.52
-     ],
-     [
-      -66.42,
-      -30.46
-     ],
-     [
-      -66.42,
-      -30.4
-     ],
-     [
-      -66.44,
-      -30.38
-     ],
-     [
-      -66.48,
-      -30.3
-     ],
-     [
-      -66.5,
-      -30.28
-     ],
-     [
-      -66.5,
-      -30.24
-     ],
-     [
-      -66.48,
-      -30.18
-     ],
-     [
-      -66.44,
-      -30.02
-     ],
-     [
-      -65.74,
-      -29.84
-     ],
-     [
-      -65.7,
-      -29.82
-     ],
-     [
-      -65.56,
-      -29.82
-     ],
-     [
-      -65.5,
-      -29.94
-     ],
-     [
-      -65.42,
-      -30.12
+      -65.89,
+      -33.58
      ]
     ]
    ]
@@ -25291,59 +24899,35 @@
   "Tilisarao": [
    "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_3"
   ],
-  "Chepes": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "Washington": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Desiderio Tello": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "5ta Brigada": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Malanzán": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "Country Club Los Caldenes": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Nácate": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "Juan Jorba": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Portezuelo": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "Justo Daract": [
+   "2026_11_18_0559_cap_es"
   ],
-  "San Antonio (dpto. General Juan Facundo Quiroga, La Rioja)": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "La Ribera": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Ulapes": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_2"
+  "Lavaisse": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Ambil": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
+  "Villa Mercedes (San Luis)": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Castro Barros": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
+  "Villa Reynolds": [
+   "2026_11_18_0559_cap_es"
   ],
-  "Chamical": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Chañar": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Colonia Ortiz de Ocampo": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Loma Blanca (La Rioja)": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Milagro": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Olpas": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Olta": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Polco": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
-  ],
-  "Santa Rita de Catuna": [
-   "CAP_20261117144923_Tormenta_Cordillera_alertas_alertas_1"
+  "Villa Salles": [
+   "2026_11_18_0559_cap_es"
   ]
  }
 }
