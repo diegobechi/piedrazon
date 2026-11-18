@@ -1,99 +1,126 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 07:45",
+ "consultado": "2026-11-18 08:00",
  "radares": {
-  "RMA16": "2026-11-18 07:31",
-  "RMA1": "2026-11-18 07:27"
+  "RMA16": "2026-11-18 07:48",
+  "RMA1": "2026-11-18 07:45"
  },
  "nucleos": [
   {
-   "lat": -33.2129,
-   "lon": -65.0773,
-   "max_dbz": 57,
-   "tope_km": 8.8,
+   "lat": -33.9157,
+   "lon": -64.5363,
+   "max_dbz": 61,
+   "tope_km": 11.1,
    "radar": "RMA16",
-   "nivel": "posible granizo"
+   "nivel": "granizo probable"
   },
   {
    "lat": -30.9623,
-   "lon": -63.8477,
-   "max_dbz": 50,
-   "tope_km": 6.4,
+   "lon": -63.8154,
+   "max_dbz": 57,
+   "tope_km": 7.6,
+   "radar": "RMA1",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -31.7289,
+   "lon": -64.5577,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "radar": "RMA1",
+   "nivel": "posible granizo"
+  },
+  {
+   "lat": -32.0517,
+   "lon": -64.1274,
+   "max_dbz": 52,
+   "tope_km": 7.6,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -34.0501,
-   "lon": -64.9448,
-   "max_dbz": 49,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.4748,
-   "lon": -63.8406,
-   "max_dbz": 49,
-   "tope_km": 10.0,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.9955,
-   "lon": -64.5804,
-   "max_dbz": 49,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.0589,
-   "lon": -64.6246,
-   "max_dbz": 49,
-   "tope_km": 9.4,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.7,
-   "lon": -63.8737,
-   "max_dbz": 49,
-   "tope_km": 10.0,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.6957,
-   "lon": -65.8724,
-   "max_dbz": 48,
+   "lat": -32.6775,
+   "lon": -64.6688,
+   "max_dbz": 51,
    "tope_km": 11.1,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.4929,
-   "lon": -63.7412,
-   "max_dbz": 48,
+   "lat": -32.823,
+   "lon": -63.8406,
+   "max_dbz": 50,
    "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.941,
-   "lon": -64.8344,
-   "max_dbz": 47,
-   "tope_km": 8.8,
+   "lat": -33.9964,
+   "lon": -64.481,
+   "max_dbz": 49,
+   "tope_km": 14.1,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.619,
-   "lon": -63.8958,
-   "max_dbz": 47,
+   "lat": -32.7684,
+   "lon": -64.5583,
+   "max_dbz": 48,
    "tope_km": 9.4,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.7957,
+   "lon": -64.1166,
+   "max_dbz": 47,
+   "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "La Paisanita": {
+   "nivel": "posible granizo",
+   "km": 8.2,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "visto": "2026-11-18 07:45"
+  },
+  "La Rancherita": {
+   "nivel": "posible granizo",
+   "km": 9.6,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "visto": "2026-11-18 07:45"
+  },
+  "La Serranita": {
+   "nivel": "posible granizo",
+   "km": 9.2,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "visto": "2026-11-18 07:45"
+  },
+  "Potrero de Garay": {
+   "nivel": "posible granizo",
+   "km": 8.6,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "visto": "2026-11-18 07:45"
+  },
+  "San Clemente": {
+   "nivel": "posible granizo",
+   "km": 7.3,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "visto": "2026-11-18 07:45"
+  },
+  "Villa Ciudad de América": {
+   "nivel": "posible granizo",
+   "km": 5.8,
+   "max_dbz": 55,
+   "tope_km": 7.0,
+   "visto": "2026-11-18 07:45"
+  }
+ }
 }
