@@ -1,52 +1,61 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 15:30",
+ "consultado": "2026-11-18 15:45",
  "radares": {
-  "RMA16": "2026-11-18 15:01",
-  "RMA1": "2026-11-18 15:12",
-  "RMA17": "2026-11-18 14:54"
+  "RMA1": "2026-11-18 15:30"
  },
  "nucleos": [
   {
-   "lat": -31.5131,
-   "lon": -64.633,
-   "max_dbz": 54,
-   "tope_km": 8.8,
+   "lat": -31.4951,
+   "lon": -64.5469,
+   "max_dbz": 56,
+   "tope_km": 9.4,
    "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -31.5062,
-   "lon": -64.8028,
-   "max_dbz": 52,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -31.2878,
-   "lon": -64.676,
-   "max_dbz": 50,
-   "tope_km": 7.0,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -31.5062,
-   "lon": -64.6929,
-   "max_dbz": 50,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -34.8349,
-   "lon": -65.3092,
-   "max_dbz": 48,
-   "tope_km": 10.6,
-   "radar": "RMA16",
-   "nivel": null
+   "nivel": "posible granizo"
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Cuesta Blanca": {
+   "nivel": "posible granizo",
+   "km": 5.0,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 15:30"
+  },
+  "Mayu Sumaj": {
+   "nivel": "posible granizo",
+   "km": 3.2,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 15:30"
+  },
+  "San Antonio de Arredondo": {
+   "nivel": "posible granizo",
+   "km": 3.3,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 15:30"
+  },
+  "Tala Huasi": {
+   "nivel": "posible granizo",
+   "km": 4.0,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 15:30"
+  },
+  "Villa Carlos Paz": {
+   "nivel": "posible granizo",
+   "km": 9.0,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 15:30"
+  },
+  "Villa Río Icho Cruz": {
+   "nivel": "posible granizo",
+   "km": 1.7,
+   "max_dbz": 56,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 15:30"
+  }
+ }
 }
