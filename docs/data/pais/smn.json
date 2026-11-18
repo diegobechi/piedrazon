@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-18 03:01",
+ "consultado": "2026-11-18 03:15",
  "alertas": [
   {
    "id": "2026_11_18_0559_cap_es",
@@ -42,6 +42,98 @@
      [
       -65.89,
       -33.58
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_18_0601_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T06:01:00-03:00",
+   "hasta": "2026-11-18T07:01:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "SAN LUIS: AYACUCHO - BELGRANO - CNEL PRINGLES - JUAN M.  DE PUEYRREDON - LDOR GRAL SAN MARTIN.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_0601_cap_es.xml",
+   "desde_local": "18/11 06:01",
+   "hasta_local": "18/11 07:01",
+   "localidades": 24,
+   "poligonos": [
+    [
+     [
+      -67.04,
+      -32.59
+     ],
+     [
+      -67.11,
+      -33.27
+     ],
+     [
+      -66.59,
+      -33.41
+     ],
+     [
+      -65.74,
+      -33.4
+     ],
+     [
+      -65.76,
+      -32.6
+     ],
+     [
+      -67.04,
+      -32.59
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_18_0604_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-18T06:04:00-03:00",
+   "hasta": "2026-11-18T07:04:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CHACO: SAN FERNANDO. SANTA FE: GRAL OBLIGADO - VERA. CORRIENTES: BELLA VISTA - EMPEDRADO - SALADAS - SAN ROQUE.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_18_0604_cap_es.xml",
+   "desde_local": "18/11 06:04",
+   "hasta_local": "18/11 07:04",
+   "localidades": 16,
+   "poligonos": [
+    [
+     [
+      -60.59,
+      -28.02
+     ],
+     [
+      -60.21,
+      -28.03
+     ],
+     [
+      -58.51,
+      -28.02
+     ],
+     [
+      -58.44,
+      -28.33
+     ],
+     [
+      -58.58,
+      -28.69
+     ],
+     [
+      -60.59,
+      -28.56
+     ],
+     [
+      -60.59,
+      -28.02
      ]
     ]
    ]
@@ -21789,6 +21881,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_13"
   ],
   "Saladas": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_13",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_13"
   ],
@@ -21801,6 +21894,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_13"
   ],
   "San Lorenzo (Corrientes)": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_13",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_13"
   ],
@@ -21913,6 +22007,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_16"
   ],
   "San Roque (Corrientes)": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_16"
   ],
@@ -21961,6 +22056,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_14"
   ],
   "Bella Vista (Corrientes)": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_14",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_14"
   ],
@@ -24677,6 +24773,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Cañada Ombú": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24693,10 +24790,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "El Rabón": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Florencia": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24709,6 +24808,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Golondrina": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24737,6 +24837,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "La Isleta": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24753,10 +24854,12 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Las Toscas (Santa Fe)": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Los Amores": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24801,6 +24904,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "San Antonio de Obligado": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24809,6 +24913,7 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Tacuarendí": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24825,14 +24930,17 @@
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Villa Ana": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Villa Guillermina": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Villa Ocampo": [
+   "2026_11_18_0604_cap_es",
    "CAP_20261117144925_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261117144922_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -24928,6 +25036,78 @@
   ],
   "Villa Salles": [
    "2026_11_18_0559_cap_es"
+  ],
+  "Balde": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Carolina (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Cerro Colorado (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Cruz de Piedra (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "El Chorrillo": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "El Trapiche": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "El Volcán": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Estancia Grande (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Juana Koslay": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "La Calera (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "La Florida (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "La Punta": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "La Vertiente": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Las Chacras (dpto. Juan Martín de Pueyrredón, San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Nogolí": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Potrero de los Funes": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Riocito": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Saladillo (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "San Francisco del Monte de Oro": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "San Jerónimo": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "San Luis": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "San Roque (San Luis)": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Villa General Roca": [
+   "2026_11_18_0601_cap_es"
+  ],
+  "Villa de la Quebrada": [
+   "2026_11_18_0601_cap_es"
   ]
  }
 }
