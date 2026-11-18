@@ -1,10 +1,10 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 04:00",
+ "consultado": "2026-11-18 04:07",
  "radares": {
+  "RMA17": "2026-11-18 03:52",
   "RMA1": "2026-11-18 03:49",
-  "RMA16": "2026-11-18 03:50",
-  "RMA17": "2026-11-18 03:44"
+  "RMA16": "2026-11-18 03:50"
  },
  "nucleos": [
   {
@@ -32,10 +32,10 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.5218,
-   "lon": -65.1216,
-   "max_dbz": 56,
-   "tope_km": 13.5,
+   "lat": -33.4859,
+   "lon": -65.0337,
+   "max_dbz": 55,
+   "tope_km": 12.9,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
@@ -64,10 +64,10 @@
    "nivel": null
   },
   {
-   "lat": -33.8265,
-   "lon": -65.1106,
-   "max_dbz": 53,
-   "tope_km": 12.3,
+   "lat": -33.7639,
+   "lon": -64.9897,
+   "max_dbz": 52,
+   "tope_km": 12.9,
    "radar": "RMA17",
    "nivel": null
   },
@@ -104,19 +104,19 @@
    "nivel": null
   },
   {
+   "lat": -31.9641,
+   "lon": -64.528,
+   "max_dbz": 49,
+   "tope_km": 16.4,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
    "lat": -33.3033,
    "lon": -65.6295,
    "max_dbz": 49,
    "tope_km": 12.3,
    "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.5469,
-   "lon": -64.8908,
-   "max_dbz": 49,
-   "tope_km": 16.4,
-   "radar": "RMA17",
    "nivel": null
   },
   {
@@ -143,6 +143,13 @@
    "max_dbz": 56,
    "tope_km": 12.3,
    "visto": "2026-11-18 03:50"
+  },
+  "Chaján": {
+   "nivel": "granizo probable",
+   "km": 8.3,
+   "max_dbz": 55,
+   "tope_km": 12.9,
+   "visto": "2026-11-18 03:52"
   }
  }
 }
