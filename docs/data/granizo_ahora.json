@@ -1,71 +1,84 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 14:45",
+ "consultado": "2026-11-18 15:00",
  "radares": {
-  "RMA17": "2026-11-18 14:30",
-  "RMA1": "2026-11-18 14:26"
+  "RMA17": "2026-11-18 14:46",
+  "RMA1": "2026-11-18 14:45"
  },
  "nucleos": [
   {
-   "lat": -31.5221,
-   "lon": -64.6115,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -31.4681,
-   "lon": -64.7191,
-   "max_dbz": 56,
+   "lat": -31.4591,
+   "lon": -64.5685,
+   "max_dbz": 55,
    "tope_km": 9.4,
    "radar": "RMA1",
    "nivel": "posible granizo"
   },
   {
-   "lat": -31.4591,
-   "lon": -64.6007,
-   "max_dbz": 50,
-   "tope_km": 11.7,
+   "lat": -31.5221,
+   "lon": -64.7083,
+   "max_dbz": 53,
+   "tope_km": 9.4,
    "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
+  "Cabalango": {
+   "nivel": "posible granizo",
+   "km": 6.5,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
+  },
   "Cuesta Blanca": {
-   "nivel": "granizo probable",
-   "km": 4.3,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "visto": "2026-11-18 14:26"
+   "nivel": "posible granizo",
+   "km": 4.0,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
+  },
+  "Estancia Vieja": {
+   "nivel": "posible granizo",
+   "km": 9.1,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
   },
   "Mayu Sumaj": {
-   "nivel": "granizo probable",
-   "km": 8.6,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "visto": "2026-11-18 14:26"
+   "nivel": "posible granizo",
+   "km": 1.9,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
   },
   "San Antonio de Arredondo": {
-   "nivel": "granizo probable",
-   "km": 6.4,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "visto": "2026-11-18 14:26"
+   "nivel": "posible granizo",
+   "km": 7.7,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
   },
   "Tala Huasi": {
-   "nivel": "granizo probable",
+   "nivel": "posible granizo",
+   "km": 1.0,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
+  },
+  "Villa Carlos Paz": {
+   "nivel": "posible granizo",
    "km": 7.1,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "visto": "2026-11-18 14:26"
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
   },
   "Villa Río Icho Cruz": {
-   "nivel": "granizo probable",
-   "km": 6.1,
-   "max_dbz": 57,
-   "tope_km": 11.7,
-   "visto": "2026-11-18 14:26"
+   "nivel": "posible granizo",
+   "km": 3.1,
+   "max_dbz": 55,
+   "tope_km": 9.4,
+   "visto": "2026-11-18 14:45"
   }
  }
 }
