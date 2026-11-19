@@ -1,27 +1,43 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 20:45",
+ "consultado": "2026-11-18 21:00",
  "radares": {
-  "RMA17": "2026-11-18 20:30",
-  "RMA16": "2026-11-18 20:28"
+  "RMA17": "2026-11-18 20:46",
+  "RMA16": "2026-11-18 20:44"
  },
  "nucleos": [
   {
-   "lat": -35.0388,
-   "lon": -65.2099,
-   "max_dbz": 53,
-   "tope_km": 13.5,
+   "lat": -34.8704,
+   "lon": -64.5694,
+   "max_dbz": 56,
+   "tope_km": 12.9,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -34.826,
+   "lon": -64.8344,
+   "max_dbz": 54,
+   "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -34.8526,
-   "lon": -64.5583,
-   "max_dbz": 52,
-   "tope_km": 12.9,
+   "lat": -34.7639,
+   "lon": -65.1767,
+   "max_dbz": 51,
+   "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Villa Huidobro": {
+   "nivel": "granizo probable",
+   "km": 3.6,
+   "max_dbz": 56,
+   "tope_km": 12.9,
+   "visto": "2026-11-18 20:44"
+  }
+ }
 }
