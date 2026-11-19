@@ -1,41 +1,89 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-18 22:00",
+ "consultado": "2026-11-18 22:15",
  "radares": {
-  "RMA16": "2026-11-18 21:49",
-  "RMA17": "2026-11-18 21:43"
+  "RMA17": "2026-11-18 22:00",
+  "RMA16": "2026-11-18 22:06"
  },
  "nucleos": [
   {
-   "lat": -35.1715,
-   "lon": -63.5424,
-   "max_dbz": 59,
-   "tope_km": 14.7,
+   "lat": -35.0256,
+   "lon": -63.5717,
+   "max_dbz": 57,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -34.5593,
+   "lon": -64.3044,
+   "max_dbz": 57,
+   "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -34.6839,
-   "lon": -64.6798,
-   "max_dbz": 54,
-   "tope_km": 11.1,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -34.6394,
-   "lon": -64.3485,
-   "max_dbz": 54,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -35.052,
-   "lon": -63.6816,
+   "lat": -35.0122,
+   "lon": -63.4983,
    "max_dbz": 54,
    "tope_km": 13.5,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -34.6928,
+   "lon": -64.0946,
+   "max_dbz": 54,
+   "tope_km": 14.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -34.7252,
+   "lon": -64.1433,
+   "max_dbz": 53,
+   "tope_km": 14.1,
    "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -34.675,
+   "lon": -64.1719,
+   "max_dbz": 53,
+   "tope_km": 14.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -35.1665,
+   "lon": -63.5167,
+   "max_dbz": 52,
+   "tope_km": 12.3,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -34.6987,
+   "lon": -64.2532,
+   "max_dbz": 51,
+   "tope_km": 11.7,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -34.6216,
+   "lon": -64.481,
+   "max_dbz": 51,
+   "tope_km": 11.7,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -35.1096,
+   "lon": -63.421,
+   "max_dbz": 48,
+   "tope_km": 14.7,
+   "radar": "RMA16",
    "nivel": null
   }
  ],
