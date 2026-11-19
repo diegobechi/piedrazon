@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 11:31",
+ "consultado": "2026-11-19 11:45",
  "alertas": [
   {
    "id": "2026_11_19_1318_cap_es",
@@ -38,6 +38,46 @@
      [
       -66.73,
       -34.51
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_1444_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-19T14:44:00-03:00",
+   "hasta": "2026-11-19T15:44:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "SAN LUIS: CNEL PRINGLES - GRAL PEDERNERA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1444_cap_es.xml",
+   "desde_local": "19/11 14:44",
+   "hasta_local": "19/11 15:44",
+   "localidades": 7,
+   "poligonos": [
+    [
+     [
+      -65.55,
+      -33.45
+     ],
+     [
+      -65.65,
+      -33.58
+     ],
+     [
+      -65.25,
+      -33.93
+     ],
+     [
+      -65.12,
+      -33.66
+     ],
+     [
+      -65.55,
+      -33.45
      ]
     ]
    ]
@@ -40441,16 +40481,19 @@
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_9"
   ],
   "5ta Brigada": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Country Club Los Caldenes": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Juan Jorba": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
@@ -40466,6 +40509,7 @@
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "La Ribera": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
@@ -40481,16 +40525,19 @@
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Villa Mercedes (San Luis)": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Villa Reynolds": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Villa Salles": [
+   "2026_11_19_1444_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
