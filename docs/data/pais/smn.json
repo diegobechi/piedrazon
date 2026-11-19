@@ -1,91 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 17:16",
+ "consultado": "2026-11-19 17:31",
  "alertas": [
-  {
-   "id": "2026_11_19_1914_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-19T19:14:00-03:00",
-   "hasta": "2026-11-19T20:14:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "BUENOS AIRES: CARLOS TEJEDOR - FLORENTINO AMEGHINO - GRAL PINTO - GRAL VILLEGAS - JUNIN - L.  N.  ALEM - LINCOLN.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1914_cap_es.xml",
-   "desde_local": "19/11 19:14",
-   "hasta_local": "19/11 20:14",
-   "localidades": 23,
-   "poligonos": [
-    [
-     [
-      -62.57,
-      -35.14
-     ],
-     [
-      -62.6,
-      -34.41
-     ],
-     [
-      -61.42,
-      -34.42
-     ],
-     [
-      -61.08,
-      -34.68
-     ],
-     [
-      -62.09,
-      -35.5
-     ],
-     [
-      -62.57,
-      -35.14
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_19_1924_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-19T19:24:00-03:00",
-   "hasta": "2026-11-19T20:24:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "CORDOBA: RIO CUARTO - TERCERO ARRIBA.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1924_cap_es.xml",
-   "desde_local": "19/11 19:24",
-   "hasta_local": "19/11 20:24",
-   "localidades": 4,
-   "poligonos": [
-    [
-     [
-      -64.18,
-      -32.48
-     ],
-     [
-      -64.15,
-      -32.25
-     ],
-     [
-      -63.61,
-      -32.36
-     ],
-     [
-      -63.67,
-      -32.67
-     ],
-     [
-      -64.18,
-      -32.48
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_19_1930_cap_es",
    "tipo": "aviso a corto plazo",
@@ -45813,12 +45729,10 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "General Fotheringham": [
-   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Hernando": [
-   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -45859,7 +45773,6 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Las Isletillas": [
-   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -45948,7 +45861,6 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Punta del Agua (Córdoba)": [
-   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -47259,7 +47171,6 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Blaquier": [
-   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -47276,7 +47187,6 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Florentino Ameghino (Buenos Aires)": [
-   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -47297,7 +47207,6 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Pichincha": [
-   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -47306,7 +47215,6 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Porvenir": [
-   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -50437,63 +50345,6 @@
   ],
   "Los Cajones": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_16"
-  ],
-  "Alberdi Viejo": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Arenaza": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Bermúdez": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Carlos Salas": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Colonia San Ricardo": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "El Dorado": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "General Pinto": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Germania": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Juan Bautista Alberdi (Buenos Aires)": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Laplacette": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Leandro N. Alem (Buenos Aires)": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Lincoln": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Pasteur": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Roberts": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Timote": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Triunvirato": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Vedia": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Villa Francia": [
-   "2026_11_19_1914_cap_es"
-  ],
-  "Villa Roth": [
-   "2026_11_19_1914_cap_es"
   ]
  }
 }
