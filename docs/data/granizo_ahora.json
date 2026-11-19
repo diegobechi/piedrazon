@@ -1,100 +1,68 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-19 09:00",
+ "consultado": "2026-11-19 09:15",
  "radares": {
-  "RMA17": "2026-11-19 08:44",
-  "RMA16": "2026-11-19 08:44",
-  "RMA1": "2026-11-19 08:46"
+  "RMA17": "2026-11-19 09:00",
+  "RMA16": "2026-11-19 09:00",
+  "RMA1": "2026-11-19 09:04"
  },
  "nucleos": [
   {
-   "lat": -33.1857,
+   "lat": -33.1676,
    "lon": -65.6516,
-   "max_dbz": 64,
-   "tope_km": 15.2,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.5015,
-   "lon": -64.6819,
-   "max_dbz": 61,
+   "max_dbz": 60,
    "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.2431,
-   "lon": -65.6822,
-   "max_dbz": 55,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.4802,
-   "lon": -64.5792,
-   "max_dbz": 54,
-   "tope_km": 10.0,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.19,
-   "lon": -65.5582,
-   "max_dbz": 54,
-   "tope_km": 11.7,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.18,
-   "lon": -65.8471,
-   "max_dbz": 53,
-   "tope_km": 14.1,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.7594,
-   "lon": -65.0221,
-   "max_dbz": 53,
-   "tope_km": 11.1,
    "radar": "RMA16",
-   "nivel": null
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.7775,
+   "lon": -64.8123,
+   "max_dbz": 57,
+   "tope_km": 16.4,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
   },
   {
    "lat": -33.1282,
-   "lon": -65.7088,
-   "max_dbz": 53,
-   "tope_km": 11.7,
+   "lon": -65.5582,
+   "max_dbz": 56,
+   "tope_km": 11.1,
    "radar": "RMA1",
-   "nivel": null
+   "nivel": "granizo probable"
   },
   {
-   "lat": -32.4924,
-   "lon": -63.3848,
-   "max_dbz": 51,
-   "tope_km": 10.6,
+   "lat": -31.9641,
+   "lon": -64.9897,
+   "max_dbz": 54,
+   "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.756,
-   "lon": -64.8804,
-   "max_dbz": 48,
+   "lat": -32.5515,
+   "lon": -64.5147,
+   "max_dbz": 52,
    "tope_km": 8.8,
    "radar": "RMA1",
    "nivel": null
+  },
+  {
+   "lat": -32.7915,
+   "lon": -64.7083,
+   "max_dbz": 51,
+   "tope_km": 8.8,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.1192,
+   "lon": -64.9457,
+   "max_dbz": 49,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": null
   }
  ],
- "localidades": {
-  "Río de los Sauces": {
-   "nivel": "granizo probable",
-   "km": 2.8,
-   "max_dbz": 61,
-   "tope_km": 13.5,
-   "visto": "2026-11-19 08:44"
-  }
- }
+ "localidades": {}
 }
