@@ -1,59 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 00:30",
+ "consultado": "2026-11-19 00:45",
  "alertas": [
-  {
-   "id": "2026_11_19_0132_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-19T01:32:00-03:00",
-   "hasta": "2026-11-19T03:32:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y CAIDA DE GRANIZO",
-   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "FORMOSA: FORMOSA - PILAGAS - PILCOMAYO - PIRANE.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_0132_cap_es.xml",
-   "desde_local": "19/11 01:32",
-   "hasta_local": "19/11 03:32",
-   "localidades": 11,
-   "poligonos": [
-    [
-     [
-      -59.26,
-      -25.67
-     ],
-     [
-      -59.36,
-      -25.47
-     ],
-     [
-      -58.56,
-      -24.88
-     ],
-     [
-      -58.17,
-      -25.08
-     ],
-     [
-      -57.99,
-      -25.53
-     ],
-     [
-      -58.47,
-      -26.01
-     ],
-     [
-      -59.14,
-      -25.88
-     ],
-     [
-      -59.26,
-      -25.67
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_19_0312_cap_es",
    "tipo": "aviso a corto plazo",
@@ -46265,7 +46213,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Buena Vista (Formosa)": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46285,7 +46232,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Colonia Pastoril": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46299,7 +46245,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "El Espinillo (Formosa)": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46320,7 +46265,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Gran Guardia": [
-   "2026_11_19_0132_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_43",
@@ -46333,7 +46277,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Laguna Blanca (Formosa)": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46341,7 +46284,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Laguna Gallo": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46349,7 +46291,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Laguna Naick-Neck": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46389,7 +46330,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Pirané": [
-   "2026_11_19_0132_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_43",
@@ -46408,7 +46348,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Riacho He-He": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46435,7 +46374,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Siete Palmas": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
@@ -46449,7 +46387,6 @@
    "CAP_20261118202705_Tormenta_Llanura_alertas_alertas_40"
   ],
   "Tres Lagunas": [
-   "2026_11_19_0132_cap_es",
    "2026_11_19_0322_cap_es",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_43",
    "CAP_20261118202706_Tormenta_Patagonia_alertas_alertas_40",
