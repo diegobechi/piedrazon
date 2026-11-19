@@ -1,215 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 16:16",
+ "consultado": "2026-11-19 16:30",
  "alertas": [
-  {
-   "id": "2026_11_19_1813_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-19T18:13:00-03:00",
-   "hasta": "2026-11-19T19:13:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CORDOBA: CALAMUCHITA - RIO CUARTO - TERCERO ARRIBA.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1813_cap_es.xml",
-   "desde_local": "19/11 18:13",
-   "hasta_local": "19/11 19:13",
-   "localidades": 15,
-   "poligonos": [
-    [
-     [
-      -64.72,
-      -32.33
-     ],
-     [
-      -64.64,
-      -32.14
-     ],
-     [
-      -64.04,
-      -32.17
-     ],
-     [
-      -64.11,
-      -32.5
-     ],
-     [
-      -64.72,
-      -32.33
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_19_1815_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-19T18:15:00-03:00",
-   "hasta": "2026-11-19T19:15:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "MENDOZA: LA PAZ. SAN LUIS: GRAL PEDERNERA - JUAN M.  DE PUEYRREDON.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1815_cap_es.xml",
-   "desde_local": "19/11 18:15",
-   "hasta_local": "19/11 19:15",
-   "localidades": 2,
-   "poligonos": [
-    [
-     [
-      -66.81,
-      -34.11
-     ],
-     [
-      -66.83,
-      -33.9
-     ],
-     [
-      -66.05,
-      -33.82
-     ],
-     [
-      -65.98,
-      -34.16
-     ],
-     [
-      -66.81,
-      -34.11
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_19_1818_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas severas",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-19T18:18:00-03:00",
-   "hasta": "2026-11-19T19:18:00-03:00",
-   "descripcion": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "instruccion": "Seguí las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Evitá circular por calles inundadas o afectadas. Retirá o asegurá objetos que puedan ser arrastrados por el viento. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, ",
-   "zona": "SAN LUIS: CNEL PRINGLES - GRAL PEDERNERA - JUAN M.  DE PUEYRREDON.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1818_cap_es.xml",
-   "desde_local": "19/11 18:18",
-   "hasta_local": "19/11 19:18",
-   "localidades": 1,
-   "poligonos": [
-    [
-     [
-      -66.38,
-      -33.72
-     ],
-     [
-      -66.44,
-      -33.43
-     ],
-     [
-      -65.67,
-      -33.37
-     ],
-     [
-      -65.67,
-      -33.68
-     ],
-     [
-      -66.38,
-      -33.72
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_19_1724_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-19T17:24:00-03:00",
-   "hasta": "2026-11-19T19:24:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CORDOBA: RIO CUARTO.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1724_cap_es.xml",
-   "desde_local": "19/11 17:24",
-   "hasta_local": "19/11 19:24",
-   "localidades": 7,
-   "poligonos": [
-    [
-     [
-      -65.14,
-      -33.72
-     ],
-     [
-      -64.38,
-      -33.82
-     ],
-     [
-      -64.45,
-      -33.24
-     ],
-     [
-      -64.95,
-      -33.15
-     ],
-     [
-      -65.0,
-      -33.44
-     ],
-     [
-      -65.14,
-      -33.72
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_19_1828_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-19T18:28:00-03:00",
-   "hasta": "2026-11-19T19:28:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CORDOBA: JUAREZ CELMAN - RIO CUARTO. SAN LUIS: GRAL PEDERNERA.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1828_cap_es.xml",
-   "desde_local": "19/11 18:28",
-   "hasta_local": "19/11 19:28",
-   "localidades": 26,
-   "poligonos": [
-    [
-     [
-      -65.23,
-      -33.2
-     ],
-     [
-      -64.63,
-      -32.79
-     ],
-     [
-      -63.76,
-      -32.78
-     ],
-     [
-      -63.75,
-      -33.78
-     ],
-     [
-      -65.22,
-      -33.7
-     ],
-     [
-      -65.23,
-      -33.2
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_19_1739_cap_es",
    "tipo": "aviso a corto plazo",
@@ -370,6 +162,90 @@
      [
       -64.99,
       -33.3
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_1914_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-19T19:14:00-03:00",
+   "hasta": "2026-11-19T20:14:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "BUENOS AIRES: CARLOS TEJEDOR - FLORENTINO AMEGHINO - GRAL PINTO - GRAL VILLEGAS - JUNIN - L.  N.  ALEM - LINCOLN.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1914_cap_es.xml",
+   "desde_local": "19/11 19:14",
+   "hasta_local": "19/11 20:14",
+   "localidades": 23,
+   "poligonos": [
+    [
+     [
+      -62.57,
+      -35.14
+     ],
+     [
+      -62.6,
+      -34.41
+     ],
+     [
+      -61.42,
+      -34.42
+     ],
+     [
+      -61.08,
+      -34.68
+     ],
+     [
+      -62.09,
+      -35.5
+     ],
+     [
+      -62.57,
+      -35.14
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_1924_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-19T19:24:00-03:00",
+   "hasta": "2026-11-19T20:24:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "CORDOBA: RIO CUARTO - TERCERO ARRIBA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1924_cap_es.xml",
+   "desde_local": "19/11 19:24",
+   "hasta_local": "19/11 20:24",
+   "localidades": 4,
+   "poligonos": [
+    [
+     [
+      -64.18,
+      -32.48
+     ],
+     [
+      -64.15,
+      -32.25
+     ],
+     [
+      -63.61,
+      -32.36
+     ],
+     [
+      -63.67,
+      -32.67
+     ],
+     [
+      -64.18,
+      -32.48
      ]
     ]
    ]
@@ -44740,65 +44616,9 @@
   }
  ],
  "localidades": {
-  "Bulnes": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Chaján": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Coronel Moldes (Córdoba)": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Las Vertientes": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Malena": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Sampacho": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Suco": [
-   "2026_11_19_1724_cap_es",
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
   "Blaquier": [
    "2026_11_19_1739_cap_es",
+   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -44814,6 +44634,7 @@
   ],
   "Florentino Ameghino (Buenos Aires)": [
    "2026_11_19_1739_cap_es",
+   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -44836,261 +44657,6 @@
    "2026_11_19_1739_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
-  ],
-  "Alto Pelado": [
-   "2026_11_19_1815_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
-  ],
-  "Cazador": [
-   "2026_11_19_1815_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
-  ],
-  "Almafuerte (Córdoba)": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
-  ],
-  "Amboy": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Arroyo San Antonio": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Embalse": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "La Cruz (Córdoba)": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Los Cóndores": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Río Tercero": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
-  ],
-  "San Ignacio (Loteo San Javier)": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Segunda Usina": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Villa Amancay": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Villa El Tala": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Villa La Rivera": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Villa Quillinzo": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Villa Rumipal": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Villa del Dique": [
-   "2026_11_19_1813_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
-  ],
-  "Fraga": [
-   "2026_11_19_1818_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
-  ],
-  "Achiras": [
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Adelia María": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Carnerillo": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Charras": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Chucul": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Coronel Baigorria": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "General Cabrera": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "La Carolina": [
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "La Gilda": [
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Las Acequias": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Las Higueras": [
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Monte de los Gauchos": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Olaeta": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Paso del Durazno": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Río Cuarto": [
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "San Basilio": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Santa Catalina Holmberg": [
-   "2026_11_19_1828_cap_es",
-   "2026_11_19_1857_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Villa Reducción": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "La Punilla": [
-   "2026_11_19_1828_cap_es",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
-   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
-   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Santa Isabel (La Pampa)": [
    "2026_11_19_1839_cap_es",
@@ -45123,6 +44689,55 @@
    "2026_11_19_1844_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
+  ],
+  "Achiras": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "La Carolina": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "La Gilda": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Las Higueras": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Las Vertientes": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Río Cuarto": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Santa Catalina Holmberg": [
+   "2026_11_19_1857_cap_es",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Agua de Oro": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_23",
@@ -45878,7 +45493,19 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
+  "Amboy": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
   "Anisacate": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "Arroyo San Antonio": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
@@ -45926,6 +45553,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
+  "Embalse": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
   "Falda del Carmen": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
@@ -45945,6 +45578,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "La Boca del Río": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "La Cruz (Córdoba)": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
@@ -45993,6 +45632,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Los Cedros": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "Los Cóndores": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
@@ -46064,6 +45709,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
+  "San Ignacio (Loteo San Javier)": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
   "San Ignacio (Loteo Vélez Crespo)": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
@@ -46077,6 +45728,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Santa Rosa de Calamuchita": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "Segunda Usina": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
@@ -46118,6 +45775,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
+  "Villa Amancay": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
   "Villa Ciudad Parque Los Reartes": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
@@ -46136,6 +45799,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
+  "Villa El Tala": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
   "Villa General Belgrano": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
@@ -46143,6 +45812,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa La Bolsa": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "Villa La Rivera": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
@@ -46160,6 +45835,18 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
+  "Villa Quillinzo": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "Villa Rumipal": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
   "Villa San Isidro (Córdoba)": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
@@ -46167,6 +45854,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa San Miguel": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
+  ],
+  "Villa del Dique": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_8",
@@ -46201,6 +45894,10 @@
   "Villa Olivari": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_18",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_18"
+  ],
+  "Almafuerte (Córdoba)": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Atahona (Córdoba)": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
@@ -46279,10 +45976,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "General Fotheringham": [
+   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Hernando": [
+   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -46323,6 +46022,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Las Isletillas": [
+   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -46411,6 +46111,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Punta del Agua (Córdoba)": [
+   "2026_11_19_1924_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -46423,6 +46124,10 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
   "Río Segundo": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
+  ],
+  "Río Tercero": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_25"
   ],
@@ -47737,10 +47442,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Pichincha": [
+   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
   "Porvenir": [
+   "2026_11_19_1914_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_7"
   ],
@@ -48176,6 +47883,12 @@
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_13",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_13"
   ],
+  "Adelia María": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
   "Alcira Gigena": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
@@ -48206,6 +47919,48 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
+  "Bulnes": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Carnerillo": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Chaján": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Charras": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Chucul": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Coronel Baigorria": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Coronel Moldes (Córdoba)": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
   "El Rastreador": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
@@ -48213,6 +47968,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Elena": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "General Cabrera": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -48242,6 +48003,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
+  "Las Acequias": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
   "Las Peñas (dpto. Río Cuarto, Córdoba)": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
@@ -48254,13 +48021,55 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
+  "Malena": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Monte de los Gauchos": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Olaeta": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
   "Pacheco de Melo": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
+  "Paso del Durazno": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Sampacho": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "San Basilio": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
   "Santa Eufemia": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Suco": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -48279,6 +48088,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Vicuña Mackenna": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Villa Reducción": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -49708,6 +49523,12 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "La Punilla": [
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
+   "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
+   "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Los Molles": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
@@ -50152,6 +49973,10 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
+  "Cazador": [
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
+  ],
   "Cerro Colorado (San Luis)": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
@@ -50216,7 +50041,15 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
+  "Alto Pelado": [
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
+  ],
   "Country Club Los Caldenes": [
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
+  ],
+  "Fraga": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
@@ -50647,6 +50480,63 @@
   ],
   "Los Cajones": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_16"
+  ],
+  "Alberdi Viejo": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Arenaza": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Bermúdez": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Carlos Salas": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Colonia San Ricardo": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "El Dorado": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "General Pinto": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Germania": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Juan Bautista Alberdi (Buenos Aires)": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Laplacette": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Leandro N. Alem (Buenos Aires)": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Lincoln": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Pasteur": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Roberts": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Timote": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Triunvirato": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Vedia": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Villa Francia": [
+   "2026_11_19_1914_cap_es"
+  ],
+  "Villa Roth": [
+   "2026_11_19_1914_cap_es"
   ]
  }
 }
