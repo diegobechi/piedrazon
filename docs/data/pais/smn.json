@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 15:16",
+ "consultado": "2026-11-19 15:30",
  "alertas": [
   {
    "id": "2026_11_19_1730_cap_es",
@@ -162,6 +162,126 @@
      [
       -66.41,
       -33.73
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_1813_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-19T18:13:00-03:00",
+   "hasta": "2026-11-19T19:13:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CORDOBA: CALAMUCHITA - RIO CUARTO - TERCERO ARRIBA.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1813_cap_es.xml",
+   "desde_local": "19/11 18:13",
+   "hasta_local": "19/11 19:13",
+   "localidades": 15,
+   "poligonos": [
+    [
+     [
+      -64.72,
+      -32.33
+     ],
+     [
+      -64.64,
+      -32.14
+     ],
+     [
+      -64.04,
+      -32.17
+     ],
+     [
+      -64.11,
+      -32.5
+     ],
+     [
+      -64.72,
+      -32.33
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_1815_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+   "desde": "2026-11-19T18:15:00-03:00",
+   "hasta": "2026-11-19T19:15:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "MENDOZA: LA PAZ. SAN LUIS: GRAL PEDERNERA - JUAN M.  DE PUEYRREDON.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1815_cap_es.xml",
+   "desde_local": "19/11 18:15",
+   "hasta_local": "19/11 19:15",
+   "localidades": 2,
+   "poligonos": [
+    [
+     [
+      -66.81,
+      -34.11
+     ],
+     [
+      -66.83,
+      -33.9
+     ],
+     [
+      -66.05,
+      -33.82
+     ],
+     [
+      -65.98,
+      -34.16
+     ],
+     [
+      -66.81,
+      -34.11
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_1818_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas severas",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+   "desde": "2026-11-19T18:18:00-03:00",
+   "hasta": "2026-11-19T19:18:00-03:00",
+   "descripcion": "TORMENTAS SEVERAS CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+   "instruccion": "Seguí las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Evitá circular por calles inundadas o afectadas. Retirá o asegurá objetos que puedan ser arrastrados por el viento. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, ",
+   "zona": "SAN LUIS: CNEL PRINGLES - GRAL PEDERNERA - JUAN M.  DE PUEYRREDON.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_1818_cap_es.xml",
+   "desde_local": "19/11 18:18",
+   "hasta_local": "19/11 19:18",
+   "localidades": 1,
+   "poligonos": [
+    [
+     [
+      -66.38,
+      -33.72
+     ],
+     [
+      -66.44,
+      -33.43
+     ],
+     [
+      -65.67,
+      -33.37
+     ],
+     [
+      -65.67,
+      -33.68
+     ],
+     [
+      -66.38,
+      -33.72
      ]
     ]
    ]
@@ -36785,6 +36905,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Amboy": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -36797,6 +36918,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Arroyo San Antonio": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -36845,6 +36967,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Embalse": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -36875,6 +36998,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "La Cruz (Córdoba)": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -36929,6 +37053,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Los Cóndores": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37001,6 +37126,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "San Ignacio (Loteo San Javier)": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37025,6 +37151,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Segunda Usina": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37067,6 +37194,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa Amancay": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37091,6 +37219,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa El Tala": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37109,6 +37238,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa La Rivera": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37127,12 +37257,14 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa Quillinzo": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa Rumipal": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -37151,6 +37283,7 @@
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Villa del Dique": [
+   "2026_11_19_1813_cap_es",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_16",
    "CAP_20261119120352_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119120352_Tormenta_Llanura_alertas_alertas_16",
@@ -40520,6 +40653,7 @@
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_9"
   ],
   "Cazador": [
+   "2026_11_19_1815_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_13",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_9"
@@ -40615,6 +40749,7 @@
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Alto Pelado": [
+   "2026_11_19_1815_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
@@ -40626,6 +40761,7 @@
   ],
   "Fraga": [
    "2026_11_19_1805_cap_es",
+   "2026_11_19_1818_cap_es",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_3",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119120352_Tormenta_Cordillera_alertas_alertas_12"
@@ -40860,6 +40996,12 @@
   ],
   "Añelo": [
    "2026_11_19_1730_cap_es"
+  ],
+  "Almafuerte (Córdoba)": [
+   "2026_11_19_1813_cap_es"
+  ],
+  "Río Tercero": [
+   "2026_11_19_1813_cap_es"
   ]
  }
 }
