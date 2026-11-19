@@ -1,68 +1,67 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-19 08:00",
+ "consultado": "2026-11-19 08:15",
  "radares": {
-  "RMA16": "2026-11-19 07:47",
-  "RMA17": "2026-11-19 07:38",
-  "RMA1": "2026-11-19 07:42"
+  "RMA17": "2026-11-19 08:03",
+  "RMA1": "2026-11-19 08:00",
+  "RMA16": "2026-11-19 08:03"
  },
  "nucleos": [
   {
-   "lat": -33.2309,
-   "lon": -65.7399,
-   "max_dbz": 61,
-   "tope_km": 11.7,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.7321,
-   "lon": -65.6626,
-   "max_dbz": 58,
-   "tope_km": 17.0,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.6411,
-   "lon": -65.0773,
-   "max_dbz": 54,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.3857,
-   "lon": -65.243,
-   "max_dbz": 51,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.1948,
-   "lon": -65.8503,
-   "max_dbz": 50,
-   "tope_km": 11.1,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -33.1767,
-   "lon": -65.3976,
-   "max_dbz": 50,
-   "tope_km": 10.6,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.6376,
-   "lon": -65.1326,
-   "max_dbz": 48,
-   "tope_km": 12.9,
+   "lat": -32.7826,
+   "lon": -63.8135,
+   "max_dbz": 68,
+   "tope_km": 16.4,
    "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.8048,
+   "lon": -65.497,
+   "max_dbz": 60,
+   "tope_km": 16.4,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.4679,
+   "lon": -65.1215,
+   "max_dbz": 56,
+   "tope_km": 12.3,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.409,
+   "lon": -65.0418,
+   "max_dbz": 51,
+   "tope_km": 9.4,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.7048,
+   "lon": -65.4749,
+   "max_dbz": 47,
+   "tope_km": 10.0,
+   "radar": "RMA16",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "General Cabrera": {
+   "nivel": "granizo probable",
+   "km": 6.3,
+   "max_dbz": 68,
+   "tope_km": 16.4,
+   "visto": "2026-11-19 08:03"
+  },
+  "General Deheza": {
+   "nivel": "granizo probable",
+   "km": 3.0,
+   "max_dbz": 68,
+   "tope_km": 16.4,
+   "visto": "2026-11-19 08:03"
+  }
+ }
 }
