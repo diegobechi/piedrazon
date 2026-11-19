@@ -1,122 +1,100 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-19 08:45",
+ "consultado": "2026-11-19 09:00",
  "radares": {
-  "RMA1": "2026-11-19 08:28",
-  "RMA17": "2026-11-19 08:27",
-  "RMA16": "2026-11-19 08:36"
+  "RMA17": "2026-11-19 08:44",
+  "RMA16": "2026-11-19 08:44",
+  "RMA1": "2026-11-19 08:46"
  },
  "nucleos": [
   {
-   "lat": -32.4379,
-   "lon": -63.7696,
-   "max_dbz": 69,
+   "lat": -33.1857,
+   "lon": -65.6516,
+   "max_dbz": 64,
+   "tope_km": 15.2,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.5015,
+   "lon": -64.6819,
+   "max_dbz": 61,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.2431,
+   "lon": -65.6822,
+   "max_dbz": 55,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.4802,
+   "lon": -64.5792,
+   "max_dbz": 54,
+   "tope_km": 10.0,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -33.19,
+   "lon": -65.5582,
+   "max_dbz": 54,
+   "tope_km": 11.7,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -33.18,
+   "lon": -65.8471,
+   "max_dbz": 53,
    "tope_km": 14.1,
    "radar": "RMA17",
-   "nivel": "granizo probable"
+   "nivel": null
   },
   {
-   "lat": -32.5378,
-   "lon": -63.3189,
-   "max_dbz": 62,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.1767,
-   "lon": -65.8503,
-   "max_dbz": 61,
-   "tope_km": 16.4,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.2341,
-   "lon": -65.8031,
-   "max_dbz": 56,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.61,
-   "lon": -65.8945,
-   "max_dbz": 56,
-   "tope_km": 10.0,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.4651,
-   "lon": -64.8248,
-   "max_dbz": 55,
-   "tope_km": 12.3,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.7471,
-   "lon": -65.0956,
+   "lat": -32.7594,
+   "lon": -65.0221,
    "max_dbz": 53,
-   "tope_km": 9.4,
+   "tope_km": 11.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.1282,
+   "lon": -65.7088,
+   "max_dbz": 53,
+   "tope_km": 11.7,
    "radar": "RMA1",
    "nivel": null
   },
   {
    "lat": -32.4924,
    "lon": -63.3848,
-   "max_dbz": 52,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.7735,
-   "lon": -65.1436,
    "max_dbz": 51,
-   "tope_km": 12.9,
+   "tope_km": 10.6,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.1767,
-   "lon": -65.4528,
-   "max_dbz": 51,
-   "tope_km": 12.3,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.4742,
-   "lon": -63.2419,
-   "max_dbz": 49,
-   "tope_km": 17.0,
-   "radar": "RMA17",
+   "lat": -32.756,
+   "lon": -64.8804,
+   "max_dbz": 48,
+   "tope_km": 8.8,
+   "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "Arroyo Cabral": {
+  "Río de los Sauces": {
    "nivel": "granizo probable",
-   "km": 9.5,
-   "max_dbz": 62,
-   "tope_km": 17.0,
-   "visto": "2026-11-19 08:27"
-  },
-  "Ausonia": {
-   "nivel": "granizo probable",
-   "km": 8.8,
-   "max_dbz": 62,
-   "tope_km": 17.0,
-   "visto": "2026-11-19 08:27"
-  },
-  "Hernando": {
-   "nivel": "granizo probable",
-   "km": 3.6,
-   "max_dbz": 69,
-   "tope_km": 14.1,
-   "visto": "2026-11-19 08:27"
+   "km": 2.8,
+   "max_dbz": 61,
+   "tope_km": 13.5,
+   "visto": "2026-11-19 08:44"
   }
  }
 }
