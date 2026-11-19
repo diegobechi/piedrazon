@@ -1,130 +1,171 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-19 19:30",
+ "consultado": "2026-11-19 19:45",
  "radares": {
-  "RMA1": "2026-11-19 19:13",
-  "RMA17": "2026-11-19 19:13",
-  "RMA16": "2026-11-19 19:14"
+  "RMA16": "2026-11-19 19:30",
+  "RMA17": "2026-11-19 19:29",
+  "RMA1": "2026-11-19 19:31"
  },
  "nucleos": [
   {
-   "lat": -32.7048,
-   "lon": -64.4037,
-   "max_dbz": 66,
+   "lat": -32.7321,
+   "lon": -65.8393,
+   "max_dbz": 62,
    "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.5408,
-   "lon": -64.7902,
-   "max_dbz": 64,
+   "lat": -32.4953,
+   "lon": -64.5694,
+   "max_dbz": 61,
    "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.7412,
-   "lon": -65.4859,
+   "lat": -32.6593,
+   "lon": -64.3154,
    "max_dbz": 60,
-   "tope_km": 14.1,
+   "tope_km": 17.0,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.4268,
-   "lon": -64.235,
+   "lat": -32.4357,
+   "lon": -64.8374,
+   "max_dbz": 58,
+   "tope_km": 10.6,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.477,
+   "lon": -64.989,
+   "max_dbz": 55,
+   "tope_km": 12.3,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.4357,
+   "lon": -64.1166,
    "max_dbz": 55,
    "tope_km": 10.0,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.8188,
-   "lon": -64.3741,
+   "lat": -32.159,
+   "lon": -64.1489,
    "max_dbz": 55,
-   "tope_km": 14.1,
-   "radar": "RMA17",
+   "tope_km": 10.0,
+   "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.2126,
-   "lon": -64.0198,
-   "max_dbz": 52,
+   "lat": -32.9229,
+   "lon": -64.0393,
+   "max_dbz": 54,
+   "tope_km": 13.5,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.2394,
+   "lon": -64.1274,
+   "max_dbz": 54,
    "tope_km": 7.6,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -32.4179,
-   "lon": -63.256,
+   "lat": -32.7412,
+   "lon": -65.2982,
+   "max_dbz": 53,
+   "tope_km": 12.9,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.2751,
+   "lon": -63.8907,
+   "max_dbz": 53,
+   "tope_km": 8.2,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.9501,
+   "lon": -64.2381,
    "max_dbz": 52,
+   "tope_km": 12.3,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -33.2581,
+   "lon": -64.3044,
+   "max_dbz": 51,
+   "tope_km": 12.3,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.8866,
+   "lon": -65.8061,
+   "max_dbz": 50,
+   "tope_km": 8.8,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.7116,
+   "lon": -65.7626,
+   "max_dbz": 50,
    "tope_km": 11.7,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -32.6866,
-   "lon": -65.1326,
-   "max_dbz": 52,
-   "tope_km": 12.9,
-   "radar": "RMA16",
+   "lat": -32.2037,
+   "lon": -63.7186,
+   "max_dbz": 50,
+   "tope_km": 8.2,
+   "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -32.7321,
-   "lon": -64.9559,
-   "max_dbz": 52,
-   "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.5591,
-   "lon": -64.9448,
-   "max_dbz": 52,
-   "tope_km": 17.0,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.632,
-   "lon": -64.978,
+   "lat": -33.1676,
+   "lon": -63.9952,
    "max_dbz": 49,
    "tope_km": 12.9,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.7382,
-   "lon": -64.6115,
-   "max_dbz": 48,
+   "lat": -33.1495,
+   "lon": -64.1166,
+   "max_dbz": 47,
    "tope_km": 12.9,
-   "radar": "RMA1",
+   "radar": "RMA16",
    "nivel": null
   }
  ],
  "localidades": {
-  "Alcira": {
+  "Almafuerte": {
    "nivel": "granizo probable",
-   "km": 8.2,
-   "max_dbz": 66,
-   "tope_km": 17.0,
-   "visto": "2026-11-19 19:14"
-  },
-  "Coronel Baigorria": {
-   "nivel": "granizo probable",
-   "km": 3.9,
+   "km": 10.0,
    "max_dbz": 55,
-   "tope_km": 14.1,
-   "visto": "2026-11-19 19:13"
+   "tope_km": 10.0,
+   "visto": "2026-11-19 19:31"
   },
-  "Río de los Sauces": {
+  "Río Tercero": {
    "nivel": "granizo probable",
-   "km": 8.6,
-   "max_dbz": 64,
-   "tope_km": 17.0,
-   "visto": "2026-11-19 19:14"
+   "km": 4.5,
+   "max_dbz": 55,
+   "tope_km": 10.0,
+   "visto": "2026-11-19 19:31"
   }
  }
 }
