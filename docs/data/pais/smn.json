@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 19:45",
+ "consultado": "2026-11-19 20:01",
  "alertas": [
   {
    "id": "2026_11_19_2224_cap_es",
@@ -238,6 +238,62 @@
      [
       -66.97,
       -35.08
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_19_2255_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-19T22:55:00-03:00",
+   "hasta": "2026-11-20T00:55:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "MENDOZA: LA PAZ - LAVALLE. SAN LUIS: BELGRANO - CNEL PRINGLES - JUAN M.  DE PUEYRREDON.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_2255_cap_es.xml",
+   "desde_local": "19/11 22:55",
+   "hasta_local": "20/11 00:55",
+   "localidades": 20,
+   "poligonos": [
+    [
+     [
+      -67.53,
+      -32.81
+     ],
+     [
+      -67.09,
+      -33.29
+     ],
+     [
+      -66.87,
+      -33.66
+     ],
+     [
+      -66.29,
+      -33.48
+     ],
+     [
+      -65.78,
+      -33.37
+     ],
+     [
+      -66.13,
+      -33.13
+     ],
+     [
+      -66.13,
+      -32.74
+     ],
+     [
+      -67.42,
+      -32.68
+     ],
+     [
+      -67.53,
+      -32.81
      ]
     ]
    ]
@@ -50021,10 +50077,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
   "Alto Pencoso": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Balde": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -50033,14 +50091,17 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Cerro Colorado (San Luis)": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Chosmes": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Cruz de Piedra (San Luis)": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -50049,26 +50110,32 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "El Chorrillo": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Jarilla": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Juana Koslay": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "La Calera (San Luis)": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "La Punta": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Las Chacras (dpto. Juan Martín de Pueyrredón, San Luis)": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -50077,18 +50144,22 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Salinas del Bebedero": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "San Jerónimo": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "San Luis": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "San Roque (San Luis)": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -50141,10 +50212,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "El Volcán": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Estancia Grande (San Luis)": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -50161,6 +50234,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Nogolí": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -50169,6 +50243,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Potrero de los Funes": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -50185,6 +50260,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Villa de la Quebrada": [
+   "2026_11_19_2255_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
