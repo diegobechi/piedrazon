@@ -1,25 +1,17 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 04:30",
+ "consultado": "2026-11-20 04:45",
  "radares": {
-  "RMA1": "2026-11-20 04:19",
-  "RMA17": "2026-11-20 04:17",
-  "RMA16": "2026-11-20 04:14"
+  "RMA16": "2026-11-20 04:31",
+  "RMA17": "2026-11-20 04:33",
+  "RMA1": "2026-11-20 04:19"
  },
  "nucleos": [
   {
-   "lat": -32.6467,
-   "lon": -64.8798,
-   "max_dbz": 64,
-   "tope_km": 15.8,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.3288,
-   "lon": -64.9567,
+   "lat": -32.0463,
+   "lon": -64.9457,
    "max_dbz": 60,
-   "tope_km": 17.0,
+   "tope_km": 13.5,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
@@ -32,45 +24,28 @@
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.2468,
-   "lon": -64.9677,
-   "max_dbz": 56,
-   "tope_km": 15.2,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.4651,
-   "lon": -64.8578,
-   "max_dbz": 56,
-   "tope_km": 15.8,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.1192,
-   "lon": -64.9457,
-   "max_dbz": 51,
-   "tope_km": 14.7,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -31.8727,
-   "lon": -64.8688,
-   "max_dbz": 50,
-   "tope_km": 14.7,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -31.9367,
-   "lon": -64.9347,
-   "max_dbz": 49,
+   "lat": -32.3288,
+   "lon": -64.9237,
+   "max_dbz": 52,
    "tope_km": 14.7,
    "radar": "RMA17",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "La Población": {
+   "nivel": "granizo probable",
+   "km": 6.0,
+   "max_dbz": 60,
+   "tope_km": 13.5,
+   "visto": "2026-11-20 04:33"
+  },
+  "San Javier y Yacanto": {
+   "nivel": "granizo probable",
+   "km": 9.0,
+   "max_dbz": 60,
+   "tope_km": 13.5,
+   "visto": "2026-11-20 04:33"
+  }
+ }
 }
