@@ -1,11 +1,28 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 06:30",
+ "consultado": "2026-11-20 06:45",
  "radares": {
-  "RMA16": "2026-11-20 06:17",
-  "RMA17": "2026-11-20 06:19"
+  "RMA16": "2026-11-20 06:34",
+  "RMA17": "2026-11-20 06:19",
+  "RMA1": "2026-11-20 06:27"
  },
  "nucleos": [
+  {
+   "lat": -32.1232,
+   "lon": -64.8912,
+   "max_dbz": 58,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.0473,
+   "lon": -64.9669,
+   "max_dbz": 53,
+   "tope_km": 11.1,
+   "radar": "RMA16",
+   "nivel": null
+  },
   {
    "lat": -32.4197,
    "lon": -64.8028,
@@ -23,5 +40,13 @@
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Villa Yacanto": {
+   "nivel": "granizo probable",
+   "km": 10.0,
+   "max_dbz": 58,
+   "tope_km": 11.1,
+   "visto": "2026-11-20 06:27"
+  }
+ }
 }
