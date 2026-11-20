@@ -1,95 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-20 05:30",
+ "consultado": "2026-11-20 05:46",
  "alertas": [
-  {
-   "id": "2026_11_20_0734_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-20T07:34:00-03:00",
-   "hasta": "2026-11-20T08:34:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrastrados por el viento. Cerrá y alejate de puertas y ventanas. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "SANTA FE: GARAY - SAN JAVIER. ENTRE RIOS: FEDERAL - LA PAZ - PARANA - S.  J.  DE FELICIANO.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0734_cap_es.xml",
-   "desde_local": "20/11 07:34",
-   "hasta_local": "20/11 08:34",
-   "localidades": 13,
-   "poligonos": [
-    [
-     [
-      -60.21,
-      -30.8
-     ],
-     [
-      -60.23,
-      -31.2
-     ],
-     [
-      -59.5,
-      -31.22
-     ],
-     [
-      -58.74,
-      -31.18
-     ],
-     [
-      -58.84,
-      -30.4
-     ],
-     [
-      -60.21,
-      -30.8
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_20_0640_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-20T06:40:00-03:00",
-   "hasta": "2026-11-20T08:40:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrastrados por el viento. Cerrá y alejate de puertas y ventanas. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "SANTA FE: BELGRANO - CASTELLANOS - SAN MARTIN. CORDOBA: MARCOS JUAREZ - SAN JUSTO - UNION.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0640_cap_es.xml",
-   "desde_local": "20/11 06:40",
-   "hasta_local": "20/11 08:40",
-   "localidades": 49,
-   "poligonos": [
-    [
-     [
-      -62.71,
-      -31.48
-     ],
-     [
-      -62.25,
-      -32.5
-     ],
-     [
-      -61.56,
-      -32.33
-     ],
-     [
-      -61.69,
-      -31.15
-     ],
-     [
-      -62.56,
-      -31.22
-     ],
-     [
-      -62.71,
-      -31.48
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_20_0648_cap_es",
    "tipo": "aviso a corto plazo",
@@ -55272,208 +55184,6 @@
   }
  ],
  "localidades": {
-  "Aldea San Isidro (El Cimarrón)": [
-   "2026_11_20_0734_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Colonia Avigdor": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Conscripto Bernardi": [
-   "2026_11_20_0734_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "El Solar": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Federal": [
-   "2026_11_20_0734_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "La Paz (Entre Ríos)": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Piedras Blancas": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "San Gustavo": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "San Víctor": [
-   "2026_11_20_0734_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Santa Elena (Entre Ríos)": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Cayastá": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Helvecia (Santa Fe)": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Saladero Mariano Cabal": [
-   "2026_11_20_0734_cap_es"
-  ],
-  "Alicia": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Colonia Iturraspe": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Colonia Marina": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Colonia Prosperidad": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Colonia Santa María (Córdoba)": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Devoto": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "El Fortín": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Estación Luxardo": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "La Francia": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Noetinger": [
-   "2026_11_20_0640_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_25",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_50",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
-  ],
-  "Plaza Luxardo": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Plaza San Francisco": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Quebracho Herrado": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Saira": [
-   "2026_11_20_0640_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_25",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_50",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
-  ],
-  "San Francisco (Córdoba)": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Saturnino María Laspiur": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Barrios Acapulco y Veracruz": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Bauer y Sigel": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Carlos Pellegrini": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Castelar (Santa Fe)": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Castellanos": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Cañada Rosquín": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Colonia Cello": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Colonia Margarita": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Coronel Fraga": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Crispi": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "El Trébol": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Esmeralda": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Estación Clucellas": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Estación Saguier": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Eustolia": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Frontera": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Garibaldi": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Josefina": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Landeta": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Las Petacas": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Los Cardos": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "María Juana": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "María Susana": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Piamonte": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Plaza Clucellas": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "San Antonio (Santa Fe)": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "San Jorge": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Santa Clara de Saguier": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Sastre": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Traill": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Vila": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Villa Josefina": [
-   "2026_11_20_0640_cap_es"
-  ],
-  "Zenón Pereyra": [
-   "2026_11_20_0640_cap_es"
-  ],
   "Bonpland (Corrientes)": [
    "2026_11_20_0648_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_51",
@@ -56832,6 +56542,12 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
   ],
+  "Noetinger": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_25",
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_50",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
+  ],
   "Ordoñez": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_50",
@@ -56857,6 +56573,12 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
   ],
   "Ramón J. Cárcano": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_25",
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_50",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
+  ],
+  "Saira": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_25",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_50",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
@@ -56952,6 +56674,10 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_25",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_50"
   ],
+  "Aldea San Isidro (El Cimarrón)": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Benito Legerén": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
@@ -56988,6 +56714,10 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "Conscripto Bernardi": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Estación Yeruá": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
@@ -57001,6 +56731,10 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Federación": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Federal": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
@@ -57053,6 +56787,10 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
   "San Salvador": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "San Víctor": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
