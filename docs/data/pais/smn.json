@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 22:48",
+ "consultado": "2026-11-19 23:00",
  "alertas": [
   {
    "id": "2026_11_20_0009_cap_es",
@@ -86,6 +86,58 @@
      [
       -66.84,
       -32.64
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0155_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T01:55:00-03:00",
+   "hasta": "2026-11-20T03:55:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CORRIENTES: CURUZU CUATIA - MONTE CASEROS - PASO DE LOS LIBRES. ENTRE RIOS: FEDERACION - S.  J.  DE FELICIANO.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0155_cap_es.xml",
+   "desde_local": "20/11 01:55",
+   "hasta_local": "20/11 03:55",
+   "localidades": 19,
+   "poligonos": [
+    [
+     [
+      -58.77,
+      -30.41
+     ],
+     [
+      -57.88,
+      -31.17
+     ],
+     [
+      -57.72,
+      -30.46
+     ],
+     [
+      -57.36,
+      -30.02
+     ],
+     [
+      -57.77,
+      -29.79
+     ],
+     [
+      -58.16,
+      -29.69
+     ],
+     [
+      -58.43,
+      -30.1
+     ],
+     [
+      -58.77,
+      -30.41
      ]
     ]
    ]
@@ -41413,6 +41465,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Parada Pucheta": [
+   "2026_11_20_0155_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -42625,6 +42678,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_24"
   ],
   "Cazadores Correntinos": [
+   "2026_11_20_0155_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_28",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_28"
   ],
@@ -42645,6 +42699,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_28"
   ],
   "Curuzú Cuatiá": [
+   "2026_11_20_0155_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_28",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_28"
   ],
@@ -46502,6 +46557,54 @@
   ],
   "Villa Atuel Norte": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_11"
+  ],
+  "Colonia Libertad": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Estación Libertad": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Juan Pujol": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Mocoretá": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Monte Caseros": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Parada Acuña": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Parada Labougle": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Chajarí": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Colonia Alemana": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Federación": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Los Conquistadores": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "San Jaime de la Frontera": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "San Pedro (Entre Ríos)": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "San Ramón": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Santa Ana (Entre Ríos)": [
+   "2026_11_20_0155_cap_es"
+  ],
+  "Villa del Rosario (Entre Ríos)": [
+   "2026_11_20_0155_cap_es"
   ]
  }
 }
