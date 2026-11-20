@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-20 07:07",
+ "consultado": "2026-11-20 07:15",
  "alertas": [
   {
    "id": "2026_11_20_0926_cap_es",
@@ -174,6 +174,50 @@
      [
       -58.86,
       -26.32
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_1003_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas severas",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T10:03:00-03:00",
+   "hasta": "2026-11-20T12:03:00-03:00",
+   "descripcion": "TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Seguí las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Evitá circular por calles inundadas o afectadas. Retirá o asegurá objetos que puedan ser arrastrados por el viento. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, ",
+   "zona": "CHACO: 1 DE MAYO - BERMEJO - LIBERTAD - SAN FERNANDO. SANTA FE: GRAL OBLIGADO. CORRIENTES: CORRIENTES - EMPEDRADO - ITATI - SALADAS - SAN COSME - SAN LUIS DEL PALMAR.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_1003_cap_es.xml",
+   "desde_local": "20/11 10:03",
+   "hasta_local": "20/11 12:03",
+   "localidades": 22,
+   "poligonos": [
+    [
+     [
+      -59.59,
+      -27.77
+     ],
+     [
+      -58.97,
+      -27.13
+     ],
+     [
+      -58.46,
+      -27.31
+     ],
+     [
+      -58.08,
+      -27.54
+     ],
+     [
+      -58.72,
+      -28.24
+     ],
+     [
+      -59.59,
+      -27.77
      ]
     ]
    ]
@@ -47241,11 +47285,13 @@
   ],
   "Basail": [
    "2026_11_20_0943_cap_es",
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Empedrado": [
    "2026_11_20_0943_cap_es",
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -48597,14 +48643,17 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Corrientes": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "El Sombrero": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Ingenio Primer Correntino": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -48633,6 +48682,7 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Paso de la Patria": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -48641,6 +48691,7 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Riachuelo": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -48649,22 +48700,27 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "San Cayetano (Corrientes)": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "San Cosme": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "San Lorenzo (Corrientes)": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "San Luis del Palmar": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
   "Santa Ana (Corrientes)": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_19",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_19"
   ],
@@ -49361,18 +49417,22 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Barranqueras": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Barrio de los Pescadores": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Colonia Baranda": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Colonia Benítez": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
@@ -49385,6 +49445,7 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Fontana": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
@@ -49409,18 +49470,22 @@
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Margarita Belén": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Puerto Tirol": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Puerto Vilelas": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
   "Resistencia": [
+   "2026_11_20_1003_cap_es",
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_17",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_17"
   ],
@@ -52515,6 +52580,9 @@
   "Yacuy": [
    "CAP_20261120084303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261120084303_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Isla del Cerrito": [
+   "2026_11_20_1003_cap_es"
   ]
  }
 }
