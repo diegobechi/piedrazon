@@ -1,45 +1,4 @@
 {
- "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0009_cap_es.xml": {
-  "id": "2026_11_20_0009_cap_es",
-  "tipo": "aviso a corto plazo",
-  "evento": "Tormentas fuertes",
-  "nivel": "naranja",
-  "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-  "desde": "2026-11-20T00:09:00-03:00",
-  "hasta": "2026-11-20T02:09:00-03:00",
-  "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-  "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-  "zona": "MENDOZA: GRAL ALVEAR. SAN LUIS: GDOR DUPUY.",
-  "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0009_cap_es.xml",
-  "poligonos": [
-   [
-    [
-     -67.15,
-     -35.28
-    ],
-    [
-     -66.9,
-     -35.81
-    ],
-    [
-     -65.2,
-     -35.95
-    ],
-    [
-     -65.13,
-     -35.33
-    ],
-    [
-     -65.38,
-     -34.87
-    ],
-    [
-     -67.15,
-     -35.28
-    ]
-   ]
-  ]
- },
  "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0101_cap_es.xml": {
   "id": "2026_11_20_0101_cap_es",
   "tipo": "aviso a corto plazo",
@@ -46740,6 +46699,51 @@
     [
      -58.77,
      -30.41
+    ]
+   ]
+  ]
+ },
+ "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0206_cap_es.xml": {
+  "id": "2026_11_20_0206_cap_es",
+  "tipo": "aviso a corto plazo",
+  "evento": "Tormentas fuertes",
+  "nivel": "naranja",
+  "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+  "desde": "2026-11-20T02:06:00-03:00",
+  "hasta": "2026-11-20T04:06:00-03:00",
+  "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
+  "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+  "zona": "FORMOSA: BERMEJO - PATINO.",
+  "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0206_cap_es.xml",
+  "poligonos": [
+   [
+    [
+     -60.76,
+     -23.86
+    ],
+    [
+     -60.96,
+     -24.12
+    ],
+    [
+     -60.19,
+     -24.54
+    ],
+    [
+     -59.7,
+     -24.15
+    ],
+    [
+     -60.04,
+     -24.0
+    ],
+    [
+     -60.4,
+     -23.97
+    ],
+    [
+     -60.76,
+     -23.86
     ]
    ]
   ]
