@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-20 01:16",
+ "consultado": "2026-11-20 01:30",
  "alertas": [
   {
    "id": "2026_11_20_0247_cap_es",
@@ -182,6 +182,50 @@
      [
       -58.03,
       -30.09
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0419_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T04:19:00-03:00",
+   "hasta": "2026-11-20T06:19:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrastrados por el viento. Cerrá y alejate de puertas y ventanas. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "SANTA FE: GARAY - SAN JAVIER - SAN JUSTO. CORRIENTES: ESQUINA - SAUCE. ENTRE RIOS: FEDERAL - LA PAZ - S.  J.  DE FELICIANO.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0419_cap_es.xml",
+   "desde_local": "20/11 04:19",
+   "hasta_local": "20/11 06:19",
+   "localidades": 14,
+   "poligonos": [
+    [
+     [
+      -60.6,
+      -30.41
+     ],
+     [
+      -60.54,
+      -30.96
+     ],
+     [
+      -59.56,
+      -30.94
+     ],
+     [
+      -58.96,
+      -30.78
+     ],
+     [
+      -58.92,
+      -30.12
+     ],
+     [
+      -60.6,
+      -30.41
      ]
     ]
    ]
@@ -57735,6 +57779,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
   "San Víctor": [
+   "2026_11_20_0419_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
@@ -57899,6 +57944,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_30"
   ],
   "Pueblo Libertador": [
+   "2026_11_20_0419_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_30",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_30"
   ],
@@ -60775,6 +60821,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
   "Cacique Ariacaiquín": [
+   "2026_11_20_0419_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
@@ -60835,6 +60882,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
   "La Brava": [
+   "2026_11_20_0419_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
@@ -60911,6 +60959,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
   "San Javier (Santa Fe)": [
+   "2026_11_20_0419_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
@@ -61349,6 +61398,33 @@
   "Victorica": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_48",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_48"
+  ],
+  "La Paz (Entre Ríos)": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "San Gustavo": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Santa Elena (Entre Ríos)": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Colonia Dolores": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Marcelino Escalada": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Naré": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Ramayón": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Saladero Mariano Cabal": [
+   "2026_11_20_0419_cap_es"
+  ],
+  "Silva": [
+   "2026_11_20_0419_cap_es"
   ]
  }
 }

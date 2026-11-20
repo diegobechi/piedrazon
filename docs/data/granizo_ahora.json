@@ -1,182 +1,160 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 01:15",
+ "consultado": "2026-11-20 01:30",
  "radares": {
-  "RMA17": "2026-11-20 01:02",
-  "RMA1": "2026-11-20 00:58",
-  "RMA16": "2026-11-20 00:58"
+  "RMA17": "2026-11-20 01:18",
+  "RMA16": "2026-11-20 01:14",
+  "RMA1": "2026-11-20 01:17"
  },
  "nucleos": [
   {
-   "lat": -32.1769,
-   "lon": -64.5254,
-   "max_dbz": 68,
-   "tope_km": 17.0,
+   "lat": -32.1322,
+   "lon": -64.278,
+   "max_dbz": 65,
+   "tope_km": 14.7,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
    "lat": -32.7916,
-   "lon": -63.7366,
+   "lon": -63.7036,
    "max_dbz": 57,
    "tope_km": 13.5,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.6137,
-   "lon": -65.7399,
-   "max_dbz": 54,
+   "lat": -32.7192,
+   "lon": -63.3738,
+   "max_dbz": 55,
    "tope_km": 12.9,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.6866,
-   "lon": -65.5853,
-   "max_dbz": 54,
-   "tope_km": 14.1,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.6557,
-   "lon": -63.4728,
-   "max_dbz": 52,
-   "tope_km": 13.5,
    "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.5044,
+   "lon": -65.8945,
+   "max_dbz": 55,
+   "tope_km": 10.6,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.7048,
+   "lon": -65.3976,
+   "max_dbz": 53,
+   "tope_km": 12.3,
+   "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.6316,
-   "lon": -64.0198,
-   "max_dbz": 52,
-   "tope_km": 11.7,
+   "lat": -32.5426,
+   "lon": -63.8584,
+   "max_dbz": 53,
+   "tope_km": 11.1,
    "radar": "RMA1",
    "nivel": null
   },
   {
    "lat": -32.5515,
-   "lon": -64.1704,
-   "max_dbz": 52,
+   "lon": -63.9552,
+   "max_dbz": 53,
    "tope_km": 11.1,
    "radar": "RMA1",
    "nivel": null
   },
   {
-   "lat": -32.723,
-   "lon": -65.6847,
+   "lat": -32.6013,
+   "lon": -63.8795,
    "max_dbz": 52,
-   "tope_km": 14.7,
-   "radar": "RMA16",
+   "tope_km": 12.9,
+   "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.8048,
+   "lat": -32.4651,
+   "lon": -65.4514,
+   "max_dbz": 51,
+   "tope_km": 11.1,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.5196,
+   "lon": -64.0773,
+   "max_dbz": 50,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.4588,
    "lon": -65.6626,
-   "max_dbz": 52,
-   "tope_km": 12.9,
+   "max_dbz": 50,
+   "tope_km": 10.0,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.1557,
-   "lon": -64.4621,
-   "max_dbz": 51,
+   "lat": -32.6013,
+   "lon": -63.3628,
+   "max_dbz": 48,
    "tope_km": 13.5,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.7011,
-   "lon": -63.8905,
-   "max_dbz": 51,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.8459,
-   "lon": -63.8575,
-   "max_dbz": 50,
-   "tope_km": 12.9,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.4892,
-   "lon": -64.3318,
-   "max_dbz": 50,
-   "tope_km": 10.6,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.1676,
-   "lon": -65.2651,
-   "max_dbz": 49,
-   "tope_km": 11.1,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.8412,
-   "lon": -65.5632,
+   "lat": -32.7101,
+   "lon": -63.7915,
    "max_dbz": 47,
-   "tope_km": 12.9,
-   "radar": "RMA16",
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.7293,
+   "lon": -65.343,
+   "max_dbz": 47,
+   "tope_km": 10.0,
+   "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "Amboy": {
+  "Almafuerte": {
    "nivel": "granizo probable",
-   "km": 4.7,
-   "max_dbz": 68,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 00:58"
+   "km": 8.5,
+   "max_dbz": 65,
+   "tope_km": 14.7,
+   "visto": "2026-11-20 01:17"
   },
   "General Deheza": {
    "nivel": "granizo probable",
-   "km": 6.2,
+   "km": 8.9,
    "max_dbz": 57,
    "tope_km": 13.5,
-   "visto": "2026-11-20 01:02"
+   "visto": "2026-11-20 01:18"
   },
-  "San Ignacio": {
+  "Las Bajadas": {
    "nivel": "granizo probable",
-   "km": 3.5,
-   "max_dbz": 68,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 00:58"
+   "km": 7.4,
+   "max_dbz": 65,
+   "tope_km": 14.7,
+   "visto": "2026-11-20 01:17"
   },
-  "Villa Amancay": {
+  "Pasco": {
    "nivel": "granizo probable",
-   "km": 6.9,
-   "max_dbz": 68,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 00:58"
+   "km": 4.3,
+   "max_dbz": 55,
+   "tope_km": 12.9,
+   "visto": "2026-11-20 01:18"
   },
-  "Villa Quillinzo": {
+  "Ticino": {
    "nivel": "granizo probable",
-   "km": 7.3,
-   "max_dbz": 68,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 00:58"
-  },
-  "Villa Rumipal": {
-   "nivel": "granizo probable",
-   "km": 4.1,
-   "max_dbz": 68,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 00:58"
-  },
-  "Villa del Dique": {
-   "nivel": "granizo probable",
-   "km": 9.9,
-   "max_dbz": 68,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 00:58"
+   "km": 6.3,
+   "max_dbz": 55,
+   "tope_km": 12.9,
+   "visto": "2026-11-20 01:18"
   }
  }
 }
