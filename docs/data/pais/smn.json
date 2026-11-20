@@ -1,107 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-20 03:46",
+ "consultado": "2026-11-20 04:01",
  "alertas": [
-  {
-   "id": "2026_11_20_0446_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-20T04:46:00-03:00",
-   "hasta": "2026-11-20T06:46:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "CORRIENTES: CURUZU CUATIA - MONTE CASEROS - SAUCE. ENTRE RIOS: CONCORDIA - FEDERACION - FEDERAL - S.  J.  DE FELICIANO.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0446_cap_es.xml",
-   "desde_local": "20/11 04:46",
-   "hasta_local": "20/11 06:46",
-   "localidades": 12,
-   "poligonos": [
-    [
-     [
-      -58.89,
-      -30.09
-     ],
-     [
-      -58.93,
-      -30.87
-     ],
-     [
-      -58.48,
-      -30.93
-     ],
-     [
-      -57.87,
-      -31.06
-     ],
-     [
-      -57.77,
-      -30.4
-     ],
-     [
-      -58.06,
-      -30.1
-     ],
-     [
-      -58.89,
-      -30.09
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_20_0549_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas severas",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-20T05:49:00-03:00",
-   "hasta": "2026-11-20T06:49:00-03:00",
-   "descripcion": "TORMENTAS SEVERAS CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Seguí las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Evitá circular por calles inundadas o afectadas. Retirá o asegurá objetos que puedan ser arrastrados por el viento. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, ",
-   "zona": "CORRIENTES: CURUZU CUATIA - MERCEDES - MONTE CASEROS - PASO DE LOS LIBRES.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0549_cap_es.xml",
-   "desde_local": "20/11 05:49",
-   "hasta_local": "20/11 06:49",
-   "localidades": 10,
-   "poligonos": [
-    [
-     [
-      -58.46,
-      -30.16
-     ],
-     [
-      -58.18,
-      -30.26
-     ],
-     [
-      -57.86,
-      -30.46
-     ],
-     [
-      -57.66,
-      -30.31
-     ],
-     [
-      -57.33,
-      -29.87
-     ],
-     [
-      -57.67,
-      -29.56
-     ],
-     [
-      -58.09,
-      -29.72
-     ],
-     [
-      -58.46,
-      -30.16
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_20_0504_cap_es",
    "tipo": "aviso a corto plazo",
@@ -234,6 +134,58 @@
      [
       -62.71,
       -31.48
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0648_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T06:48:00-03:00",
+   "hasta": "2026-11-20T08:48:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CORRIENTES: CURUZU CUATIA - MERCEDES - MONTE CASEROS - PASO DE LOS LIBRES. ENTRE RIOS: FEDERACION - S.  J.  DE FELICIANO.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0648_cap_es.xml",
+   "desde_local": "20/11 06:48",
+   "hasta_local": "20/11 08:48",
+   "localidades": 8,
+   "poligonos": [
+    [
+     [
+      -58.66,
+      -30.32
+     ],
+     [
+      -58.35,
+      -30.5
+     ],
+     [
+      -57.95,
+      -30.58
+     ],
+     [
+      -57.55,
+      -30.16
+     ],
+     [
+      -57.3,
+      -29.86
+     ],
+     [
+      -57.57,
+      -29.65
+     ],
+     [
+      -58.12,
+      -29.84
+     ],
+     [
+      -58.66,
+      -30.32
      ]
     ]
    ]
@@ -55515,67 +55467,6 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_35",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_54"
   ],
-  "Juan Pujol": [
-   "2026_11_20_0446_cap_es",
-   "2026_11_20_0549_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Mocoretá": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
-  ],
-  "Chajarí": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Colonia Alemana": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Federación": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Los Conquistadores": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "San Jaime de la Frontera": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "San José de Feliciano": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "San Pedro (Entre Ríos)": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "San Ramón": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Santa Ana (Entre Ríos)": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Villa del Rosario (Entre Ríos)": [
-   "2026_11_20_0446_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
   "Alto Resbaloso - El Barrial": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_26",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_26"
@@ -57137,7 +57028,6 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_44"
   ],
   "Cazadores Correntinos": [
-   "2026_11_20_0549_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_32"
   ],
@@ -57158,7 +57048,6 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Curuzú Cuatiá": [
-   "2026_11_20_0549_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_32",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_32"
   ],
@@ -57472,7 +57361,15 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "Chajarí": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Clodomiro Ledesma": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Colonia Alemana": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
@@ -57508,6 +57405,10 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "Federación": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Federal": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
@@ -57528,6 +57429,10 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "Los Conquistadores": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Nueva Escocia": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
@@ -57544,11 +57449,32 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "San Jaime de la Frontera": [
+   "2026_11_20_0648_cap_es",
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "San José de Feliciano": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "San Pedro (Entre Ríos)": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "San Ramón": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "San Salvador": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
   "San Víctor": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
+  "Santa Ana (Entre Ríos)": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
@@ -57564,28 +57490,40 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "Villa del Rosario (Entre Ríos)": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Colonia Libertad": [
-   "2026_11_20_0549_cap_es",
+   "2026_11_20_0648_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Estación Libertad": [
-   "2026_11_20_0549_cap_es",
+   "2026_11_20_0648_cap_es",
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Juan Pujol": [
+   "2026_11_20_0648_cap_es",
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
+  ],
+  "Mocoretá": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Monte Caseros": [
-   "2026_11_20_0549_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Parada Acuña": [
-   "2026_11_20_0549_cap_es",
+   "2026_11_20_0648_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Parada Labougle": [
-   "2026_11_20_0549_cap_es",
+   "2026_11_20_0648_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_33"
   ],
@@ -61176,7 +61114,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_51"
   ],
   "Bonpland (Corrientes)": [
-   "2026_11_20_0549_cap_es",
+   "2026_11_20_0648_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_51",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_51"
   ],
@@ -61205,7 +61143,7 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_51"
   ],
   "Parada Pucheta": [
-   "2026_11_20_0549_cap_es",
+   "2026_11_20_0648_cap_es",
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_51",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_51"
   ],

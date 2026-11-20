@@ -1,84 +1,52 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 03:45",
+ "consultado": "2026-11-20 04:00",
  "radares": {
-  "RMA1": "2026-11-20 03:24",
-  "RMA16": "2026-11-20 03:34",
-  "RMA17": "2026-11-20 03:28"
+  "RMA1": "2026-11-20 03:52",
+  "RMA16": "2026-11-20 03:42",
+  "RMA17": "2026-11-20 03:44"
  },
  "nucleos": [
   {
-   "lat": -31.6031,
-   "lon": -62.4383,
-   "max_dbz": 62,
-   "tope_km": 11.7,
+   "lat": -31.4861,
+   "lon": -62.0726,
+   "max_dbz": 65,
+   "tope_km": 14.7,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -31.5704,
-   "lon": -62.3406,
+   "lat": -32.3035,
+   "lon": -64.9338,
    "max_dbz": 58,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.6648,
-   "lon": -64.9018,
-   "max_dbz": 56,
-   "tope_km": 17.0,
-   "radar": "RMA17",
+   "tope_km": 14.1,
+   "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
    "lat": -31.9641,
    "lon": -64.9897,
-   "max_dbz": 51,
+   "max_dbz": 54,
    "tope_km": 14.1,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.4833,
-   "lon": -64.8468,
-   "max_dbz": 51,
-   "tope_km": 14.7,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.1679,
-   "lon": -64.1489,
+   "lat": -31.5851,
+   "lon": -62.0403,
    "max_dbz": 50,
-   "tope_km": 6.4,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.2104,
-   "lon": -64.9457,
-   "max_dbz": 49,
-   "tope_km": 15.2,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -31.7379,
-   "lon": -62.3953,
-   "max_dbz": 48,
    "tope_km": 17.0,
    "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "Colonia Prosperidad": {
+  "San Francisco": {
    "nivel": "granizo probable",
-   "km": 5.9,
-   "max_dbz": 62,
-   "tope_km": 11.7,
-   "visto": "2026-11-20 03:24"
+   "km": 7.2,
+   "max_dbz": 65,
+   "tope_km": 14.7,
+   "visto": "2026-11-20 03:52"
   }
  }
 }
