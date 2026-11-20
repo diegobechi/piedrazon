@@ -1,111 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 21:00",
+ "consultado": "2026-11-19 21:15",
  "alertas": [
-  {
-   "id": "2026_11_19_2158_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-19T21:58:00-03:00",
-   "hasta": "2026-11-19T23:58:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "MENDOZA: LA PAZ - SANTA ROSA.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_2158_cap_es.xml",
-   "desde_local": "19/11 21:58",
-   "hasta_local": "19/11 23:58",
-   "localidades": 2,
-   "poligonos": [
-    [
-     [
-      -68.11,
-      -33.66
-     ],
-     [
-      -67.99,
-      -34.15
-     ],
-     [
-      -66.99,
-      -33.98
-     ],
-     [
-      -67.08,
-      -33.58
-     ],
-     [
-      -67.23,
-      -33.45
-     ],
-     [
-      -67.26,
-      -33.15
-     ],
-     [
-      -68.11,
-      -33.66
-     ]
-    ]
-   ]
-  },
-  {
-   "id": "2026_11_19_2215_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "desde": "2026-11-19T22:15:00-03:00",
-   "hasta": "2026-11-20T00:15:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
-   "zona": "MENDOZA: GRAL ALVEAR. SAN LUIS: GDOR DUPUY.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_19_2215_cap_es.xml",
-   "desde_local": "19/11 22:15",
-   "hasta_local": "20/11 00:15",
-   "localidades": 5,
-   "poligonos": [
-    [
-     [
-      -66.97,
-      -35.08
-     ],
-     [
-      -67.43,
-      -35.57
-     ],
-     [
-      -66.78,
-      -35.81
-     ],
-     [
-      -66.05,
-      -35.96
-     ],
-     [
-      -65.23,
-      -35.93
-     ],
-     [
-      -65.27,
-      -35.29
-     ],
-     [
-      -66.3,
-      -34.93
-     ],
-     [
-      -66.65,
-      -34.96
-     ],
-     [
-      -66.97,
-      -35.08
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_19_2255_cap_es",
    "tipo": "aviso a corto plazo",
@@ -158,6 +54,110 @@
      [
       -67.53,
       -32.81
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0013_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T00:13:00-03:00",
+   "hasta": "2026-11-20T01:13:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrastrados por el viento. Cerrá y alejate de puertas y ventanas. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "SAN LUIS: CHACABUCO - CNEL PRINGLES - GRAL PEDERNERA - JUAN M.  DE PUEYRREDON - LDOR GRAL SAN MARTIN.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0013_cap_es.xml",
+   "desde_local": "20/11 00:13",
+   "hasta_local": "20/11 01:13",
+   "localidades": 20,
+   "poligonos": [
+    [
+     [
+      -66.29,
+      -33.49
+     ],
+     [
+      -65.94,
+      -33.74
+     ],
+     [
+      -65.14,
+      -33.86
+     ],
+     [
+      -65.17,
+      -33.43
+     ],
+     [
+      -65.16,
+      -33.04
+     ],
+     [
+      -65.37,
+      -32.76
+     ],
+     [
+      -66.1,
+      -32.73
+     ],
+     [
+      -66.11,
+      -33.11
+     ],
+     [
+      -65.75,
+      -33.37
+     ],
+     [
+      -66.29,
+      -33.49
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0009_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T00:09:00-03:00",
+   "hasta": "2026-11-20T02:09:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "MENDOZA: GRAL ALVEAR. SAN LUIS: GDOR DUPUY.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0009_cap_es.xml",
+   "desde_local": "20/11 00:09",
+   "hasta_local": "20/11 02:09",
+   "localidades": 8,
+   "poligonos": [
+    [
+     [
+      -67.15,
+      -35.28
+     ],
+     [
+      -66.9,
+      -35.81
+     ],
+     [
+      -65.2,
+      -35.95
+     ],
+     [
+      -65.13,
+      -35.33
+     ],
+     [
+      -65.38,
+      -34.87
+     ],
+     [
+      -67.15,
+      -35.28
      ]
     ]
    ]
@@ -41136,41 +41136,6 @@
   }
  ],
  "localidades": {
-  "La Paz (Mendoza)": [
-   "2026_11_19_2158_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
-  ],
-  "Villa Antigua": [
-   "2026_11_19_2158_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
-  ],
-  "Anchorena": [
-   "2026_11_19_2215_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
-  ],
-  "Arizona": [
-   "2026_11_19_2215_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
-  ],
-  "La Maroma": [
-   "2026_11_19_2215_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
-  ],
-  "Martín de Loyola": [
-   "2026_11_19_2215_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
-  ],
-  "Unión": [
-   "2026_11_19_2215_cap_es",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
-   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
-  ],
   "Alta Gracia": [
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
@@ -45404,6 +45369,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
   "San José del Morro": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
@@ -45962,10 +45928,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
   "Naschel": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
   "Renca": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
@@ -45985,7 +45953,18 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
+  "Anchorena": [
+   "2026_11_20_0009_cap_es",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
+  ],
+  "Arizona": [
+   "2026_11_20_0009_cap_es",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
+  ],
   "Bagual": [
+   "2026_11_20_0009_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
@@ -45998,6 +45977,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
   "Fortuna": [
+   "2026_11_20_0009_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
@@ -46005,7 +45985,17 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
+  "La Maroma": [
+   "2026_11_20_0009_cap_es",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
+  ],
   "Los Overos": [
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
+  ],
+  "Martín de Loyola": [
+   "2026_11_20_0009_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
@@ -46018,6 +46008,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
   "Nueva Galia": [
+   "2026_11_20_0009_cap_es",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
+  ],
+  "Unión": [
+   "2026_11_20_0009_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_7",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_15"
   ],
@@ -46121,6 +46117,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "5ta Brigada": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
@@ -46129,18 +46126,22 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Country Club Los Caldenes": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Fraga": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Juan Jorba": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Juan Llerena": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
@@ -46149,10 +46150,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "La Ribera": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "La Toma": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
@@ -46165,22 +46168,27 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Villa Mercedes (San Luis)": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Villa Reynolds": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Villa Salles": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Carolina (San Luis)": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "El Trapiche": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -46195,10 +46203,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "La Florida (San Luis)": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "La Vertiente": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -46220,6 +46230,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Paso Grande": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -46233,10 +46244,12 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Riocito": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Saladillo (San Luis)": [
+   "2026_11_20_0013_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -46386,6 +46399,10 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
   ],
+  "La Paz (Mendoza)": [
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
+  ],
   "Las Catitas": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
@@ -46415,6 +46432,10 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
   ],
   "Tres Porteñas": [
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
+   "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
+  ],
+  "Villa Antigua": [
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_9",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_10"
   ],
