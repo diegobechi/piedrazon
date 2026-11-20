@@ -1,111 +1,71 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-19 22:30",
+ "consultado": "2026-11-19 22:45",
  "radares": {
-  "RMA17": "2026-11-19 22:13",
-  "RMA1": "2026-11-19 22:15",
-  "RMA16": "2026-11-19 22:14"
+  "RMA1": "2026-11-19 22:24",
+  "RMA16": "2026-11-19 22:31",
+  "RMA17": "2026-11-19 22:35"
  },
  "nucleos": [
   {
-   "lat": -33.1314,
-   "lon": -65.4528,
-   "max_dbz": 62,
-   "tope_km": 16.4,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.2309,
+   "lat": -33.0317,
    "lon": -65.0884,
+   "max_dbz": 63,
+   "tope_km": 17.0,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.574,
+   "lon": -64.978,
    "max_dbz": 60,
-   "tope_km": 12.9,
+   "tope_km": 11.1,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.0408,
-   "lon": -65.2761,
-   "max_dbz": 60,
-   "tope_km": 14.7,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.1495,
-   "lon": -65.5522,
-   "max_dbz": 58,
-   "tope_km": 16.4,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.1767,
-   "lon": -65.2761,
-   "max_dbz": 57,
+   "lat": -32.9864,
+   "lon": -65.4749,
+   "max_dbz": 55,
    "tope_km": 14.1,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -31.5491,
-   "lon": -63.4496,
+   "lat": -33.1495,
+   "lon": -65.5411,
    "max_dbz": 55,
-   "tope_km": 6.4,
-   "radar": "RMA1",
-   "nivel": "posible granizo"
-  },
-  {
-   "lat": -31.7537,
-   "lon": -62.8792,
-   "max_dbz": 54,
-   "tope_km": 13.5,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -31.693,
-   "lon": -62.9225,
-   "max_dbz": 54,
-   "tope_km": 8.8,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -33.0045,
-   "lon": -65.5963,
-   "max_dbz": 54,
-   "tope_km": 11.1,
+   "tope_km": 12.3,
    "radar": "RMA16",
-   "nivel": null
+   "nivel": "granizo probable"
   },
   {
-   "lat": -33.592,
-   "lon": -65.1436,
+   "lat": -33.5757,
+   "lon": -64.9237,
    "max_dbz": 53,
-   "tope_km": 10.0,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.6285,
-   "lon": -64.9347,
-   "max_dbz": 52,
    "tope_km": 12.3,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -31.7079,
-   "lon": -63.0331,
-   "max_dbz": 48,
-   "tope_km": 11.1,
-   "radar": "RMA17",
+   "lat": -33.077,
+   "lon": -65.4197,
+   "max_dbz": 51,
+   "tope_km": 12.9,
+   "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -33.0043,
-   "lon": -65.2247,
+   "lat": -31.7019,
+   "lon": -62.8687,
+   "max_dbz": 50,
+   "tope_km": 8.8,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -32.9157,
+   "lon": -65.4399,
    "max_dbz": 47,
    "tope_km": 9.4,
    "radar": "RMA1",
@@ -113,12 +73,12 @@
   }
  ],
  "localidades": {
-  "Villa del Rosario": {
-   "nivel": "posible granizo",
-   "km": 8.1,
-   "max_dbz": 55,
-   "tope_km": 6.4,
-   "visto": "2026-11-19 22:15"
+  "Chaján": {
+   "nivel": "granizo probable",
+   "km": 3.2,
+   "max_dbz": 60,
+   "tope_km": 11.1,
+   "visto": "2026-11-19 22:31"
   }
  }
 }
