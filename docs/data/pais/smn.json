@@ -1,51 +1,7 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-20 03:16",
+ "consultado": "2026-11-20 03:31",
  "alertas": [
-  {
-   "id": "2026_11_20_0419_cap_es",
-   "tipo": "aviso a corto plazo",
-   "evento": "Tormentas fuertes",
-   "nivel": "naranja",
-   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "desde": "2026-11-20T04:19:00-03:00",
-   "hasta": "2026-11-20T06:19:00-03:00",
-   "descripcion": "TORMENTAS FUERTES CON RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
-   "instruccion": "Retirá o asegurá objetos que puedan ser arrastrados por el viento. Cerrá y alejate de puertas y ventanas. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
-   "zona": "SANTA FE: GARAY - SAN JAVIER - SAN JUSTO. CORRIENTES: ESQUINA - SAUCE. ENTRE RIOS: FEDERAL - LA PAZ - S.  J.  DE FELICIANO.",
-   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0419_cap_es.xml",
-   "desde_local": "20/11 04:19",
-   "hasta_local": "20/11 06:19",
-   "localidades": 14,
-   "poligonos": [
-    [
-     [
-      -60.6,
-      -30.41
-     ],
-     [
-      -60.54,
-      -30.96
-     ],
-     [
-      -59.56,
-      -30.94
-     ],
-     [
-      -58.96,
-      -30.78
-     ],
-     [
-      -58.92,
-      -30.12
-     ],
-     [
-      -60.6,
-      -30.41
-     ]
-    ]
-   ]
-  },
   {
    "id": "2026_11_20_0528_cap_es",
    "tipo": "aviso a corto plazo",
@@ -242,6 +198,50 @@
      [
       -59.57,
       -24.7
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0613_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T06:13:00-03:00",
+   "hasta": "2026-11-20T08:13:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+   "zona": "SAN LUIS: BELGRANO - CNEL PRINGLES - JUAN M.  DE PUEYRREDON - LDOR GRAL SAN MARTIN.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0613_cap_es.xml",
+   "desde_local": "20/11 06:13",
+   "hasta_local": "20/11 08:13",
+   "localidades": 21,
+   "poligonos": [
+    [
+     [
+      -67.15,
+      -32.83
+     ],
+     [
+      -67.1,
+      -33.32
+     ],
+     [
+      -65.7,
+      -33.37
+     ],
+     [
+      -65.69,
+      -33.03
+     ],
+     [
+      -65.74,
+      -32.71
+     ],
+     [
+      -67.15,
+      -32.83
      ]
     ]
    ]
@@ -55685,58 +55685,6 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
-  "Pueblo Libertador": [
-   "2026_11_20_0419_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_30",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_30"
-  ],
-  "La Paz (Entre Ríos)": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "San Gustavo": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "San Víctor": [
-   "2026_11_20_0419_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
-  ],
-  "Santa Elena (Entre Ríos)": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "Cacique Ariacaiquín": [
-   "2026_11_20_0419_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
-  ],
-  "Colonia Dolores": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "La Brava": [
-   "2026_11_20_0419_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
-  ],
-  "Marcelino Escalada": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "Naré": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "Ramayón": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "Saladero Mariano Cabal": [
-   "2026_11_20_0419_cap_es"
-  ],
-  "San Javier (Santa Fe)": [
-   "2026_11_20_0419_cap_es",
-   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
-   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
-  ],
-  "Silva": [
-   "2026_11_20_0419_cap_es"
-  ],
   "Alto Resbaloso - El Barrial": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_26",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_26"
@@ -57655,6 +57603,10 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
   ],
+  "San Víctor": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
+  ],
   "Sauce de Luna": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_34"
@@ -57817,6 +57769,10 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_30"
   ],
   "Lavalle (Corrientes)": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_30",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_30"
+  ],
+  "Pueblo Libertador": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_30",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_30"
   ],
@@ -60804,6 +60760,10 @@
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
+  "Cacique Ariacaiquín": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
+  ],
   "Calchaquí": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
@@ -60857,6 +60817,10 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
   "Kilómetro 115": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
+  ],
+  "La Brava": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
@@ -60929,6 +60893,10 @@
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
   "San Antonio de Obligado": [
+   "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
+   "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
+  ],
+  "San Javier (Santa Fe)": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_42",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_42"
   ],
@@ -61343,6 +61311,69 @@
   "Victorica": [
    "CAP_20261120030447_Tormenta_Patagonia_alertas_alertas_48",
    "CAP_20261120030447_Tormenta_Llanura_alertas_alertas_48"
+  ],
+  "Carolina (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Cerro Colorado (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Cruz de Piedra (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "El Chorrillo": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "El Trapiche": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "El Volcán": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Estancia Grande (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Juana Koslay": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "La Calera (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "La Florida (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "La Punta": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "La Vertiente": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Las Chacras (dpto. Juan Martín de Pueyrredón, San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Nogolí": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Potrero de los Funes": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Riocito": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Saladillo (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "San Jerónimo": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "San Luis": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "San Roque (San Luis)": [
+   "2026_11_20_0613_cap_es"
+  ],
+  "Villa de la Quebrada": [
+   "2026_11_20_0613_cap_es"
   ]
  }
 }
