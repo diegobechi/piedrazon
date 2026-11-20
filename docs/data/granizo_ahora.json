@@ -1,52 +1,107 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 04:00",
+ "consultado": "2026-11-20 04:15",
  "radares": {
-  "RMA1": "2026-11-20 03:52",
-  "RMA16": "2026-11-20 03:42",
-  "RMA17": "2026-11-20 03:44"
+  "RMA17": "2026-11-20 04:00",
+  "RMA16": "2026-11-20 03:58",
+  "RMA1": "2026-11-20 04:01"
  },
  "nucleos": [
   {
-   "lat": -31.4861,
-   "lon": -62.0726,
-   "max_dbz": 65,
-   "tope_km": 14.7,
+   "lat": -32.3288,
+   "lon": -64.9127,
+   "max_dbz": 68,
+   "tope_km": 14.1,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.0463,
+   "lon": -64.9457,
+   "max_dbz": 62,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.2104,
+   "lon": -64.9457,
+   "max_dbz": 61,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -31.45,
+   "lon": -61.9435,
+   "max_dbz": 61,
+   "tope_km": 15.8,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.3035,
-   "lon": -64.9338,
-   "max_dbz": 58,
-   "tope_km": 14.1,
-   "radar": "RMA16",
+   "lat": -32.4833,
+   "lon": -64.8468,
+   "max_dbz": 59,
+   "tope_km": 17.0,
+   "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -31.9641,
-   "lon": -64.9897,
-   "max_dbz": 54,
-   "tope_km": 14.1,
+   "lat": -32.0427,
+   "lon": -64.009,
+   "max_dbz": 53,
+   "tope_km": 8.2,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -33.1857,
+   "lon": -63.5314,
+   "max_dbz": 52,
+   "tope_km": 10.6,
+   "radar": "RMA16",
+   "nivel": null
+  },
+  {
+   "lat": -32.565,
+   "lon": -64.8468,
+   "max_dbz": 50,
+   "tope_km": 15.8,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -31.5851,
-   "lon": -62.0403,
+   "lat": -31.9001,
+   "lon": -64.8908,
    "max_dbz": 50,
    "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -31.5671,
+   "lon": -61.9112,
+   "max_dbz": 48,
+   "tope_km": 15.2,
    "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "San Francisco": {
+  "La Población": {
    "nivel": "granizo probable",
-   "km": 7.2,
-   "max_dbz": 65,
-   "tope_km": 14.7,
-   "visto": "2026-11-20 03:52"
+   "km": 6.0,
+   "max_dbz": 62,
+   "tope_km": 17.0,
+   "visto": "2026-11-20 04:00"
+  },
+  "San Javier y Yacanto": {
+   "nivel": "granizo probable",
+   "km": 9.0,
+   "max_dbz": 62,
+   "tope_km": 17.0,
+   "visto": "2026-11-20 04:00"
   }
  }
 }
