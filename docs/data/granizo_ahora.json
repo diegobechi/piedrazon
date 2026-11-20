@@ -1,92 +1,84 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-19 22:00",
+ "consultado": "2026-11-19 22:15",
  "radares": {
-  "RMA17": "2026-11-19 21:48",
-  "RMA16": "2026-11-19 21:41",
-  "RMA1": "2026-11-19 21:47"
+  "RMA1": "2026-11-19 22:06",
+  "RMA17": "2026-11-19 22:04",
+  "RMA16": "2026-11-19 22:06"
  },
  "nucleos": [
   {
-   "lat": -33.077,
-   "lon": -65.5853,
-   "max_dbz": 62,
-   "tope_km": 14.7,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.1948,
-   "lon": -65.6295,
-   "max_dbz": 61,
+   "lat": -33.2219,
+   "lon": -65.0663,
+   "max_dbz": 69,
    "tope_km": 12.3,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.2129,
-   "lon": -65.0994,
-   "max_dbz": 59,
-   "tope_km": 11.7,
+   "lat": -33.1133,
+   "lon": -65.3424,
+   "max_dbz": 62,
+   "tope_km": 14.1,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.5469,
-   "lon": -65.762,
+   "lat": -33.2038,
+   "lon": -65.7178,
+   "max_dbz": 61,
+   "tope_km": 12.9,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -31.7446,
+   "lon": -63.0551,
+   "max_dbz": 60,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.1857,
+   "lon": -65.4307,
+   "max_dbz": 59,
+   "tope_km": 14.1,
+   "radar": "RMA16",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -33.0136,
+   "lon": -65.6736,
    "max_dbz": 58,
    "tope_km": 11.1,
    "radar": "RMA16",
    "nivel": "granizo probable"
   },
   {
-   "lat": -33.1586,
-   "lon": -65.8503,
-   "max_dbz": 57,
-   "tope_km": 14.7,
-   "radar": "RMA16",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -31.772,
-   "lon": -63.2309,
-   "max_dbz": 56,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -33.0317,
-   "lon": -65.0663,
+   "lat": -33.1133,
+   "lon": -65.5853,
    "max_dbz": 52,
-   "tope_km": 11.1,
+   "tope_km": 13.5,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -32.2833,
-   "lon": -64.9677,
-   "max_dbz": 51,
-   "tope_km": 11.7,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.9996,
-   "lon": -63.2639,
-   "max_dbz": 51,
-   "tope_km": 9.4,
-   "radar": "RMA17",
-   "nivel": null
-  },
-  {
-   "lat": -32.6557,
-   "lon": -64.9127,
-   "max_dbz": 49,
-   "tope_km": 11.7,
+   "lat": -33.2341,
+   "lon": -65.4843,
+   "max_dbz": 47,
+   "tope_km": 14.7,
    "radar": "RMA17",
    "nivel": null
   }
  ],
- "localidades": {}
+ "localidades": {
+  "Sacanta": {
+   "nivel": "granizo probable",
+   "km": 9.0,
+   "max_dbz": 60,
+   "tope_km": 17.0,
+   "visto": "2026-11-19 22:04"
+  }
+ }
 }
