@@ -1,57 +1,58 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 05:00",
+ "consultado": "2026-11-20 05:15",
  "radares": {
-  "RMA16": "2026-11-20 04:47",
-  "RMA17": "2026-11-20 04:50"
+  "RMA16": "2026-11-20 05:04",
+  "RMA17": "2026-11-20 04:58"
  },
  "nucleos": [
   {
-   "lat": -31.9367,
-   "lon": -64.9567,
-   "max_dbz": 55,
+   "lat": -32.6376,
+   "lon": -64.9018,
+   "max_dbz": 58,
    "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.0919,
-   "lon": -64.9237,
-   "max_dbz": 48,
+   "lat": -32.0097,
+   "lon": -64.9347,
+   "max_dbz": 56,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": "granizo probable"
+  },
+  {
+   "lat": -32.4924,
+   "lon": -64.8688,
+   "max_dbz": 53,
    "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.3288,
-   "lon": -64.9127,
-   "max_dbz": 48,
-   "tope_km": 14.1,
-   "radar": "RMA17",
+   "lat": -32.5226,
+   "lon": -65.8834,
+   "max_dbz": 50,
+   "tope_km": 11.7,
+   "radar": "RMA16",
    "nivel": null
   }
  ],
  "localidades": {
-  "Las Rabonas": {
+  "La Población": {
    "nivel": "granizo probable",
-   "km": 7.4,
-   "max_dbz": 55,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 04:50"
+   "km": 9.6,
+   "max_dbz": 56,
+   "tope_km": 13.5,
+   "visto": "2026-11-20 04:58"
   },
-  "Los Hornillos": {
+  "San Javier y Yacanto": {
    "nivel": "granizo probable",
-   "km": 5.1,
-   "max_dbz": 55,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 04:50"
-  },
-  "Villa de las Rosas": {
-   "nivel": "granizo probable",
-   "km": 7.5,
-   "max_dbz": 55,
-   "tope_km": 17.0,
-   "visto": "2026-11-20 04:50"
+   "km": 9.6,
+   "max_dbz": 56,
+   "tope_km": 13.5,
+   "visto": "2026-11-20 04:58"
   }
  }
 }
