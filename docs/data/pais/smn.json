@@ -1,6 +1,6 @@
 {
  "fuente": "Servicio Meteorológico Nacional, ssl.smn.gob.ar/CAP",
- "consultado": "2026-11-19 23:46",
+ "consultado": "2026-11-20 00:01",
  "alertas": [
   {
    "id": "2026_11_20_0101_cap_es",
@@ -142,6 +142,46 @@
      [
       -60.76,
       -23.86
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "2026_11_20_0247_cap_es",
+   "tipo": "aviso a corto plazo",
+   "evento": "Tormentas fuertes",
+   "nivel": "naranja",
+   "titulo": "AVISO NARANJA POR TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "desde": "2026-11-20T02:47:00-03:00",
+   "hasta": "2026-11-20T04:47:00-03:00",
+   "descripcion": "TORMENTAS FUERTES CON LLUVIAS INTENSAS, RAFAGAS Y OCASIONAL CAIDA DE GRANIZO",
+   "instruccion": "Retirá o asegurá objetos que puedan ser arrojados por el viento. Cerrá y alejate de puertas y ventanas. No te refugies debajo de marquesinas, carteles publicitarios, árboles o postes. Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. Desconectá los electrodomésticos y cortá el suministro eléctrico si ingresa agua. Alejate de zonas inundables y no ingreses en calles anegadas. Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. Si estás al aire libre, buscá refugio inmediato en un edificio, casa o vehículo cerrado. Para minimizar el rie",
+   "zona": "CORDOBA: CALAMUCHITA - RIO CUARTO. SAN LUIS: AYACUCHO - BELGRANO - CHACABUCO - CNEL PRINGLES - GRAL PEDERNERA - JUAN M.  DE PUEYRREDON - JUNIN - LDOR GRAL SAN MARTIN.",
+   "url": "https://ssl.smn.gob.ar/feeds/CAP/avisocortoplazo/2026_11_20_0247_cap_es.xml",
+   "desde_local": "20/11 02:47",
+   "hasta_local": "20/11 04:47",
+   "localidades": 64,
+   "poligonos": [
+    [
+     [
+      -66.98,
+      -32.55
+     ],
+     [
+      -67.07,
+      -33.28
+     ],
+     [
+      -64.15,
+      -33.34
+     ],
+     [
+      -64.34,
+      -32.26
+     ],
+     [
+      -66.98,
+      -32.55
      ]
     ]
    ]
@@ -41196,6 +41236,7 @@
   ],
   "Achiras": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -41217,6 +41258,7 @@
   ],
   "Villa El Chacay": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_31",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_36",
@@ -41239,11 +41281,13 @@
   ],
   "Carolina (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Cerro Colorado (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -41259,26 +41303,31 @@
   ],
   "Cruz de Piedra (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "El Chorrillo": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "El Trapiche": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "El Volcán": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Estancia Grande (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -41294,21 +41343,25 @@
   ],
   "Juan Llerena": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Juana Koslay": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "La Florida (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "La Punilla": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
@@ -41316,6 +41369,7 @@
   ],
   "La Punta": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -41326,41 +41380,49 @@
   ],
   "La Toma": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_5",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "La Vertiente": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Las Chacras (dpto. Juan Martín de Pueyrredón, San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Las Chacras (dpto. Libertador General San Martín, San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Las Lagunas (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Naschel": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
   "Nogolí": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Papagayos": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
@@ -41368,31 +41430,37 @@
   ],
   "Paso Grande": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Potrerillo": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Potrero de los Funes": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Renca": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
   "Riocito": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Saladillo (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
@@ -41403,16 +41471,19 @@
   ],
   "San Francisco del Monte de Oro": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "San Jerónimo": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "San José del Morro": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
@@ -41425,21 +41496,25 @@
   ],
   "San Pablo (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
   "San Roque (San Luis)": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "Tilisarao": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
   "Villa General Roca": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -41455,11 +41530,13 @@
   ],
   "Villa de la Quebrada": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Villa del Carmen": [
    "2026_11_20_0101_cap_es",
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
@@ -41695,6 +41772,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Cañada del Sauce": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
@@ -41731,6 +41809,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "La Cruz (Córdoba)": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
@@ -41755,6 +41834,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Las Caleras": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
@@ -41807,6 +41887,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
   "Río de los Sauces": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_21",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_21"
   ],
@@ -44323,6 +44404,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_6"
   ],
   "Alpa Corral": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_31",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_36",
@@ -44341,12 +44423,14 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_31"
   ],
   "Las Albahacas": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_31",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_36",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_31"
   ],
   "Lutti": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_31",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_36",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_36",
@@ -44447,30 +44531,35 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_14"
   ],
   "Carpintería (San Luis)": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Cortaderas": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Los Molles": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Merlo (San Luis)": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_34"
   ],
   "Villa Larca": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_34",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_39",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_39",
@@ -45541,6 +45630,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Alcira Gigena": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45565,6 +45655,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Berrotarán": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45595,6 +45686,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Coronel Baigorria": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45613,6 +45705,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Elena": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45643,6 +45736,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "La Carolina": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45655,6 +45749,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "La Gilda": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45667,6 +45762,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Las Higueras": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45679,6 +45775,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Las Vertientes": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45721,6 +45818,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Río Cuarto": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -45739,6 +45837,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_33"
   ],
   "Santa Catalina Holmberg": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_37",
    "CAP_20261119181303_Tormenta_Patagonia_alertas_alertas_33",
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_37",
@@ -46185,6 +46284,7 @@
    "CAP_20261119181302_Tormenta_Llanura_alertas_alertas_32"
   ],
   "Concarán": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_6",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_14"
   ],
@@ -46277,6 +46377,7 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
   "La Calera (San Luis)": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_8",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_17"
   ],
@@ -46305,14 +46406,17 @@
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_13"
   ],
   "Leandro N. Alem (San Luis)": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "San Martín (San Luis)": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
   "Villa de Praga": [
+   "2026_11_20_0247_cap_es",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_4",
    "CAP_20261119181302_Tormenta_Cordillera_alertas_alertas_12"
   ],
