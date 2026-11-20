@@ -1,146 +1,169 @@
 {
  "fuente": "Observatorio Hidro-Meteorológico de Córdoba (OHMC), webmet.ohmc.ar",
- "consultado": "2026-11-20 02:30",
+ "consultado": "2026-11-20 02:45",
  "radares": {
-  "RMA17": "2026-11-20 02:15",
-  "RMA1": "2026-11-20 02:11",
-  "RMA16": "2026-11-20 02:20"
+  "RMA17": "2026-11-20 02:32",
+  "RMA1": "2026-11-20 02:30",
+  "RMA16": "2026-11-20 02:28"
  },
  "nucleos": [
   {
-   "lat": -32.2104,
-   "lon": -64.9567,
+   "lat": -31.8276,
+   "lon": -63.2022,
    "max_dbz": 66,
    "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -32.3379,
-   "lon": -64.9018,
-   "max_dbz": 63,
-   "tope_km": 17.0,
-   "radar": "RMA17",
-   "nivel": "granizo probable"
-  },
-  {
-   "lat": -31.9083,
-   "lon": -63.4711,
-   "max_dbz": 62,
-   "tope_km": 14.1,
    "radar": "RMA1",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.4742,
-   "lon": -64.8578,
+   "lat": -32.7101,
+   "lon": -64.8798,
    "max_dbz": 58,
    "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.5287,
-   "lon": -62.9451,
-   "max_dbz": 55,
-   "tope_km": 13.5,
+   "lat": -32.0828,
+   "lon": -64.9677,
+   "max_dbz": 56,
+   "tope_km": 15.2,
    "radar": "RMA17",
    "nivel": "granizo probable"
   },
   {
-   "lat": -32.5015,
-   "lon": -62.5164,
-   "max_dbz": 53,
-   "tope_km": 12.9,
+   "lat": -31.9458,
+   "lon": -64.9677,
+   "max_dbz": 54,
+   "tope_km": 14.1,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.5159,
-   "lon": -62.5674,
+   "lat": -32.6467,
+   "lon": -64.8798,
    "max_dbz": 53,
-   "tope_km": 11.1,
-   "radar": "RMA1",
-   "nivel": null
-  },
-  {
-   "lat": -32.3035,
-   "lon": -64.8344,
-   "max_dbz": 52,
-   "tope_km": 11.7,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.6376,
-   "lon": -64.8908,
-   "max_dbz": 51,
    "tope_km": 17.0,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.5287,
-   "lon": -62.8022,
-   "max_dbz": 51,
+   "lat": -32.447,
+   "lon": -62.6703,
+   "max_dbz": 53,
    "tope_km": 13.5,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -33.0136,
-   "lon": -65.7951,
-   "max_dbz": 50,
-   "tope_km": 12.3,
-   "radar": "RMA16",
-   "nivel": null
-  },
-  {
-   "lat": -32.5378,
-   "lon": -64.8908,
-   "max_dbz": 49,
-   "tope_km": 15.8,
+   "lat": -31.9915,
+   "lon": -64.9127,
+   "max_dbz": 52,
+   "tope_km": 14.1,
    "radar": "RMA17",
    "nivel": null
   },
   {
-   "lat": -32.7594,
-   "lon": -63.7081,
-   "max_dbz": 49,
+   "lat": -32.3924,
+   "lon": -62.5604,
+   "max_dbz": 52,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.3106,
+   "lon": -64.7808,
+   "max_dbz": 52,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -31.9979,
+   "lon": -63.3205,
+   "max_dbz": 52,
+   "tope_km": 11.1,
+   "radar": "RMA1",
+   "nivel": null
+  },
+  {
+   "lat": -33.0408,
+   "lon": -65.7068,
+   "max_dbz": 51,
    "tope_km": 11.1,
    "radar": "RMA16",
    "nivel": null
   },
   {
-   "lat": -31.8187,
-   "lon": -63.6002,
+   "lat": -32.9454,
+   "lon": -64.9897,
+   "max_dbz": 50,
+   "tope_km": 17.0,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.4742,
+   "lon": -62.8022,
+   "max_dbz": 50,
+   "tope_km": 14.1,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.4924,
+   "lon": -62.4065,
+   "max_dbz": 49,
+   "tope_km": 13.5,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.4833,
+   "lon": -62.9451,
+   "max_dbz": 49,
+   "tope_km": 12.9,
+   "radar": "RMA17",
+   "nivel": null
+  },
+  {
+   "lat": -32.0696,
+   "lon": -63.2882,
    "max_dbz": 48,
-   "tope_km": 7.6,
+   "tope_km": 11.1,
    "radar": "RMA1",
    "nivel": null
   }
  ],
  "localidades": {
-  "Ballesteros": {
+  "Calchín Oeste": {
    "nivel": "granizo probable",
-   "km": 3.9,
-   "max_dbz": 55,
-   "tope_km": 13.5,
-   "visto": "2026-11-20 02:15"
+   "km": 8.2,
+   "max_dbz": 66,
+   "tope_km": 17.0,
+   "visto": "2026-11-20 02:30"
   },
-  "Colonia Videla": {
+  "Carrilobo": {
    "nivel": "granizo probable",
-   "km": 3.3,
-   "max_dbz": 62,
-   "tope_km": 14.1,
-   "visto": "2026-11-20 02:11"
+   "km": 9.4,
+   "max_dbz": 66,
+   "tope_km": 17.0,
+   "visto": "2026-11-20 02:30"
   },
-  "Las Junturas": {
+  "La Población": {
    "nivel": "granizo probable",
-   "km": 9.0,
-   "max_dbz": 62,
-   "tope_km": 14.1,
-   "visto": "2026-11-20 02:11"
+   "km": 2.8,
+   "max_dbz": 56,
+   "tope_km": 15.2,
+   "visto": "2026-11-20 02:32"
+  },
+  "San Javier y Yacanto": {
+   "nivel": "granizo probable",
+   "km": 9.6,
+   "max_dbz": 56,
+   "tope_km": 15.2,
+   "visto": "2026-11-20 02:32"
   }
  }
 }
